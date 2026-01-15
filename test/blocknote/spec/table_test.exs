@@ -1,5 +1,5 @@
-defmodule BlockNote.Spec.TableTest do
-  alias BlockNote.Spec.Table
+defmodule BlockNote.TableTest do
+  alias BlockNote.Table
 
   use ExUnit.Case, async: true
 

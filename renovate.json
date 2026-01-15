@@ -1,22 +1,24 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["config:recommended"],
+  "extends": [
+    "config:recommended",
+    ":semanticCommits",
+    ":semanticCommitTypeAll(chore)"
+  ],
+  "labels": ["dependencies"],
+  "rangeStrategy": "bump",
+  "lockFileMaintenance": {
+    "enabled": true,
+    "automerge": true
+  },
   "packageRules": [
     {
-      "matchUpdateTypes": ["patch"],
-      "automerge": true,
-      "semanticCommitType": "fix"
+      "matchManagers": ["mix"],
+      "groupName": "Elixir dependencies"
     },
     {
-      "matchUpdateTypes": ["major", "minor", "pin", "digest"],
-      "automerge": false,
-      "semanticCommitType": "fix"
-    },
-    {
-      "matchDepTypes": ["devDependencies", "dev-dependencies", "dev"],
-      "automerge": true,
-      "semanticCommitType": "chore"
+      "matchUpdateTypes": ["patch", "minor"],
+      "automerge": true
     }
-  ],
-  "platformAutomerge": true
+  ]
 }

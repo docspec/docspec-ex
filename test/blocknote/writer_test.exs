@@ -1,12 +1,12 @@
-defmodule BlockNote.WriterTest do
+defmodule DocSpec.BlockNote.WriterTest do
   @moduledoc false
   use ExUnit.Case, async: true
   use Mimic
-  doctest BlockNote.Writer
+  doctest DocSpec.BlockNote.Writer
 
   import NLdoc.Test.Snapshot
 
-  alias BlockNote.Writer
+  alias DocSpec.BlockNote.Writer
   alias NLdoc.Spec.Document
   alias NLdoc.Util.Recase
 
@@ -48,7 +48,7 @@ defmodule BlockNote.WriterTest do
 
         # TODO: figure out if we can validate that the result is indeed a valid BlockNote JSON object.
 
-        snapshot_path = "BlockNote.Writer/#{unquote(name)}/#{filename |> Path.basename()}"
+        snapshot_path = "DocSpec.BlockNote.Writer/#{unquote(name)}/#{filename |> Path.basename()}"
         assert_snapshot(json, snapshot_path, format: :json)
       end
     end

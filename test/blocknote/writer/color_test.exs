@@ -1,5 +1,5 @@
-defmodule BlockNote.Writer.ColorTest do
+defmodule DocSpec.BlockNote.Writer.ColorTest do
   @moduledoc false
   use ExUnit.Case, async: true
-  doctest BlockNote.Writer.Color
+  doctest DocSpec.BlockNote.Writer.Color
 end

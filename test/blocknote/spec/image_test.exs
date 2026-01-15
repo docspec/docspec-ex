@@ -1,5 +1,5 @@
-defmodule BlockNote.Spec.ImageTest do
-  alias BlockNote.Spec.Image
+defmodule BlockNote.ImageTest do
+  alias BlockNote.Image
 
   use ExUnit.Case, async: true
 

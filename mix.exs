@@ -1,15 +1,13 @@
 defmodule DocSpec.MixProject do
   use Mix.Project
 
-  @name "DocSpec API"
-  @description "DocSpec Conversion API"
+  @version "0.1.0"
+  @source_url "https://github.com/docspec/docspec-ex"
 
   def project do
     [
-      app: :docspec_api,
-      version: "2.6.2",
-      elixir: "~> 1.18",
-      version: "2.5.0",
+      app: :docspec,
+      version: @version,
       elixir: "~> 1.18",
       start_permanent: Mix.env() == :prod,
       deps: deps(),
@@ -18,10 +16,11 @@ defmodule DocSpec.MixProject do
       elixirc_options: [warnings_as_errors: true],
       test_coverage: [tool: ExCoveralls],
 
-      # Docs and publishing
-      name: @name,
-      description: @description,
-      docs: &docs/0,
+      # Docs
+      name: "DocSpec",
+      description: "DocSpec core library",
+      source_url: @source_url,
+      docs: docs(),
       package: package()
     ]
   end
@@ -40,32 +39,30 @@ defmodule DocSpec.MixProject do
 
   defp docs do
     [
-      extras: ["README.md", "CHANGELOG.md"]
+      main: "readme",
+      extras: ["README.md", "CHANGELOG.md"],
+      source_ref: "v#{@version}",
+      source_url: @source_url
     ]
   end
 
-  def package do
+  defp package do
     [
-      files: [
-        "lib/",
-        "mix.exs",
-        "README.md",
-        "LICENSE",
-        "CHANGELOG.md"
-      ]
+      licenses: ["EUPL-1.2"],
+      links: %{"GitHub" => @source_url},
+      files: ~w(lib mix.exs README.md CHANGELOG.md LICENSE)
     ]
   end
 
-  def dialyzer_config(:test), do: [plt_add_apps: [:ex_unit]]
-  def dialyzer_config(_), do: []
+  defp dialyzer_config(:test), do: [plt_add_apps: [:ex_unit]]
+  defp dialyzer_config(_), do: []
 
-  def elixirc_paths(:test), do: ["lib", "test/support"]
-  def elixirc_paths(_), do: ["lib"]
+  defp elixirc_paths(:test), do: ["lib", "test/support"]
+  defp elixirc_paths(_), do: ["lib"]
 
   def application do
     [
-      extra_applications: [:logger],
-      mod: {DocSpec.Application, []}
+      extra_applications: [:logger]
     ]
   end
 
@@ -78,22 +75,15 @@ defmodule DocSpec.MixProject do
       # Defining data structures
       {:typed_struct, "~> 0.3.0"},
 
-      # Logging
-      {:logger_json, "~> 7.0"},
-
-      # HTTP Server for Plug
-      {:phoenix, "~> 1.7"},
-      {:bandit, "~> 1.0"},
-
       # JSON Parsing
       {:jason, "~> 1.4"},
 
-      # Testing: coverage, JUnit-style test reports for CI, mocking and snapshot testing.
+      # Testing
       {:nldoc_test, "~> 3.0", only: :test},
       {:excoveralls, "~> 0.18", only: :test},
       {:mimic, "~> 2.1", only: :test},
 
-      # Linting & do
+      # Linting & static analysis
       {:dialyxir, "~> 1.4", only: [:dev, :test], runtime: false},
       {:credo, "~> 1.7", only: [:dev, :test], runtime: false},
 

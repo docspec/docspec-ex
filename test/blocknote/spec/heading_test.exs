@@ -1,5 +1,5 @@
-defmodule BlockNote.Spec.HeadingTest do
-  alias BlockNote.Spec.Heading
+defmodule BlockNote.HeadingTest do
+  alias BlockNote.Heading
 
   use ExUnit.Case, async: true
 

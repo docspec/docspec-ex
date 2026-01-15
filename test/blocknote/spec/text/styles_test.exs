@@ -1,5 +1,5 @@
-defmodule BlockNote.Spec.Text.StylesTest do
-  alias BlockNote.Spec.Text.Styles
+defmodule BlockNote.Text.StylesTest do
+  alias BlockNote.Text.Styles
 
   use ExUnit.Case, async: true
 

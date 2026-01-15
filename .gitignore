@@ -10,6 +10,9 @@
 # Where third-party dependencies like ExDoc output generated docs.
 /doc/
 
+# Temporary files, for example, from tests.
+/tmp/
+
 # If the VM crashes, it generates a dump, let's ignore it too.
 erl_crash.dump
 
@@ -17,23 +20,11 @@ erl_crash.dump
 *.ez
 
 # Ignore package tarball (built via "mix hex.build").
-docspec*.tar
+docspec-*.tar
 
-# Output from mix coveralls
-*.coverdata
+# LSP working directories
+/.elixir_ls/
+/.expert/
+/.lexical/
 
-# Temporary files, for example, from tests.
-/tmp/
 
-# Helm chart dependencies
-helm/charts
-
-# Helm chart tests rendered templates
-test/helm/**/actual.yaml
-
-traefik/letsencrypt/*
-
-node_modules/
-dist
-
-test/**/actual.json

@@ -1,5 +1,5 @@
-defmodule BlockNote.Spec.BulletListItemTest do
-  alias BlockNote.Spec.BulletListItem
+defmodule BlockNote.BulletListItemTest do
+  alias BlockNote.BulletListItem
 
   use ExUnit.Case, async: true
 

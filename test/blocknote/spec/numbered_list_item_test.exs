@@ -1,5 +1,5 @@
-defmodule BlockNote.Spec.NumberedListItemTest do
-  alias BlockNote.Spec.NumberedListItem
+defmodule BlockNote.NumberedListItemTest do
+  alias BlockNote.NumberedListItem
 
   use ExUnit.Case, async: true
 
