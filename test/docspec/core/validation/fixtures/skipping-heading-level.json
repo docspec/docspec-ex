@@ -1,0 +1,52 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "id": "9641ff1f-09c8-4a87-a281-ab2029b44401",
+          "text": "Heading 1",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "ee7e4196-63bb-4835-b502-b9e31ce24e07",
+      "level": 1,
+      "type": "https://alpha.docspec.io/Heading"
+    },
+    {
+      "children": [
+        {
+          "id": "b993ba53-2da7-4b98-af56-99c98b9c2340",
+          "text": "Some text paragraph.",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "09acc81d-3344-4c5e-8a2f-d3a3ad25a5df",
+      "type": "https://alpha.docspec.io/Paragraph"
+    },
+    {
+      "children": [
+        {
+          "id": "a5b2d1ed-a6e8-4744-90e4-e8cd63dc515f",
+          "text": "Heading 3",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "3176ade6-c7b0-4424-b386-0fcbadfa8604",
+      "level": 3,
+      "type": "https://alpha.docspec.io/Heading"
+    },
+    {
+      "children": [
+        {
+          "id": "9b1065b9-887b-400b-a751-aa8944fb63fb",
+          "text": "As you see, this heading skipped level 2.",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "fc28e55b-0eb5-44af-8454-f6ad6a56a462",
+      "type": "https://alpha.docspec.io/Paragraph"
+    }
+  ],
+  "id": "4f7484d8-a8af-44e9-a62a-35e71a168331",
+  "type": "https://alpha.docspec.io/Document"
+}

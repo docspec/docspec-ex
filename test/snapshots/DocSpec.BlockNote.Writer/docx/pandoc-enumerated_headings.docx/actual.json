@@ -1,0 +1,59 @@
+[
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "H1",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 1,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "H2",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 2,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "H3",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 3,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "And some text",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  }
+]

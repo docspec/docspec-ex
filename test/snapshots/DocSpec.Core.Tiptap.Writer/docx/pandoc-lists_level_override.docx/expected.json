@@ -1,0 +1,551 @@
+{
+  "attrs": {
+    "assets": {},
+    "id": "00000000-0000-0000-0000-000000000000"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "For each initiative below is outlined the goals, an approximate roadmap which will likely change as we iterate, signals/metrics to measure success, and initial workitems with a rough ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "schedule",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " and contacts where available:",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 1
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "State of Documentation ",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "orderedList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Goal:         Baseline and ongoing metrics tracking doc usefulness and completeness.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 2
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Content Migration ",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "orderedList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Goal: Content is accessible to new employees and is better organized/archived.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 3
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Wiki (xl)",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "orderedList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Goal:         Useful documentation that is archived, searchable and easy to create",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "  ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 4
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "XL Code Autoreview Bot (XLCRBot). ",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "orderedList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Goal:         Feedback on basic violations in seconds or minutes at most in either VS or Codeflow.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 5
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Code documentation",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "orderedList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Goal:        Useful, consistent, tool supported comments ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 6
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Education efforts",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "orderedList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Goal:        Broad, discoverable channels for updates and news",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": " ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    }
+  ],
+  "type": "doc"
+}

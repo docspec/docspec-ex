@@ -1,0 +1,81 @@
+[
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Term 1",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Definition 1",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Term 2 with ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "italic": true
+        },
+        "text": "inline markup",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Definition 2",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "{ some code, part of Definition 2 }",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Third paragraph of definition 2.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  }
+]

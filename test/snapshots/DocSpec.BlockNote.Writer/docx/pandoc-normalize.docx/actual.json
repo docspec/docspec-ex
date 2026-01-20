@@ -1,0 +1,59 @@
+[
+  {
+    "content": [
+      {
+        "styles": {
+          "italic": true
+        },
+        "text": "  ",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": "These are different fonts.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": "These ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "bold": true,
+          "italic": true
+        },
+        "text": "are ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "bold": true,
+          "italic": true,
+          "strike": true
+        },
+        "text": "different",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": " fonts.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  }
+]

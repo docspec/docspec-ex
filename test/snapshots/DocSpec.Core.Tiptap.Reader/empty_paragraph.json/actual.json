@@ -1,0 +1,13 @@
+{
+  "document": {
+    "children": [
+      {
+        "id": "8fe5133c-f8e5-4a96-979b-844620ab243d",
+        "type": "https://alpha.docspec.io/Paragraph"
+      }
+    ],
+    "id": "aa075037-cf9b-40ac-9498-7126c0f35823",
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

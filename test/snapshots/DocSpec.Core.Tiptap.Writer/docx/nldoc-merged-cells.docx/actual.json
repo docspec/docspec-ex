@@ -1,0 +1,162 @@
+{
+  "attrs": {
+    "assets": {},
+    "id": "00000000-0000-0000-0000-000000000000"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 2,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "This cell is merged horizontally (colspan 2)",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "This cell is merged vertically (rowspan 2",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Normal cell",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Normal cell",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        }
+      ],
+      "type": "table"
+    }
+  ],
+  "type": "doc"
+}

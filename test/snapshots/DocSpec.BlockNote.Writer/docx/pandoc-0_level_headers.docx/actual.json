@@ -1,0 +1,331 @@
+[
+  {
+    "content": {
+      "rows": [
+        {
+          "cells": [
+            {
+              "content": [],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": [
+                {
+                  "styles": {},
+                  "text": "User’s Guide",
+                  "type": "text"
+                }
+              ],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": [],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": [],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": [],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": [
+                {
+                  "styles": {},
+                  "text": "11 August 2017",
+                  "type": "text"
+                }
+              ],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": [],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": [],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": [],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": [],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            }
+          ]
+        }
+      ],
+      "type": "tableContent"
+    },
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "table"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "CONTENTS",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 1,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": "SectionPage",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "FIGURESiv",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "TABLESv",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "SECTION 1Introduction2",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "FIGURES",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 1,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": "FigurePage",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": "No table of figures entries found.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "TABLES",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 1,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": "TablePage",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": "No table of figures entries found.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Introduction",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 2,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Nothing to introduce, yet.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "One",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Two",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Three",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Four",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/OrderedList"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

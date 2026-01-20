@@ -1,0 +1,288 @@
+{
+  "attrs": {
+    "assets": {},
+    "id": "00000000-0000-0000-0000-000000000000"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 1
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "This is at the first level",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "start": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "marks": [
+                            {
+                              "attrs": {
+                                "id": "00000000-0000-0000-0000-000000000000"
+                              },
+                              "type": "meta"
+                            }
+                          ],
+                          "text": "This is at the second level",
+                          "type": "text"
+                        }
+                      ],
+                      "type": "paragraph"
+                    },
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "start": 1
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "content": [
+                            {
+                              "attrs": {
+                                "id": "00000000-0000-0000-0000-000000000000"
+                              },
+                              "content": [
+                                {
+                                  "marks": [
+                                    {
+                                      "attrs": {
+                                        "id": "00000000-0000-0000-0000-000000000000"
+                                      },
+                                      "type": "meta"
+                                    }
+                                  ],
+                                  "text": "This is ",
+                                  "type": "text"
+                                },
+                                {
+                                  "marks": [
+                                    {
+                                      "attrs": {
+                                        "id": "00000000-0000-0000-0000-000000000000"
+                                      },
+                                      "type": "meta"
+                                    },
+                                    {
+                                      "type": "italic"
+                                    }
+                                  ],
+                                  "text": "at ",
+                                  "type": "text"
+                                },
+                                {
+                                  "marks": [
+                                    {
+                                      "attrs": {
+                                        "id": "00000000-0000-0000-0000-000000000000"
+                                      },
+                                      "type": "meta"
+                                    },
+                                    {
+                                      "type": "bold"
+                                    },
+                                    {
+                                      "type": "italic"
+                                    }
+                                  ],
+                                  "text": "the ",
+                                  "type": "text"
+                                },
+                                {
+                                  "marks": [
+                                    {
+                                      "attrs": {
+                                        "id": "00000000-0000-0000-0000-000000000000"
+                                      },
+                                      "type": "meta"
+                                    },
+                                    {
+                                      "type": "bold"
+                                    },
+                                    {
+                                      "type": "italic"
+                                    }
+                                  ],
+                                  "text": "t",
+                                  "type": "text"
+                                },
+                                {
+                                  "marks": [
+                                    {
+                                      "attrs": {
+                                        "id": "00000000-0000-0000-0000-000000000000"
+                                      },
+                                      "type": "meta"
+                                    },
+                                    {
+                                      "type": "bold"
+                                    },
+                                    {
+                                      "type": "italic"
+                                    }
+                                  ],
+                                  "text": "h",
+                                  "type": "text"
+                                },
+                                {
+                                  "marks": [
+                                    {
+                                      "attrs": {
+                                        "id": "00000000-0000-0000-0000-000000000000"
+                                      },
+                                      "type": "meta"
+                                    },
+                                    {
+                                      "type": "bold"
+                                    },
+                                    {
+                                      "type": "italic"
+                                    }
+                                  ],
+                                  "text": "i",
+                                  "type": "text"
+                                },
+                                {
+                                  "marks": [
+                                    {
+                                      "attrs": {
+                                        "id": "00000000-0000-0000-0000-000000000000"
+                                      },
+                                      "type": "meta"
+                                    },
+                                    {
+                                      "type": "bold"
+                                    },
+                                    {
+                                      "type": "italic"
+                                    }
+                                  ],
+                                  "text": "r",
+                                  "type": "text"
+                                },
+                                {
+                                  "marks": [
+                                    {
+                                      "attrs": {
+                                        "id": "00000000-0000-0000-0000-000000000000"
+                                      },
+                                      "type": "meta"
+                                    },
+                                    {
+                                      "type": "bold"
+                                    },
+                                    {
+                                      "type": "italic"
+                                    }
+                                  ],
+                                  "text": "d",
+                                  "type": "text"
+                                },
+                                {
+                                  "marks": [
+                                    {
+                                      "attrs": {
+                                        "id": "00000000-0000-0000-0000-000000000000"
+                                      },
+                                      "type": "meta"
+                                    },
+                                    {
+                                      "type": "bold"
+                                    },
+                                    {
+                                      "type": "italic"
+                                    }
+                                  ],
+                                  "text": " level",
+                                  "type": "text"
+                                },
+                                {
+                                  "marks": [
+                                    {
+                                      "attrs": {
+                                        "id": "00000000-0000-0000-0000-000000000000"
+                                      },
+                                      "type": "meta"
+                                    },
+                                    {
+                                      "type": "italic"
+                                    }
+                                  ],
+                                  "text": ", and I want to",
+                                  "type": "text"
+                                },
+                                {
+                                  "marks": [
+                                    {
+                                      "attrs": {
+                                        "id": "00000000-0000-0000-0000-000000000000"
+                                      },
+                                      "type": "meta"
+                                    }
+                                  ],
+                                  "text": " test normalization here.",
+                                  "type": "text"
+                                }
+                              ],
+                              "type": "paragraph"
+                            }
+                          ],
+                          "type": "listItem"
+                        }
+                      ],
+                      "type": "orderedList"
+                    }
+                  ],
+                  "type": "listItem"
+                }
+              ],
+              "type": "orderedList"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "orderedList"
+    }
+  ],
+  "type": "doc"
+}

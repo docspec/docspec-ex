@@ -1,0 +1,155 @@
+{
+  "attrs": {
+    "assets": {},
+    "id": "00000000-0000-0000-0000-000000000000"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "marks": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "type": "meta"
+                }
+              ],
+              "text": "Term 1",
+              "type": "text"
+            }
+          ],
+          "type": "definitionTerm"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "marks": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "type": "meta"
+                }
+              ],
+              "text": "Definition 1",
+              "type": "text"
+            }
+          ],
+          "type": "definitionDetails"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "marks": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "type": "meta"
+                }
+              ],
+              "text": "Term 2 with ",
+              "type": "text"
+            },
+            {
+              "marks": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "type": "meta"
+                },
+                {
+                  "type": "italic"
+                }
+              ],
+              "text": "inline markup",
+              "type": "text"
+            }
+          ],
+          "type": "definitionTerm"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "marks": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "type": "meta"
+                }
+              ],
+              "text": "Definition 2",
+              "type": "text"
+            }
+          ],
+          "type": "definitionDetails"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "marks": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "type": "meta"
+                },
+                {
+                  "type": "code"
+                }
+              ],
+              "text": "{ some code, part of Definition 2 }",
+              "type": "text"
+            }
+          ],
+          "type": "definitionDetails"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "marks": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "type": "meta"
+                }
+              ],
+              "text": "Third paragraph of definition 2.",
+              "type": "text"
+            }
+          ],
+          "type": "definitionDetails"
+        }
+      ],
+      "type": "definitionList"
+    }
+  ],
+  "type": "doc"
+}

@@ -1,0 +1,69 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Here is some code in the HTML Sample Style (Microsoft Word for Mac 16.72)",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "code": true
+            },
+            "text": "<div class=\"foo\">",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "code": true
+            },
+            "text": "  <p>Paragraph in HTML</p>",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "code": true
+            },
+            "text": "</div>",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "metadata": {
+      "authors": [
+        {
+          "name": "Stephan Meijer"
+        }
+      ]
+    },
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Some nested lists",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 2,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "one",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "start": 1
+    },
+    "type": "numberedListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "two",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "numberedListItem"
+  },
+  {
+    "children": [
+      {
+        "children": [],
+        "content": [
+          {
+            "styles": {},
+            "text": "b",
+            "type": "text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "props": {},
+        "type": "numberedListItem"
+      },
+      {
+        "children": [],
+        "content": [
+          {
+            "styles": {},
+            "text": "a",
+            "type": "text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "props": {
+          "start": 1
+        },
+        "type": "numberedListItem"
+      }
+    ],
+    "content": [],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "numberedListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "one",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "content": [
+              {
+                "styles": {},
+                "text": "four",
+                "type": "text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "bulletListItem"
+          }
+        ],
+        "content": [
+          {
+            "styles": {},
+            "text": "three",
+            "type": "text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "bulletListItem"
+      }
+    ],
+    "content": [
+      {
+        "styles": {},
+        "text": "two",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Sub paragraph",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Same list",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Different list adjacent to the one above.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  }
+]

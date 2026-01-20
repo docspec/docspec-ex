@@ -1,0 +1,29 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "id": "5c618406-eb4c-4965-bc25-db9802b500bf",
+          "text": "Heading two",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "0242b443-a46d-49e9-bfb0-41e3a1913237",
+      "level": 2,
+      "type": "https://alpha.docspec.io/Heading"
+    },
+    {
+      "children": [
+        {
+          "id": "30b7b5bd-4ca0-429c-989e-26184b850d4f",
+          "text": "some text",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "ab636d0e-2cbd-45de-a8f0-54227901521b",
+      "type": "https://alpha.docspec.io/Paragraph"
+    }
+  ],
+  "id": "6d150927-a5c1-43a8-90eb-b56db13f9c99",
+  "type": "https://alpha.docspec.io/Document"
+}

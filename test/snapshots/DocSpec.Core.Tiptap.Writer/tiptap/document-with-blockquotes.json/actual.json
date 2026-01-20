@@ -1,0 +1,106 @@
+{
+  "attrs": {
+    "assets": {},
+    "id": "00000000-0000-0000-0000-000000000000"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Blorpy zibber wocka flember snorp!",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "marks": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "type": "meta"
+                }
+              ],
+              "text": "Life’s a long road, but if you bray loud enough, even the quietest fields will hear you.",
+              "type": "text"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "type": "blockquote"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "marks": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "type": "meta"
+                }
+              ],
+              "text": "As the sun sets on the horizon of opportunity, always remember: bananas are best peeled with patience.",
+              "type": "text"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "type": "blockquote"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Zonky tonky borkle snorkle!",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    }
+  ],
+  "type": "doc"
+}

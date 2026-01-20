@@ -1,0 +1,930 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Heading 1: styling",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 1,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Paragraph text.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "bold": true
+            },
+            "text": "Bold ",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "italic": true
+            },
+            "text": "italic",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "bold": true
+            },
+            "text": " ",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "bold": true,
+              "underline": true
+            },
+            "text": "bold",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": " underline ",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "strikethrough": true
+            },
+            "text": "strike",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": " ",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "superscript": true
+            },
+            "text": "superscript",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": " ",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "subscript": true
+            },
+            "text": "subscript",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Heading 2: blockquotes",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "text": "Intense Quote",
+                "type": "https://alpha.docspec.io/Text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/Paragraph"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/BlockQuotation"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "And another:",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "text": "Quote",
+                "type": "https://alpha.docspec.io/Text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/Paragraph"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/BlockQuotation"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Heading 3: background text and text color",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 3,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "textColor": {
+                "hex": "#ffff00"
+              }
+            },
+            "text": "Yellow text",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "highlightColor": {
+                "hex": "#ff0000"
+              },
+              "textColor": {
+                "hex": "#00b050"
+              }
+            },
+            "text": "Green text, red background",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "highlightColor": {
+                "hex": "#0000ff"
+              }
+            },
+            "text": "Blue background",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Heading 4: ordered and unordered lists",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 4,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "This is the first item (unordered list)",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Second item (unordered list)",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "text": "Subitem of second item (unordered list)",
+                            "type": "https://alpha.docspec.io/Text"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/Paragraph"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/ListItem"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "text": "Second subitem of second item (unordered list)",
+                            "type": "https://alpha.docspec.io/Text"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/Paragraph"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/ListItem"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/UnorderedList"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Third item. (unordered list)",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/UnorderedList"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "The ordered list (numeric)",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "First item (ordered list, numeric)",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Second item (ordered list, numeric)",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "text": "Subitem of second tiem (ordered list, numeric, alphabetic)",
+                            "type": "https://alpha.docspec.io/Text"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/Paragraph"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/ListItem"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "text": "Second subitem of second item (ordered list, numeric, alphabetic)",
+                            "type": "https://alpha.docspec.io/Text"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/Paragraph"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/ListItem"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "styleType": "lower-alpha",
+                "type": "https://alpha.docspec.io/OrderedList"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Third item! (ordered list, numeric)",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/OrderedList"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "The ordered list (alphabetic)",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "First item (ordered list, alphabetic)",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Second item (ordered list, alphabetic)",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "text": "Subitem of second item (ordered list, alphabetic, alphabetic)",
+                            "type": "https://alpha.docspec.io/Text"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/Paragraph"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/ListItem"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "text": "Second subitem of second item (ordered list, alphabetic, alphabetic)",
+                            "type": "https://alpha.docspec.io/Text"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/Paragraph"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/ListItem"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "styleType": "lower-alpha",
+                "type": "https://alpha.docspec.io/OrderedList"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Third item (ordered list, alphabetic)",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "styleType": "lower-alpha",
+        "type": "https://alpha.docspec.io/OrderedList"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Heading 5: ordered list with interruption and then continuation",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 5,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "This is a list, first item",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/OrderedList"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "This is a paragraph in between",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "This is a list, second item",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/OrderedList"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "This is a paragraph in between",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "This is a list, third item",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/OrderedList"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Heading 6: images",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 6,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Image of a lion:",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "\n",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Heading 7: inline images",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 7,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "This is a paragraph with a  small inline image.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Heading 8: tables",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 8,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "See below a table!",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "A1",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "B1",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "B2",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "A2",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "B2",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "C2",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "A3",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "B3",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "B2",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Table"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Link to example.com",
+            "type": "https://alpha.docspec.io/Link",
+            "uri": "https://example.com"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

@@ -1,0 +1,188 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "What is code?",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 1,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Definitions",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "text": "Programming",
+                "type": "https://alpha.docspec.io/Text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/DefinitionTerm"
+          },
+          {
+            "children": [
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "text": "Writing instructions for a computer to execute tasks;",
+                "type": "https://alpha.docspec.io/Text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/DefinitionDetails"
+          },
+          {
+            "children": [
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "text": "The art of turning ideas into functioning code.",
+                "type": "https://alpha.docspec.io/Text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/DefinitionDetails"
+          },
+          {
+            "children": [
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "text": "Debugging",
+                "type": "https://alpha.docspec.io/Text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/DefinitionTerm"
+          },
+          {
+            "children": [
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "text": "Finding and fixing errors in code.",
+                "type": "https://alpha.docspec.io/Text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/DefinitionDetails"
+          },
+          {
+            "children": [
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "text": "Programming language",
+                "type": "https://alpha.docspec.io/Text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/DefinitionTerm"
+          },
+          {
+            "children": [
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "text": "A structured way to communicate with computers through syntax and commands;",
+                "type": "https://alpha.docspec.io/Text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/DefinitionDetails"
+          },
+          {
+            "children": [
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "text": "A toolset for building logical bridges between humans and machines",
+                "type": "https://alpha.docspec.io/Text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/DefinitionDetails"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/DefinitionList"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Example of code in a programming language (HTML)",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Below is some code, written in HTML.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "<p>",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "\n",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "    Some code written in <strong>HTML.</strong>",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "\n",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "</p>",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Preformatted"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "metadata": {
+      "authors": [
+        {
+          "name": "Stephan Meijer"
+        }
+      ]
+    },
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

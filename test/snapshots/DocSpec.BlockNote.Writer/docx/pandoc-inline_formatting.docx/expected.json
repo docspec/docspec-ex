@@ -1,0 +1,146 @@
+[
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Regular text ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "italic": true
+        },
+        "text": "italics",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": " ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": "bold ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "bold": true,
+          "italic": true
+        },
+        "text": "bold italics",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": ".",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "This is Small Caps, and this is ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "strike": true
+        },
+        "text": "strikethrough",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": ".",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Some people use ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "underline": true
+        },
+        "text": "single underlines for ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "italic": true,
+          "underline": true
+        },
+        "text": "emphasis",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": ".",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Above the line is ",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": "superscript",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": " and below the line is ",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": "subscript",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": ".",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "A line\nbreak.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "One",
+        "type": "text"
+      }
+    ],
+    "id": "de170b7a-53d4-4bd4-8151-8be9b3905267",
+    "props": {
+      "start": 1
+    },
+    "type": "numberedListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Two",
+        "type": "text"
+      }
+    ],
+    "id": "577d1288-edca-426a-95d1-f0e3c9ee9cd9",
+    "props": {},
+    "type": "numberedListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Three",
+        "type": "text"
+      }
+    ],
+    "id": "ebf7cdb2-b3fd-4c58-9d94-3b4fea6751fb",
+    "props": {},
+    "type": "numberedListItem"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "content": [
+              {
+                "styles": {},
+                "text": "Supernested",
+                "type": "text"
+              }
+            ],
+            "id": "e535ef89-06c0-4f62-ab6e-1cb5e9a61759",
+            "props": {
+              "start": 1
+            },
+            "type": "numberedListItem"
+          }
+        ],
+        "content": [
+          {
+            "styles": {},
+            "text": "Nested",
+            "type": "text"
+          }
+        ],
+        "id": "84887212-7682-48d1-9c78-ef8dc1439aeb",
+        "props": {},
+        "type": "numberedListItem"
+      }
+    ],
+    "content": [
+      {
+        "styles": {},
+        "text": "Four",
+        "type": "text"
+      }
+    ],
+    "id": "7420dadd-d92c-4b7a-9625-9ef67cae5a99",
+    "props": {},
+    "type": "numberedListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Alpha",
+        "type": "text"
+      }
+    ],
+    "id": "d6a59dbf-24fe-4a9d-b2bb-c7710ac53661",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Beta",
+        "type": "text"
+      }
+    ],
+    "id": "6cb03ac0-eb64-4950-ab28-900ea88942a8",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "content": [
+              {
+                "styles": {},
+                "text": "Supernested",
+                "type": "text"
+              }
+            ],
+            "id": "ab9f46b4-218a-489d-b978-d41fd14cc732",
+            "type": "bulletListItem"
+          }
+        ],
+        "content": [
+          {
+            "styles": {},
+            "text": "Nested",
+            "type": "text"
+          }
+        ],
+        "id": "236b8cc4-b412-4bac-a009-caee1a00e768",
+        "type": "bulletListItem"
+      }
+    ],
+    "content": [
+      {
+        "styles": {},
+        "text": "Gamma",
+        "type": "text"
+      }
+    ],
+    "id": "f3a6c989-778b-4a6a-b85e-39719ba249cc",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Starting from two!",
+        "type": "text"
+      }
+    ],
+    "id": "4d8132c0-ed31-46c5-bc44-c44cf127a406",
+    "props": {
+      "start": 2
+    },
+    "type": "numberedListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Three!",
+        "type": "text"
+      }
+    ],
+    "id": "c5e385b4-3fc7-4b57-8005-9906415f67ff",
+    "props": {},
+    "type": "numberedListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Four!",
+        "type": "text"
+      }
+    ],
+    "id": "04d185f4-588b-42e5-b4ea-49ed3bc3515c",
+    "props": {},
+    "type": "numberedListItem"
+  }
+]

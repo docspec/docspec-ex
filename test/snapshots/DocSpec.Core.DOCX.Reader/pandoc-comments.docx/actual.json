@@ -1,0 +1,60 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "I want some text to have a comment on it.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "This is a new paragraph.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "And so is this.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "One more. And this is one with a comment in a comment.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "metadata": {
+      "authors": [
+        {
+          "name": "Jesse Rosenthal"
+        }
+      ]
+    },
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

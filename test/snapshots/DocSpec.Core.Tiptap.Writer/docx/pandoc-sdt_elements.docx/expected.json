@@ -1,0 +1,222 @@
+{
+  "attrs": {
+    "assets": {},
+    "id": "00000000-0000-0000-0000-000000000000"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "col1Header",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "col2Header",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "col3Header",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "col1 content",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Body copy",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "col3 content",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        }
+      ],
+      "type": "table"
+    }
+  ],
+  "type": "doc"
+}

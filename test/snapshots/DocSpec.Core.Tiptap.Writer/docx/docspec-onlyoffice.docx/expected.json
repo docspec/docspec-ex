@@ -1,0 +1,1557 @@
+{
+  "attrs": {
+    "assets": {},
+    "id": "00000000-0000-0000-0000-000000000000"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 1
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Heading 1: styling",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Paragraph text.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Bold ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "italic"
+            }
+          ],
+          "text": "italic",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            },
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "bold",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " underline ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "strike"
+            }
+          ],
+          "text": "strike",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "superscript"
+            }
+          ],
+          "text": "superscript",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "subscript"
+            }
+          ],
+          "text": "subscript",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Heading 2: blockquotes",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "marks": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "type": "meta"
+                }
+              ],
+              "text": "Intense Quote",
+              "type": "text"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "type": "blockquote"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "And another:",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "marks": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "type": "meta"
+                }
+              ],
+              "text": "Quote",
+              "type": "text"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "type": "blockquote"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 3
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Heading 3: background text and text color",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Yellow text",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Green text, red background",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Blue background",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 4
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Heading 4: ordered and unordered lists",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "This is the first item (unordered list)",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Second item (unordered list)",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "marks": [
+                            {
+                              "attrs": {
+                                "id": "00000000-0000-0000-0000-000000000000"
+                              },
+                              "type": "meta"
+                            }
+                          ],
+                          "text": "Subitem of second item (unordered list)",
+                          "type": "text"
+                        }
+                      ],
+                      "type": "paragraph"
+                    }
+                  ],
+                  "type": "listItem"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "marks": [
+                            {
+                              "attrs": {
+                                "id": "00000000-0000-0000-0000-000000000000"
+                              },
+                              "type": "meta"
+                            }
+                          ],
+                          "text": "Second subitem of second item (unordered list)",
+                          "type": "text"
+                        }
+                      ],
+                      "type": "paragraph"
+                    }
+                  ],
+                  "type": "listItem"
+                }
+              ],
+              "type": "bulletList"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Third item. (unordered list)",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "bulletList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "The ordered list (numeric)",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 1
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "First item (ordered list, numeric)",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Second item (ordered list, numeric)",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "start": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "marks": [
+                            {
+                              "attrs": {
+                                "id": "00000000-0000-0000-0000-000000000000"
+                              },
+                              "type": "meta"
+                            }
+                          ],
+                          "text": "Subitem of second tiem (ordered list, numeric, alphabetic)",
+                          "type": "text"
+                        }
+                      ],
+                      "type": "paragraph"
+                    }
+                  ],
+                  "type": "listItem"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "marks": [
+                            {
+                              "attrs": {
+                                "id": "00000000-0000-0000-0000-000000000000"
+                              },
+                              "type": "meta"
+                            }
+                          ],
+                          "text": "Second subitem of second item (ordered list, numeric, alphabetic)",
+                          "type": "text"
+                        }
+                      ],
+                      "type": "paragraph"
+                    }
+                  ],
+                  "type": "listItem"
+                }
+              ],
+              "type": "orderedList"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Third item! (ordered list, numeric)",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "orderedList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "The ordered list (alphabetic)",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 1
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "First item (ordered list, alphabetic)",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Second item (ordered list, alphabetic)",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "start": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "marks": [
+                            {
+                              "attrs": {
+                                "id": "00000000-0000-0000-0000-000000000000"
+                              },
+                              "type": "meta"
+                            }
+                          ],
+                          "text": "Subitem of second item (ordered list, alphabetic, alphabetic)",
+                          "type": "text"
+                        }
+                      ],
+                      "type": "paragraph"
+                    }
+                  ],
+                  "type": "listItem"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "marks": [
+                            {
+                              "attrs": {
+                                "id": "00000000-0000-0000-0000-000000000000"
+                              },
+                              "type": "meta"
+                            }
+                          ],
+                          "text": "Second subitem of second item (ordered list, alphabetic, alphabetic)",
+                          "type": "text"
+                        }
+                      ],
+                      "type": "paragraph"
+                    }
+                  ],
+                  "type": "listItem"
+                }
+              ],
+              "type": "orderedList"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Third item (ordered list, alphabetic)",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "orderedList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 5
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Heading 5: ordered list with interruption and then continuation",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 1
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "This is a list, first item",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "orderedList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "This is a paragraph in between",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 1
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "This is a list, second item",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "orderedList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "This is a paragraph in between",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 1
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "This is a list, third item",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "orderedList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 6
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Heading 6: images",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Image of a lion:",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "\n",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 7
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Heading 7: inline images",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "This is a paragraph with a  small inline image.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 8
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Heading 8: tables",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "See below a table!",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "A1",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "B1",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "B2",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "A2",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "B2",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "C2",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "A3",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "B3",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "B2",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        }
+      ],
+      "type": "table"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "attrs": {
+                "href": "https://example.com",
+                "purpose": null
+              },
+              "type": "link"
+            }
+          ],
+          "text": "Link to example.com",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    }
+  ],
+  "type": "doc"
+}

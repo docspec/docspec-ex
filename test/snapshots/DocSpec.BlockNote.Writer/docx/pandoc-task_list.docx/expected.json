@@ -1,0 +1,115 @@
+[
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Unchecked",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Checked",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "with continuation paragraph",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "content": [
+              {
+                "styles": {},
+                "text": "Unchecked subsublist",
+                "type": "text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "bulletListItem"
+          }
+        ],
+        "content": [
+          {
+            "styles": {},
+            "text": "Checked sublist",
+            "type": "text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "bulletListItem"
+      }
+    ],
+    "content": [
+      {
+        "styles": {},
+        "text": "Unchecked",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [],
+                "content": [
+                  {
+                    "styles": {},
+                    "text": "Numbered child",
+                    "type": "text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "props": {
+                  "start": 1
+                },
+                "type": "numberedListItem"
+              }
+            ],
+            "content": [],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "props": {},
+            "type": "numberedListItem"
+          }
+        ],
+        "content": [],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "props": {},
+        "type": "numberedListItem"
+      }
+    ],
+    "content": [],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "numberedListItem"
+  }
+]

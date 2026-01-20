@@ -1,0 +1,71 @@
+[
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "A link to the bookmark",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": "Accomplices:",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "textAlignment": "justify"
+    },
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "There are bookmarks around here.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "textAlignment": "justify"
+    },
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Referenced title",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 1,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Content",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  }
+]

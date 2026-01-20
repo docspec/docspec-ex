@@ -1,5 +1,8 @@
 Mimic.copy(Ecto.UUID)
-Mimic.copy(NLdoc.Conversion.Reader.Docx)
-Mimic.copy(DocSpec.BlockNote.Writer)
+Mimic.copy(DocSpec.Core.DOCX.Reader)
+Mimic.copy(DocSpec.Core.BlockNote.Writer)
+Mimic.copy(File)
+Mimic.copy(:zip)
+Mimic.copy(DateTime)
 
 ExUnit.start()

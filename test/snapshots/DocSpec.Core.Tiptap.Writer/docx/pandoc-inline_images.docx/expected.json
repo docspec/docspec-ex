@@ -1,0 +1,131 @@
+{
+  "attrs": {
+    "assets": {
+      "00000000-0000-0000-0000-000000000000": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCABAAEADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAgJBwb/xAAuEAAABAQCCAcBAQAAAAAAAAAAAQIDBAUGBwgRCRIxNzh1drQTGSFWk7PTFUH/xAAZAQADAQEBAAAAAAAAAAAAAAAABQcDBgj/xAAoEQABAgQFAwUBAAAAAAAAAAABAgMABAURBhIhMUEzNXIHE1FxwcL/2gAMAwEAAhEDEQA/AFUAAalh9w+1RiKqiYUpSk5lcuiZdAHMHHJgpwkKQTiG9UvDSo883CPZlkRjmUpKzlTvHqSZmWpNpT76sqE6kniMtFmMG/DHb/livucCZ+V1eT37RnyRX4jUqXxh0HhVkEFh6rSmp/NZ3RDf8+NjZWhlUK8szNzWbNxxC8snCL1SR5kYYSqTLKKndBE7xZMtYnlUS1IV7y0qzEJ3AsRfXLybRvWMjhjuByxP3NiM4o9VGMOg8VUgjcPVF01P5VO63b/nwUbNEMphWVkZOazhtuLXlk2ZeiTPMyGW+V1eT37RnyRX4gmkmZUFNaiDCcy1hiVXLVdXsrUrMArciwF9M3ItCZgGpYgsPtUYdaol9KVXOZXMYmYwBTBtyXqcNCUG4tvVPxEpPPNsz2ZZGQy0L1JKDlVvFElplqcaS+wrMhWoI5gDmaLrfJVPTK+6YCZhzNF1vkqnplfdMDaU6yYSYt7JM+P6mKZCM+MjicuBzNP0tizAjPjI4nLgczT9LYYVHpj7idem3cXvD+hBg34nLf8AM1fS4LMCM+Dfict/zNX0uCzAKd0z9wepPcWfD+jEzdKLvkpbplHdPhMw5mlF3yUt0yjunwmYXzfWVFFwl2SW8f1UAczRdb5Kp6ZX3TATMOZout8lU9Mr7pgEp1kwYt7JM+P6mKZCXOKDC/f2tL+1nVNLWymkxlUxjydhYppTWo6jwkFmWayPaR/4KjADp9hL6QlRiI0Kuv0B9T7CQoqFtb/N+Ilzhfwv39ou/tGVTVNsppLpVLo83YqKdU1qNI8JZZnksz2mX+CowAAYYSwkpSYK7XX6++l99ISUi2l/m/MTN0ou+SlumUd0+EzDmaUXfJS3TKO6fCZhLN9ZUW7CXZJbx/VRTLyurN+/az+SF/EctcG30r0dUrh7q2qjIqo5jUcQVPREPUJpUw2wpJvmtBME2rX1mEl6mZZGfpsMPqEz0ou5ulupkdq+GbzLbLZWgWIiW0St1CsVBqRnnStpZspJtYixNjYA7gcjaMZ80W8nsKjPjiv2D62HuDNLq2hpi4U6g4WEjp3CHEPMwpKJpCtdSck6xmeWSS2mYh8LMYN+GO3/ACxX3ODGRecdWQs30h3jqiU+mSTbkm0EKK7Ei+2UnkmOpvxcGaWqtDU9wpLBwsXHSSEKIZZiiUbS1a6U5K1TI8slHsMghXmi3k9hUZ8cV+wczGRwx3A5Yn7mxGcE8840sBBtpBgWiU+pyTjk40FqC7Am+2UHgiKE2+t9K9IrK4i6t1YyKpyY05EHT0PD08aUsOMJST5LWT5OK19Z9RehkWRF6bTHU+V1Zv37WfyQv4g0XW5uqepl9qwHMGzLLbzYWsXJhJW63UKPUHZGRdKGkGyUi1gLA2FwTuTyd4//2Q=="
+    },
+    "id": "00000000-0000-0000-0000-000000000000"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "This picture ",
+          "type": "text"
+        },
+        {
+          "attrs": {
+            "alt": "This one is green and looks like Sideshow Bob.",
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " is an identicon.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Here is ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "attrs": {
+                "href": "http://www.google.com",
+                "purpose": null
+              },
+              "type": "link"
+            }
+          ],
+          "text": "one  ",
+          "type": "text"
+        },
+        {
+          "attrs": {
+            "alt": "This one is reddish, and looks like a heart that has leaked out.",
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "attrs": {
+                "href": "http://www.google.com",
+                "purpose": null
+              },
+              "type": "link"
+            }
+          ],
+          "text": " that",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " links.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    }
+  ],
+  "type": "doc"
+}

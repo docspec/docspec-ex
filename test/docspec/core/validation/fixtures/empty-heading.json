@@ -1,0 +1,45 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "id": "9641ff1f-09c8-4a87-a281-ab2029b44401",
+          "text": "Heading 1",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "ee7e4196-63bb-4835-b502-b9e31ce24e07",
+      "level": 1,
+      "type": "https://alpha.docspec.io/Heading"
+    },
+    {
+      "children": [
+        {
+          "id": "b993ba53-2da7-4b98-af56-99c98b9c2340",
+          "text": "Some text paragraph.",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "09acc81d-3344-4c5e-8a2f-d3a3ad25a5df",
+      "type": "https://alpha.docspec.io/Paragraph"
+    },
+    {
+      "id": "3176ade6-c7b0-4424-b386-0fcbadfa8604",
+      "level": 2,
+      "type": "https://alpha.docspec.io/Heading"
+    },
+    {
+      "children": [
+        {
+          "id": "9b1065b9-887b-400b-a751-aa8944fb63fb",
+          "text": "The heading above is empty.",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "fc28e55b-0eb5-44af-8454-f6ad6a56a462",
+      "type": "https://alpha.docspec.io/Paragraph"
+    }
+  ],
+  "id": "2e2a522a-173b-4926-8662-a6c256fd5125",
+  "type": "https://alpha.docspec.io/Document"
+}

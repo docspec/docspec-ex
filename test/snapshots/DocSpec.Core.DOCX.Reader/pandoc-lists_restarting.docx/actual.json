@@ -1,0 +1,110 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Foo",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Bar",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Baz",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 2,
+        "type": "https://alpha.docspec.io/OrderedList"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Interruption",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "textAlignment": "justify",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Bop.",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/OrderedList"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "metadata": {
+      "authors": [
+        {
+          "name": "Jesse Rosenthal"
+        }
+      ],
+      "language": "en-US"
+    },
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

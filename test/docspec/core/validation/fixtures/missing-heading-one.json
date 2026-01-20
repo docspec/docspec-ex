@@ -1,0 +1,17 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "id": "f48af79c-a2a9-402b-ad70-cf7a3d553b9d",
+          "text": "This document has no heading 1.",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "8a208df3-9cf5-497e-8a77-eac52cce1600",
+      "type": "https://alpha.docspec.io/Paragraph"
+    }
+  ],
+  "id": "a15245a6-66cb-4803-8154-d8c4755da286",
+  "type": "https://alpha.docspec.io/Document"
+}

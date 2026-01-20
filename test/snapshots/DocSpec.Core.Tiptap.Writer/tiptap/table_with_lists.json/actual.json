@@ -1,0 +1,609 @@
+{
+  "attrs": {
+    "assets": {},
+    "id": "aa075037-cf9b-40ac-9498-7126c0f35823"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "4b7afbaf-01b9-47a1-b278-fb71d08c6cc8"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "797a9a80-b6dc-4875-a8ee-c8bb6e479e69"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "bd3197b3-bd30-4e78-a50f-e212f10a5d94",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "2242ce53-1e77-429a-a570-b96c8b1c6aec"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "6af97d96-af57-488e-b41b-a2cccb4946ba"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Lorem",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableHeader"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "c9a2dce4-def1-4c03-9bac-e6e6895a2eab",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "757d3880-b720-429c-a922-6c6c058b5988"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "554fddb7-3d9d-47c1-9d34-2eef899f752e"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Ipsum",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableHeader"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "b854d5cf-cc4d-45c3-95f0-d279bd438585",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "60fda39a-0450-4ce6-9665-76bbf808245b"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "377ce0b3-c137-4769-a46d-bf11165e0a27"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Dolor",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableHeader"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "74a20c63-f56d-4219-9151-d9c5d3d910a0"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "e4cfa435-ed09-40d9-840a-96b9156f6566",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "a1f45245-2b17-4754-a4b7-6beaf6cc62c9"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "c31fc5a0-8dcf-4e51-a730-32f1c0dbba7f"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Nam dignissim commodo metus eu imperdiet. Duis molestie fringilla scelerisque. Sed quis lacinia erat, nec consequat turpis. ",
+                      "type": "text"
+                    },
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "57d49c6d-e508-4fc6-9987-c3abb6013986"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "underline"
+                        }
+                      ],
+                      "text": "Suspendisse molestie viverra purus ut eleifend",
+                      "type": "text"
+                    },
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "b60409a8-acf0-45e1-8958-df0db4981508"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "Suspendisse molestie viverra purus ut eleifend",
+                      "type": "text"
+                    },
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "581abeb5-1567-4edc-a5d4-d585a31bdb46"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": ". Nunc id facilisis erat, ut blandit tellus.",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "5cff621c-7fad-4167-9a89-025601fdb3ef",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "3ff63ebe-5df7-40e0-9442-a592d61d5970"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "1f321631-6f50-4425-8f26-1488ff7464c8"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "x",
+                      "type": "text"
+                    },
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "222b64ae-e3eb-4514-abe3-83e3e7a7edfe"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "superscript"
+                        }
+                      ],
+                      "text": "2",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "5099b21b-4a39-436c-9a96-6deb8262200e",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "a253ee8f-4d43-4d82-9563-cde804a2012c"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "3583eaad-a73a-4425-b71d-6899a6d35f5d"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "CO",
+                      "type": "text"
+                    },
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "96898f7f-73bc-49c4-9f2b-a06d5bdc4afe"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "subscript"
+                        }
+                      ],
+                      "text": "2",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "a6724161-9c91-4bab-ab30-b79bed961a39"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "68de476a-bb0d-4919-87e2-b3c57cc39634",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "c2b97c0f-6285-4ff2-b9c3-596badd19e0e"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "e2cef69c-23f0-40ff-b4a9-0a795ea8fcf8"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Nam dignissim commodo metus eu imperdiet. Duis molestie fringilla scelerisque. Sed quis lacinia erat, nec consequat turpis. Suspendisse molestie viverra purus ut eleifend. Nunc id facilisis erat, ut blandit tellus.",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "6b93ce32-d5db-44af-a329-ddba243fe1fc",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "6d70f30d-31f3-4c27-8cb7-756c28155aa2"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "01754bff-e96e-444d-8d3a-665f6199609e"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "100",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "85c70cc0-76a7-48d3-a860-f94e48e1b918",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "61abbbe2-7b40-4b9f-be64-407f4a139125"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "6dacd553-d8ce-4eec-9383-001887cb3be8"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "500",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "3c3d2122-699d-4448-9768-b894ec3d035b"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "4d88e9e3-1294-439a-bb67-67a069d164a5",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "c689c63d-17c5-4938-9491-796bcfb3327d"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "25700539-2d36-4e18-8336-9d5b6a0866f7"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "39a0f6fe-f9bc-4da1-b708-6f70f4fd0281"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "dcf81524-975a-42ec-a85c-d55061f00c6f"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": "Nam dignissim commodo metus eu imperdiet. Duis molestie fringilla scelerisque. Sed quis lacinia erat, nec consequat turpis. Suspendisse molestie viverra purus ut eleifend. Nunc id facilisis erat, ut blandit tellus.",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    },
+                    {
+                      "attrs": {
+                        "id": "4e47509f-c499-4620-bbd7-80f52debb888"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "548b7fb2-d2f3-4bf4-b935-3bde953bbc82"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "9f72212d-4191-443e-9759-7d02fb48f5bf"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": "Nam dignissim commodo metus eu imperdiet. Duis molestie fringilla scelerisque. Sed quis lacinia erat, nec consequat turpis. ",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    },
+                    {
+                      "attrs": {
+                        "id": "f65abff9-8b9f-49c5-803e-06e4a818d0f1"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "d2ec0a2e-fc2c-40ca-bc24-627fc3819ffb"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "699bb05a-dd3e-4e46-bc38-861e1d22d60d"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": "Suspendisse molestie viverra purus ut eleifend. ",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    },
+                    {
+                      "attrs": {
+                        "id": "26a979af-e96e-41dc-85b9-8259b1dc141f"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "41a22247-8c70-40ba-a8ed-6de4055b6d39"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "e3f77e0f-ed05-412c-93ff-e8be1a0bbb94"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": "Nunc id facilisis erat, ut blandit tellus.",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    },
+                    {
+                      "attrs": {
+                        "id": "fd49acb7-9312-4e0b-ba71-bac47474dd8f"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "59f46c08-ecf2-4078-98c4-5a6fb062120f"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "c5ce1e0b-d8a4-4d69-be42-46124128c9b1"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": "Nam dignissim commodo metus eu imperdiet. Duis molestie fringilla scelerisque. Sed quis lacinia erat, nec consequat turpis. Suspendisse molestie viverra purus ut eleifend. Nunc id facilisis erat, ut blandit tellus.",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    }
+                  ],
+                  "type": "bulletList"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "c3f0fefd-eeb6-40f7-8b77-7aca00a2676a",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "9ba07dff-12e6-4ed3-8121-3232d33924bd"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "ce1836b3-db44-4a62-b94d-a2f207da3843"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "100",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "5df2c132-8246-4ac7-bd59-7c9c3e4f8545",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "2b65835c-af7a-4f90-9042-7f391a4bfb7f"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "471e9382-a5cf-4378-907c-064750de6e78"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "400",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        }
+      ],
+      "type": "table"
+    }
+  ],
+  "type": "doc"
+}

@@ -1,0 +1,1191 @@
+{
+  "attrs": {
+    "assets": {
+      "00000000-0000-0000-0000-000000000000": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAABOCAMAAAC5dNAvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB4UExURQAAAABEVQBEZgBAUABAYABLWgBLaQBGaABRaAVNZAVNaQRMZwRMaQROaQROaARPagVMaAVMagVOagVNZwVNaQVNagRNZwROaARMaQZMaQZOaQZNZwVOagVMaQVNaQVOaQVNaAdOaAVOaAVOaQdNaAVNaQVOaAdPag1+nPYAAAAndFJOUwAPDxAQEREWFjg4OXJyc3SkpKSoqKivsLGzs7To6enp6urr6+vs7IkGXNoAAAAJcEhZcwAAIdUAACHVAQSctJ0AAAHMSURBVFhH7djZctNAEAVQsQYMJIGw75CA/v8PsawzsqSRrJkOLxQ5T+rbS5Vd9oPd3Pmv7S4udh5vp50Rhzgxo1npm+0Fv4yUs7jKWCFLJxgsYWOD4U3GNxnfYLiAhVMeGi3ywNKq+wYLPba2xlgxaysMVbC4yEgVqwsMVLKc069kOaNdzfqMZoADU3oBDkxc6wX8dGJMK8SJMZ0QJ0Y0ghw5kgc5ciQPcmQgDnMmkYY5k0gPmubMU/KyaV55TJ7Mdyake1nQfuqTt8pOn+RbiXSUq9v2o6B5L1gaUifSUSwojJQ8k45jyf59S16LlB1J+1TdeyH9rO6IVAd59EP0XN1L576oOyLVQR7diKbnTrzYS+XeG5GyI5m92CFW7gkKI2UiHeXq4WMX+qAMDVXnQ5+8U3b6JN9KpAf5l+yqaa48JmfznQlpmDOJNMyZgTjIkSN5kCNH8iBHRjRCnBjTCXFi7LtWwLUTE3oBDkzpBTgwo1nNeka7kuWcfiXLCwxUsbrISAWLKwwVs7am8ifeI2urqn6A3rN0itECFjYY3mR8k/ENhkvYOMFgIUurjJX7anHBbyOVbM9ohjgxEN/O7vz87/wdeOff1DR/AAgtyK+5+CymAAAAAElFTkSuQmCC"
+    },
+    "id": "00000000-0000-0000-0000-000000000000"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 1
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Accessibility Boost: Alt Text",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": "Question mark icon",
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " What?",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Alternative text",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": ", commonly called “Alt Text”, is a hidden description of an image. It is read by screen readers or displayed on the screen when an image fails to load. ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": "Magnifying glass icon",
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " Why? ",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "The ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "purpose of alternative text",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " is to describe the important parts of an image to ensure that blind, low-vision, and other learners unable to visually access the image receive an equitable experience and don’t miss key information.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": "Icon of a map location\n\n",
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " Where?",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Alternative text",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " should be applied to images in documents, presentation slides, course sites, or any other locations that contain visual information. ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": "Key icon",
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " How? ",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Alt Text",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "should be ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "concise",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "and ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "contextual",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": ".",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 3
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Concise",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Describe only the relevant information in the image.",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": " ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": "The photosynthesis equation shows that six carbon dioxide molecules and six water molecules produce one sugar molecule and one oxygen molecule. The sugar molecule is made of 6 carbons, 12 hydrogens, and 6 oxygens. Sunlight is used as an energy source.",
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Image from Concepts of Biology - 1st Canadian Edition by Charles Molnar and Jane Gair",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "A concise description helps highlight the important information in the image: ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "italic"
+            }
+          ],
+          "text": "“The photosynthesis equation shows that six carbon dioxide molecules and six water molecules produce one sugar molecule and one oxygen molecule. The sugar molecule is made of 6 carbons, 12 hydrogens, and 6 oxygens. Sunlight is used as an energy source.”",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 3
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Contextual",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Describe the aspects of the image that are important to the specific context in which you’re using it",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": "Three signs that read &quot;The museum is temporarily closed. We look forward to welcoming you again soon&quot; in English, French and German. ",
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "In an article about the ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "underfunding of museums",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": ", the alt text might be ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "italic"
+            }
+          ],
+          "text": "“A sign stating that the museum is temporarily closed”. ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "In a presentation about",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": " ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "multi-lingual heritage sites",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": ", the alt text might be ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "italic"
+            }
+          ],
+          "text": "“A row of three signs that read ‘The museum is temporarily closed. We look forward to welcoming you again soon’ in English, French and German.",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            },
+            {
+              "type": "italic"
+            }
+          ],
+          "text": "”",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 3
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Do",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Include important text that appears in the image in the alt text description",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Use inclusive language in your descriptions (see guide below)",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Mark decorative images as “Decorative” in the alt text menu",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "bulletList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": "Checkbox that reads &quot;Mark as decorative&quot; from Microsoft Word.",
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 3
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Don’t",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Start descriptions with “Image of…” or “Picture of…”",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Describe images that are purely decorative",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Repeat information that appears elsewhere in the content ",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Editorialize or include your own feelings or opinions about the image",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "bulletList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": "Logo of an ellipse (three periods)\n",
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "More resources",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    },
+                    {
+                      "attrs": {
+                        "href": "https://support.microsoft.com/en-us/office/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669",
+                        "purpose": null
+                      },
+                      "type": "link"
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "How to add Alt Text to MS Word and PowerPoint",
+                  "type": "text"
+                },
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": " provides steps on how to add alt text to images in different versions of Word and PowerPoint. ",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    },
+                    {
+                      "attrs": {
+                        "href": "https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81",
+                        "purpose": null
+                      },
+                      "type": "link"
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "Writing Alt Text for Data Visualization",
+                  "type": "text"
+                },
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": " ",
+                  "type": "text"
+                },
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "provides guidelines on writing alt text for charts, graphs, and other data visualizations",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    },
+                    {
+                      "attrs": {
+                        "href": "https://www.edi.uwo.ca/resources/reports/Inclusive-Language-Guide.pdf",
+                        "purpose": null
+                      },
+                      "type": "link"
+                    },
+                    {
+                      "type": "bold"
+                    }
+                  ],
+                  "text": "A Guide for Inclusive Language",
+                  "type": "text"
+                },
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": " is a comprehensive guide to language for describing people in an inclusive way. ",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "bulletList"
+    }
+  ],
+  "type": "doc"
+}

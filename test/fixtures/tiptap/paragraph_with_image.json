@@ -1,0 +1,34 @@
+{
+  "type": "doc",
+  "attrs": {
+    "id": "aa075037-cf9b-40ac-9498-7126c0f35823",
+    "validationFindingIds": [],
+    "highestSeverity": null,
+    "assets": {
+      "fa81f976-4e5e-4cd6-ad83-0aa6ff4effa3": "data:image/gif;base64,R0lGODlhAQABAAAAACw="
+    }
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "attrs": {
+        "id": "6bb10a79-a471-471c-a335-2fde0a69f853",
+        "validationFindingIds": [],
+        "highestSeverity": null
+      },
+      "content": [
+        {
+          "type": "image",
+          "attrs": {
+            "id": "16f8e08b-32dc-48b9-80c9-200d6d73a646",
+            "validationFindingIds": [],
+            "highestSeverity": null,
+            "assetId": "fa81f976-4e5e-4cd6-ad83-0aa6ff4effa3",
+            "alt": "Placeholder image",
+            "title": "Image"
+          }
+        }
+      ]
+    }
+  ]
+}

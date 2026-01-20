@@ -1,0 +1,40 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "id": "d6912974-892a-49a4-a26f-295d4363ca78",
+            "text": "Link without purpose",
+            "type": "https://alpha.docspec.io/Link",
+            "uri": "https://example.com"
+          },
+          {
+            "id": "d6912974-892a-49a4-a26f-295d4363ca78",
+            "purpose": "purpose of the link",
+            "text": "Link with purpose",
+            "type": "https://alpha.docspec.io/Link",
+            "uri": "https://example.com"
+          },
+          {
+            "id": "d6912974-892a-49a4-a26f-295d4363ca78",
+            "text": "Link with purpose = null",
+            "type": "https://alpha.docspec.io/Link",
+            "uri": "https://example.com"
+          },
+          {
+            "id": "d6912974-892a-49a4-a26f-295d4363ca78",
+            "text": "Link with purpose = \"\"",
+            "type": "https://alpha.docspec.io/Link",
+            "uri": "https://example.com"
+          }
+        ],
+        "id": "8fe5133c-f8e5-4a96-979b-844620ab243d",
+        "type": "https://alpha.docspec.io/Paragraph"
+      }
+    ],
+    "id": "aa075037-cf9b-40ac-9498-7126c0f35823",
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

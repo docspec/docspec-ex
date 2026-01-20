@@ -1,0 +1,202 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "textColor": {
+                            "hex": "#000000"
+                          }
+                        },
+                        "text": "h3",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "textColor": {
+                            "hex": "#000000"
+                          }
+                        },
+                        "text": "h4",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "colspan": 2,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "textColor": {
+                            "hex": "#000000"
+                          }
+                        },
+                        "text": "h5",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "textColor": {
+                            "hex": "#000000"
+                          }
+                        },
+                        "text": "c11",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "colspan": 3,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "colspan": 2,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "textColor": {
+                            "hex": "#000000"
+                          }
+                        },
+                        "text": "c22",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "colspan": 2,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "textColor": {
+                            "hex": "#000000"
+                          }
+                        },
+                        "text": "c23",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "colspan": 2,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Table"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "metadata": {
+      "authors": [
+        {
+          "name": "TORIN Alberto"
+        }
+      ],
+      "language": "en-US"
+    },
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

@@ -1,0 +1,119 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Head 1",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "text": "Head 1.1",
+                            "type": "https://alpha.docspec.io/Text"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/Paragraph"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/ListItem"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "text": "Head 1.2",
+                            "type": "https://alpha.docspec.io/Text"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/Paragraph"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/ListItem"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/OrderedList"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "Head 2",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "text": "Head 2.1",
+                            "type": "https://alpha.docspec.io/Text"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/Paragraph"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/ListItem"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/OrderedList"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/OrderedList"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "metadata": {
+      "authors": [
+        {
+          "name": "Girard, Guillaume"
+        }
+      ]
+    },
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

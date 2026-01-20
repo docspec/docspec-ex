@@ -1,0 +1,1892 @@
+{
+  "attrs": {
+    "assets": {
+      "00000000-0000-0000-0000-000000000000": "data:image/png;base64,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"
+    },
+    "id": "00000000-0000-0000-0000-000000000000"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": null,
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "VDW-module 4: Bedrijfscontinuïteitsbeheer (BCM)",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Bepalen kritische bedrijfsprocessen",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Criteria",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Colofon",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Naam document ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Criteria bepalen kritische bedrijfsprocessen",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Versienummer ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "1.0",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Versiedatum ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "03 - 2022",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Versiebeheer ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Het beheer van dit document berust bij de Informatiebeveiligingsdienst voor gemeenten (IBD).",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": null,
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Vereniging van Nederlandse Gemeenten / Informatiebeveiligingsdienst voor gemeenten (IBD) ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "\nTenzij anders vermeld, is dit werk verstrekt onder een Creative Commons Naamsvermelding-Niet Commercieel-Gelijk Delen 4.0 Internationaal licentie. Dit houdt in dat het materiaal gebruikt en gedeeld mag worden onder de volgende voorwaarden: Alle rechten voorbehouden. Verveelvoudiging, verspreiding en gebruik van deze uitgave voor het doel zoals vermeld in deze uitgave is met bronvermelding toegestaan voor alle gemeenten en overheidsorganisaties. ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Voor commerciële organisaties wordt hierbij toestemming verleend om dit document te bekijken, af te drukken, te verspreiden en te gebruiken onder de hiernavolgende voorwaarden:",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 1
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "De IBD wordt als bron vermeld.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Het document en de inhoud mogen commercieel niet geëxploiteerd worden.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Publicaties of informatie waarvan de intellectuele eigendomsrechten niet bij de verstrekker berusten, blijven onderworpen aan de beperkingen opgelegd door de IBD en / of de Vereniging van Nederlandse Gemeenten.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Iedere kopie van dit document, of een gedeelte daarvan, dient te zijn voorzien van de in deze paragraaf vermelde mededeling.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "orderedList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Wanneer dit werk wordt gebruikt, hanteer dan de volgende methode van naamsvermelding: “Vereniging van Nederlandse Gemeenten / Informatiebeveiligingsdienst voor gemeenten”, licentie onder: CC BY-NC-SA 4.0.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Bezoek ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "attrs": {
+                "href": "http://creativecommons.org/licenses/by-nc-sa/4.0",
+                "purpose": null
+              },
+              "type": "link"
+            }
+          ],
+          "text": "http://creativecommons.org/licenses/by-nc-sa/4.0",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " voor meer informatie over de licentie.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "\n",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Rechten en vrijwaring",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "De IBD is zich bewust van haar verantwoordelijkheid een zo betrouwbaar mogelijke uitgave te verzorgen. Niettemin kan de IBD geen aansprakelijkheid aanvaarden voor eventueel in deze uitgave voorkomende onjuistheden, onvolledigheden of nalatigheden. De IBD aanvaardt ook geen aansprakelijkheid voor enig gebruik van voorliggende uitgave of schade ontstaan door de inhoud van de uitgave of door de toepassing ervan. ",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Met dank aan",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "De expertgroep en de reviewgemeenten die hebben bijgedragen aan het vervaardigen van dit product.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 3
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Wijzigingshistorie",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Versie",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Datum",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Wijziging / Actie",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "1.0",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "09-03-2022",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Definitieve versie",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        }
+      ],
+      "type": "table"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Over de IBD",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "De IBD is een gezamenlijk initiatief van alle Nederlandse Gemeenten. De IBD is de sectorale CERT / CSIRT voor alle Nederlandse gemeenten en richt zich op (incident)ondersteuning op het gebied van informatiebeveiliging. De IBD is voor gemeenten het schakelpunt met het Nationaal Cyber Security Centrum (NCSC). De IBD ondersteunt gemeenten bij hun inspanningen op het gebied van informatiebeveiliging en privacy / gegevensbescherming en geeft regelmatig kennisproducten uit. Daarnaast faciliteert de IBD kennisdeling tussen gemeenten onderling, met andere overheidslagen, met vitale sectoren en met leveranciers. Alle Nederlandse gemeenten kunnen gebruikmaken van de producten en de generieke dienstverlening van de IBD.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": null,
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "De IBD is ondergebracht bij VNG Realisatie.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "\n",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Inhoudsopgave",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "1.Criteria kritische bedrijfsprocessen5",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "1.1.Criteria5",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "1.2.Uitgangspunten6",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "\n",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 1
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Criteria kritische bedrijfsprocessen",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Wat bepaalt dat een bedrijfsproces geen uur, geen dag, geen twee weken mag uitvallen?",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Vaak worden twee verschillende benaderingen gehanteerd Deze zijn:",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Vanuit het perspectief van de gemeente en wettelijke eisen.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "bulletList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Het van cruciaal belang is voor het functioneren van de gemeentelijke organisatie, en het kunnen voldoen aan wettelijke taken. Bij uitval van deze dienst lijdt de organisatie ernstige financiële schade, en mogelijk reputatieschade.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Vanuit gebruikers en afnemers van gemeentelijke producten en diensten.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "bulletList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Het van groot belang is voor het dagelijks leven en de veiligheid van inwoners en bedrijven van gemeente, en zonder de beschikbaarheid van deze dienst worden inwoners ernstig aangetast in hun rechten en lijden zij mogelijk materiele schade en/of gezondheidsschade.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "De VNG adviseerde de benadering klantperspectief / klantgerichte benadering in de factsheet “Continuïteitsmanagement bij gemeenten; een handreiking met best practices en adviezen”. Het is aan te bevelen om voor het prioriteren van bedrijfsprocessen een ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "klantgerichte benadering",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " te hanteren. Hierbij wordt het belang van bedrijfsprocessen bepaald aan de hand van ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "het belang dat een gebruiker of afnemer heeft bij de continuïteit van een bepaald(e) dienst of product",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": ". Vanuit deze producten en diensten kan vervolgens worden terug geredeneerd naar de bijdrage van verschillende gemeentelijke bedrijfsprocessen aan de totstandkoming hiervan. Hierdoor ontstaat tevens een beter over- en inzicht in de onderlinge afhankelijkheden tussen diverse gemeentelijke bedrijfsprocessen.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "De scope voor een continuïteitsplan kan worden beperkt tot de gemeentelijke bedrijfsvoering en niet als rampenplan voor buiten. Denk hierbij aan de Veiligheidsregio, daarvoor is de GRIP structuur ontwikkeld. Deze plannen dienen wel op elkaar afgestemd te zijn.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Criteria",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Hieronder volgen criteria om vast te stellen of een bedrijfsproces kritisch is of niet, deze zijn:",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Het om de uitvoering van wetgeving gaat.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Het de continuïteit van de gemeentelijke dienstverlening raakt.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Het bedrijfsproces cruciaal is voor (andere) kritische bedrijfsprocessen.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Het bedrijfsproces binnen (2*) 24 uur weer beschikbaar moet zijn.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Uitval van het bedrijfsproces ernstige schade toebrengt aan het imago van de gemeente.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Uitval van het bedrijfsproces impact heeft op maatschappelijke ontwrichting.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Uitval van het bedrijfsproces leidt tot grote (herstel)schade of inkomstenderving met grote financiële consequenties.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "bulletList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Een bedrijfsproces is kritisch als het voldoet aan 1 of meerdere bovenstaande criteria.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Soms is een bedrijfsproces op een bepaald moment in de maand kritisch (bijvoorbeeld uitbetaling uitkeringen, loonbetalingen, et cetera) en de rest van de maand minder of helemaal niet. Een ander voorbeeld hiervan zijn verkiezingen.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Uitgangspunten",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Onderstaande uitgangspunten kunnen worden gebruikt om vast te stellen wat de volgorde is om kritische bedrijfsprocessen te herstellen:",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Veiligheid van mensen (burgers, bezoekers en medewerkers) gaat voor wetgeving.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Wetgeving gaat voor de continuïteit van externe bedrijfsprocessen.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "De continuïteit van externe bedrijfsprocessen gaat voor de continuïteit van interne bedrijfsprocessen.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Crisisbestrijding gaat voor normale werkzaamheden.",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "bulletList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "\n",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": null,
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        }
+      ],
+      "type": "paragraph"
+    }
+  ],
+  "type": "doc"
+}

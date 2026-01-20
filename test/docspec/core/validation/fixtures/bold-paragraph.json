@@ -1,0 +1,71 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "id": "2e9cb547-c5f2-4d40-adcd-5c752f34cc03",
+          "text": "Heading 1",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "6fbc59dd-2e6c-48ba-9ae3-1b6ff65f0ee3",
+      "level": 1,
+      "type": "https://alpha.docspec.io/Heading"
+    },
+    {
+      "children": [
+        {
+          "id": "00000000-55d9-4dbd-aa0d-6e56a50a3344",
+          "styles": {
+            "bold": true
+          },
+          "text": "This is a paragraph",
+          "type": "https://alpha.docspec.io/Text"
+        },
+        {
+          "id": "11111111-55d9-4dbd-aa0d-6e56a50a3344",
+          "styles": {
+            "italic": true
+          },
+          "text": " ",
+          "type": "https://alpha.docspec.io/Text"
+        },
+        {
+          "id": "22222222-2ec1-4629-8ed8-a3e930c4558a",
+          "styles": {
+            "bold": true
+          },
+          "text": "that displays ",
+          "type": "https://alpha.docspec.io/Text"
+        },
+        {
+          "id": "33333333-c117-42c1-9296-f6fab1bc3351",
+          "styles": {
+            "bold": true,
+            "italic": true
+          },
+          "text": "fully bold",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "5c7698d4-27cf-4413-a13b-b52a3870cc64",
+      "type": "https://alpha.docspec.io/Paragraph"
+    },
+    {
+      "children": [
+        {
+          "id": "88888888-55d9-4dbd-aa0d-6e56a50a3344",
+          "styles": {
+            "italic": true
+          },
+          "text": " ",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "99999999-27cf-4413-a13b-b52a3870cc64",
+      "type": "https://alpha.docspec.io/Paragraph"
+    }
+  ],
+  "id": "9aed910c-7199-42c6-84b9-0fa89fd7f166",
+  "type": "https://alpha.docspec.io/Document"
+}

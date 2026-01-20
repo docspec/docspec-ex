@@ -1,0 +1,30 @@
+{
+  "attrs": {
+    "assets": {},
+    "id": "aa075037-cf9b-40ac-9498-7126c0f35823"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "ade5ee53-4af8-4928-81e8-481b8a98b69a",
+        "level": 7
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "ac8e8442-763e-4aa1-98d7-4db9de601819"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Lorem Ipsum",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    }
+  ],
+  "type": "doc"
+}

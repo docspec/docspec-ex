@@ -1,0 +1,44 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "bold": true
+            },
+            "text": "VML Image",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 1,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "It should follow below:",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "metadata": {
+      "authors": [
+        {
+          "name": "Online2PDF.com"
+        }
+      ],
+      "language": "en-US",
+      "title": "Fictitious Transactions"
+    },
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

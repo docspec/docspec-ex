@@ -1,0 +1,44 @@
+{
+  "type": "doc",
+  "attrs": {
+    "id": "aa075037-cf9b-40ac-9498-7126c0f35823",
+    "validationFindingIds": [],
+    "highestSeverity": null
+  },
+  "content": [
+    {
+      "type": "blockquote",
+      "attrs": {
+        "id": "64e2d8fe-4599-4618-849c-9b75f08fca3c",
+        "validationFindingIds": [],
+        "highestSeverity": null
+      },
+      "content": [
+        {
+          "type": "paragraph",
+          "attrs": {
+            "id": "81ff80de-1df5-493b-a9f6-1f7bf36ce026",
+            "validationFindingIds": [],
+            "highestSeverity": null
+          },
+          "content": [
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "meta",
+                  "attrs": {
+                    "id": "c645321f-9ce0-453e-9a7c-88184dedbde5",
+                    "highestSeverity": null,
+                    "validationFindingIds": []
+                  }
+                }
+              ],
+              "text": "Donec at risus elit. Nunc sed diam placerat, pharetra dolor nec, ullamcorper ipsum. Nunc cursus justo erat, ac porta urna bibendum in. Sed facilisis, nibh eu feugiat dictum, justo orci luctus orci, viverra tincidunt risus leo vel nisl. "
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

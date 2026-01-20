@@ -1,0 +1,103 @@
+{
+  "type": "doc",
+  "attrs": {
+    "id": "aa075037-cf9b-40ac-9498-7126c0f35823",
+    "validationFindingIds": [],
+    "highestSeverity": null
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "attrs": {
+        "id": "8fe5133c-f8e5-4a96-979b-844620ab243d",
+        "validationFindingIds": [],
+        "highestSeverity": null
+      },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "meta",
+              "attrs": {
+                "id": "d6912974-892a-49a4-a26f-295d4363ca78",
+                "highestSeverity": null,
+                "validationFindingIds": []
+              }
+            },
+            {
+              "type": "link",
+              "attrs": {
+                "href": "https://example.com"
+              }
+            }
+          ],
+          "text": "Link without purpose"
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "meta",
+              "attrs": {
+                "id": "d6912974-892a-49a4-a26f-295d4363ca78",
+                "highestSeverity": null,
+                "validationFindingIds": []
+              }
+            },
+            {
+              "type": "link",
+              "attrs": {
+                "href": "https://example.com",
+                "purpose": "purpose of the link"
+              }
+            }
+          ],
+          "text": "Link with purpose"
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "meta",
+              "attrs": {
+                "id": "d6912974-892a-49a4-a26f-295d4363ca78",
+                "highestSeverity": null,
+                "validationFindingIds": []
+              }
+            },
+            {
+              "type": "link",
+              "attrs": {
+                "href": "https://example.com",
+                "purpose": null
+              }
+            }
+          ],
+          "text": "Link with purpose = null"
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "meta",
+              "attrs": {
+                "id": "d6912974-892a-49a4-a26f-295d4363ca78",
+                "highestSeverity": null,
+                "validationFindingIds": []
+              }
+            },
+            {
+              "type": "link",
+              "attrs": {
+                "href": "https://example.com",
+                "purpose": ""
+              }
+            }
+          ],
+          "text": "Link with purpose = \"\""
+        }
+      ]
+    }
+  ]
+}

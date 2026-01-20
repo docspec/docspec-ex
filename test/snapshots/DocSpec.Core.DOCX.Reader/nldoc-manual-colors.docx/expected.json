@@ -1,0 +1,100 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "textColor": {
+                "hex": "#ff0000"
+              }
+            },
+            "text": "This is a manually colored text. The text is red.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "textColor": {
+                "hex": "#6d9eeb"
+              }
+            },
+            "text": "This is a manually colored text. The text is blue",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "textColor": {
+                "hex": "#0000ff"
+              }
+            },
+            "text": ".",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "This has no color.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "highlightColor": {
+                "hex": "#ffff00"
+              },
+              "textColor": {
+                "hex": "#6d9eeb"
+              }
+            },
+            "text": "This is a manually colored text. Text is blue with yellow background.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "highlightColor": {
+                "hex": "#c01795"
+              },
+              "textColor": {
+                "hex": "#bb5c2d"
+              }
+            },
+            "text": "The text color is #bb5c2d and the highlight is #c01795.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

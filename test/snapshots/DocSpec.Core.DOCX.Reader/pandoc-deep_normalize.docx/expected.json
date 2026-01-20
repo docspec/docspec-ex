@@ -1,0 +1,183 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "text": "This is at the first level",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "text": "This is at the second level",
+                            "type": "https://alpha.docspec.io/Text"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/Paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "id": "00000000-0000-0000-0000-000000000000",
+                                    "text": "This is ",
+                                    "type": "https://alpha.docspec.io/Text"
+                                  },
+                                  {
+                                    "id": "00000000-0000-0000-0000-000000000000",
+                                    "styles": {
+                                      "italic": true
+                                    },
+                                    "text": "at ",
+                                    "type": "https://alpha.docspec.io/Text"
+                                  },
+                                  {
+                                    "id": "00000000-0000-0000-0000-000000000000",
+                                    "styles": {
+                                      "bold": true,
+                                      "italic": true
+                                    },
+                                    "text": "the ",
+                                    "type": "https://alpha.docspec.io/Text"
+                                  },
+                                  {
+                                    "id": "00000000-0000-0000-0000-000000000000",
+                                    "styles": {
+                                      "bold": true,
+                                      "highlightColor": {
+                                        "hex": "#00ff00"
+                                      },
+                                      "italic": true
+                                    },
+                                    "text": "t",
+                                    "type": "https://alpha.docspec.io/Text"
+                                  },
+                                  {
+                                    "id": "00000000-0000-0000-0000-000000000000",
+                                    "styles": {
+                                      "bold": true,
+                                      "highlightColor": {
+                                        "hex": "#00ffff"
+                                      },
+                                      "italic": true
+                                    },
+                                    "text": "h",
+                                    "type": "https://alpha.docspec.io/Text"
+                                  },
+                                  {
+                                    "id": "00000000-0000-0000-0000-000000000000",
+                                    "styles": {
+                                      "bold": true,
+                                      "italic": true
+                                    },
+                                    "text": "i",
+                                    "type": "https://alpha.docspec.io/Text"
+                                  },
+                                  {
+                                    "id": "00000000-0000-0000-0000-000000000000",
+                                    "styles": {
+                                      "bold": true,
+                                      "highlightColor": {
+                                        "hex": "#0000ff"
+                                      },
+                                      "italic": true
+                                    },
+                                    "text": "r",
+                                    "type": "https://alpha.docspec.io/Text"
+                                  },
+                                  {
+                                    "id": "00000000-0000-0000-0000-000000000000",
+                                    "styles": {
+                                      "bold": true,
+                                      "highlightColor": {
+                                        "hex": "#ff0000"
+                                      },
+                                      "italic": true
+                                    },
+                                    "text": "d",
+                                    "type": "https://alpha.docspec.io/Text"
+                                  },
+                                  {
+                                    "id": "00000000-0000-0000-0000-000000000000",
+                                    "styles": {
+                                      "bold": true,
+                                      "italic": true
+                                    },
+                                    "text": " level",
+                                    "type": "https://alpha.docspec.io/Text"
+                                  },
+                                  {
+                                    "id": "00000000-0000-0000-0000-000000000000",
+                                    "styles": {
+                                      "italic": true
+                                    },
+                                    "text": ", and I want to",
+                                    "type": "https://alpha.docspec.io/Text"
+                                  },
+                                  {
+                                    "id": "00000000-0000-0000-0000-000000000000",
+                                    "text": " test normalization here.",
+                                    "type": "https://alpha.docspec.io/Text"
+                                  }
+                                ],
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "type": "https://alpha.docspec.io/Paragraph"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/ListItem"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styleType": "lower-roman",
+                        "type": "https://alpha.docspec.io/OrderedList"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/ListItem"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "styleType": "lower-alpha",
+                "type": "https://alpha.docspec.io/OrderedList"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/OrderedList"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "metadata": {
+      "authors": [
+        {
+          "name": "Jesse Rosenthal"
+        }
+      ]
+    },
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

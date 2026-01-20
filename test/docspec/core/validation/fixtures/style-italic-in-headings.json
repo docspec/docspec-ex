@@ -1,0 +1,58 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "id": "89dfc8ec-a504-4936-893f-138c77f00289",
+          "text": "Heading ",
+          "type": "https://alpha.docspec.io/Text"
+        },
+        {
+          "id": "abcdc8ec-a504-4936-893f-138c77f0abcd",
+          "styles": {
+            "italic": true,
+            "underline": true
+          },
+          "text": "one",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "da8daf92-9103-4d9b-9d66-255744025e75",
+      "level": 1,
+      "type": "https://alpha.docspec.io/Heading"
+    },
+    {
+      "children": [
+        {
+          "id": "97bec4b1-6688-4dfd-be44-458c7c8758ee",
+          "text": "Some text.",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "7b4daeff-921e-48c0-a175-5dec77bdd646",
+      "type": "https://alpha.docspec.io/Paragraph"
+    },
+    {
+      "children": [
+        {
+          "id": "1111c8ec-a504-4936-893f-138c77f00289",
+          "text": "Heading ",
+          "type": "https://alpha.docspec.io/Text"
+        },
+        {
+          "id": "2222c8ec-a504-4936-893f-138c77f0abcd",
+          "styles": {
+            "italic": true
+          },
+          "text": "two",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "3333af92-9103-4d9b-9d66-255744025e75",
+      "level": 2,
+      "type": "https://alpha.docspec.io/Heading"
+    }
+  ],
+  "id": "42200f94-e684-4d81-a025-b52c4c747e92",
+  "type": "https://alpha.docspec.io/Document"
+}

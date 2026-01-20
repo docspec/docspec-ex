@@ -1,0 +1,1611 @@
+{
+  "document": {
+    "assets": [
+      {
+        "contentType": "image/png",
+        "data": "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",
+        "encoding": "base64",
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Asset"
+      },
+      {
+        "contentType": "image/png",
+        "data": "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",
+        "encoding": "base64",
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Asset"
+      },
+      {
+        "contentType": "image/png",
+        "data": "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",
+        "encoding": "base64",
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Asset"
+      }
+    ],
+    "children": [
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "16. Case-control study",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "bold": true
+            },
+            "text": "What’s this?",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "A ‘case-control study’ is where a group of people are invited to take part based on particular characteristic(s) or ‘exposure’ to something (e.g., child abuse or a given health condition) and are directly compared on given measures of interest to those without the condition or exposure. ",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "textAlignment": "justify",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+            "id": "00000000-0000-0000-0000-000000000000",
+            "source": {
+              "assetId": "00000000-0000-0000-0000-000000000000"
+            },
+            "type": "https://alpha.docspec.io/Image"
+          },
+          {
+            "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+            "id": "00000000-0000-0000-0000-000000000000",
+            "source": {
+              "assetId": "00000000-0000-0000-0000-000000000000"
+            },
+            "type": "https://alpha.docspec.io/Image"
+          },
+          {
+            "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+            "id": "00000000-0000-0000-0000-000000000000",
+            "source": {
+              "assetId": "00000000-0000-0000-0000-000000000000"
+            },
+            "type": "https://alpha.docspec.io/Image"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Quality Guide:",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 3,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "textColor": {
+                "hex": "#1F3864"
+              }
+            },
+            "text": "        YESNO    UNSURENOT APPLICABLE",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "italic": true,
+              "textColor": {
+                "hex": "#1F3864"
+              }
+            },
+            "text": "delete as appropriate",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "The below quality guide is based on the following established quality assessment checklist:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "“CASP Case Control Study Checklist” by ",
+                        "type": "https://alpha.docspec.io/Text"
+                      },
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "CASP (2022)",
+                        "type": "https://alpha.docspec.io/Link",
+                        "uri": "https://casp-uk.net/casp-tools-checklists/"
+                      },
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": " is licensed under a ",
+                        "type": "https://alpha.docspec.io/Text"
+                      },
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "CC-BY-SA 4.0",
+                        "type": "https://alpha.docspec.io/Link",
+                        "uri": "https://creativecommons.org/licenses/by-sa/4.0/"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "colspan": 2,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "text": "Did the study try to answer a clear and focused question or issue?",
+                                "type": "https://alpha.docspec.io/Text"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/Paragraph"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/ListItem"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/OrderedList"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Comments:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "text": "Did the authors publicly share a detailed plan or ‘protocol’ of how they would go about doing the study before they completed it? If they did, did they stick closely to the final study publication?",
+                                "type": "https://alpha.docspec.io/Text"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/Paragraph"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/ListItem"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 2,
+                    "type": "https://alpha.docspec.io/OrderedList"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "textColor": {
+                            "hex": "#000000"
+                          }
+                        },
+                        "text": "If so, please add relevant weblink for the trial protocol here:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Comments:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "text": "Did the question the authors trying to answer fit with a case-control method?",
+                                "type": "https://alpha.docspec.io/Text"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/Paragraph"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/ListItem"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 3,
+                    "type": "https://alpha.docspec.io/OrderedList"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Comments:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "text": "Were people with the condition of exposure (‘cases’) recruited to the study in an appropriate way? ",
+                                "type": "https://alpha.docspec.io/Text"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/Paragraph"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/ListItem"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 4,
+                    "type": "https://alpha.docspec.io/OrderedList"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Comments:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "text": "Were the people without the condition of exposure (‘controls’) selected in an acceptable way?",
+                                "type": "https://alpha.docspec.io/Text"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/Paragraph"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/ListItem"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 5,
+                    "type": "https://alpha.docspec.io/OrderedList"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Comments:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "text": "Was the exposure accurately measured to limit bias?",
+                                "type": "https://alpha.docspec.io/Text"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/Paragraph"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/ListItem"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 6,
+                    "type": "https://alpha.docspec.io/OrderedList"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Comments:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "text": "Aside from the condition and/or exposure that makes the case and control groups different, were the groups treated equally and similar in most other respects?",
+                                "type": "https://alpha.docspec.io/Text"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/Paragraph"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/ListItem"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 7,
+                    "type": "https://alpha.docspec.io/OrderedList"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Comments:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "text": "Have the authors tried to take into account things that might give the false impression that there are important differences between the case and control groups (i.e., ‘potential confounding factors’) in the design of the study itself and/or in when ‘crunching their data’?",
+                                "type": "https://alpha.docspec.io/Text"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/Paragraph"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/ListItem"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 8,
+                    "type": "https://alpha.docspec.io/OrderedList"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Comments:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "text": "Was the strength of difference or ‘effect’ between the case and control groups reported? What size was it? small, medium or large?",
+                                "type": "https://alpha.docspec.io/Text"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/Paragraph"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/ListItem"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 9,
+                    "type": "https://alpha.docspec.io/OrderedList"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Comments:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "text": "Was the strength of difference or ‘effect’ between the case and control groups put in context in terms of saying how precise this estimate was? ",
+                                "type": "https://alpha.docspec.io/Text"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/Paragraph"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/ListItem"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 10,
+                    "type": "https://alpha.docspec.io/OrderedList"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Comments:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "text": "Are the results believable?",
+                                "type": "https://alpha.docspec.io/Text"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/Paragraph"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/ListItem"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 11,
+                    "type": "https://alpha.docspec.io/OrderedList"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Comments:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "text": "Can the results be applied to the local population?",
+                                "type": "https://alpha.docspec.io/Text"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/Paragraph"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/ListItem"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 12,
+                    "type": "https://alpha.docspec.io/OrderedList"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Comments:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "text": "Do the results of this study fit with other studies in the scientific literature?",
+                                "type": "https://alpha.docspec.io/Text"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/Paragraph"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/ListItem"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 13,
+                    "type": "https://alpha.docspec.io/OrderedList"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Comments:",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "text": "Were there any other issues or problems with the study in terms of bias or limitations we should know about? (please state below)",
+                                "type": "https://alpha.docspec.io/Text"
+                              }
+                            ],
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "type": "https://alpha.docspec.io/Paragraph"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/ListItem"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 14,
+                    "type": "https://alpha.docspec.io/OrderedList"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with medium confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      },
+                      {
+                        "alternativeText": "Shape\n\nDescription automatically generated with low confidence",
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "source": {
+                          "assetId": "00000000-0000-0000-0000-000000000000"
+                        },
+                        "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Comments: ",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Table"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "\n",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2,
+        "type": "https://alpha.docspec.io/Heading"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "metadata": {
+      "authors": [
+        {
+          "name": "HARRISON, Anthony (LEEDS TEACHING HOSPITALS NHS TRUST)"
+        }
+      ]
+    },
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

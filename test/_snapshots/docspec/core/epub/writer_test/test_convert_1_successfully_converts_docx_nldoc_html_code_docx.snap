@@ -1,0 +1,16 @@
+[
+  {~c"mimetype", "application/epub+zip"},
+  {~c"META-INF/container.xml",
+   "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<container version=\"1.0\" xmlns=\"urn:oasis:names:tc:opendocument:xmlns:container\">\n  <rootfiles>\n    <rootfile full-path=\"OEBPS/content.opf\" media-type=\"application/oebps-package+xml\"/>\n  </rootfiles>\n</container>\n"},
+  {~c"META-INF/com.apple.ibooks.display-options.xml",
+   "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<display_options><platform name=\"*\"><option name=\"specified-fonts\">true</option></platform></display_options>\n"},
+  {~c"OEBPS/content.opf",
+   "<?xml version=\"1.0\" encoding=\"UTF-8\"?><package xmlns=\"http://www.idpf.org/2007/opf\" version=\"3.0\" unique-identifier=\"uid\"><metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:creator>Stephan Meijer</dc:creator><meta property=\"dcterms:modified\">1970-01-01T00:00:00Z</meta><dc:identifier id=\"uid\">00000000-0000-0000-0000-000000000000</dc:identifier><dc:language>en</dc:language><dc:title>Document</dc:title></metadata><manifest><item id=\"css\" href=\"css/style.css\" media-type=\"text/css\"/><item id=\"nav\" href=\"text/nav.xhtml\" media-type=\"application/xhtml+xml\" properties=\"nav\"/><item id=\"ncx\" href=\"toc.ncx\" media-type=\"application/x-dtbncx+xml\"/><item id=\"doc\" href=\"text/document.xhtml\" media-type=\"application/xhtml+xml\"/></manifest><spine toc=\"ncx\" page-progression-direction=\"ltr\"><itemref idref=\"doc\"/></spine></package>"},
+  {~c"OEBPS/text/document.xhtml",
+   "<?xml version=\"1.0\" encoding=\"UTF-8\"?><html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\"><head><link rel=\"stylesheet\" type=\"text/css\" href=\"../css/style.css\"/><title>Document</title></head><body><section epub:type=\"chapter\"><p>Here is some code in the HTML Code Style (Microsoft Word for Mac 16.72)</p><p><code>&lt;div class=&quot;foo&quot;&gt;</code></p><p><code>  &lt;p&gt;Paragraph in HTML&lt;/p&gt;</code></p><p><code>&lt;/div&gt;</code></p></section></body></html>"},
+  {~c"OEBPS/text/nav.xhtml",
+   "<?xml version=\"1.0\" encoding=\"UTF-8\"?><html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\"><head><link rel=\"stylesheet\" type=\"text/css\" href=\"../css/style.css\"/><title>Document</title></head><body><nav epub:type=\"toc\" id=\"toc\"><h1>Table of Contents</h1><ol><li><a href=\"document.xhtml\">Document</a></li></ol></nav></body></html>"},
+  {~c"OEBPS/toc.ncx",
+   "<?xml version=\"1.0\" encoding=\"UTF-8\"?><ncx xmlns=\"http://www.daisy.org/z3986/2005/ncx/\" version=\"2005-1\"><head><meta name=\"dtb:uid\" content=\"00000000-0000-0000-0000-000000000000\"/></head><docTitle><text>Placeholder</text></docTitle><navMap><navPoint id=\"doc\" playOrder=\"1\"><navLabel><text>Document</text></navLabel><content src=\"text/document.xhtml\"/></navPoint></navMap></ncx>"},
+  {~c"OEBPS/css/style.css", ""}
+]

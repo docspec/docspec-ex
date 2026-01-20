@@ -1,0 +1,129 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "id": "48a23a97-e2c1-4593-a818-33480f6fe6f3",
+            "text": "Some example text.",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-4000-8000-000000000000",
+            "resourceId": "233c8540-7e49-457c-8425-5ecb0b83455b",
+            "type": "https://alpha.docspec.io/FootnoteReference"
+          }
+        ],
+        "id": "cd526cac-1586-4abe-89d4-6b3bc7a83261",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "afeed537-7619-4c56-84fc-11d464fe6929",
+            "text": "Lorem ipsum",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-4000-8000-000000000000",
+            "resourceId": "4cb01c31-5e57-4d06-a898-3f4e42d74569",
+            "type": "https://alpha.docspec.io/FootnoteReference"
+          }
+        ],
+        "id": "3fe717bf-258e-43c6-a76f-e0f6aac869e1",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "id": "9ed4e837-2b99-4242-83de-ecd2063b74d1",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "5c386bd5-9657-4725-900c-c4c6b706862f",
+            "text": "Dolor sit",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-4000-8000-000000000000",
+            "resourceId": "2f38af31-839e-4502-8d6a-c60adf5f066e",
+            "type": "https://alpha.docspec.io/FootnoteReference"
+          }
+        ],
+        "id": "fc0194e0-f811-41fe-9343-88cc09b8f077",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "id": "85d3934f-7bce-4aa1-9b01-ca2e99dc5144",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "b30d0865-141d-4d17-8c23-338d4500343e",
+            "text": "End of document",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "01bd036a-771f-497f-a617-f239a002a416",
+        "type": "https://alpha.docspec.io/Paragraph"
+      }
+    ],
+    "footnotes": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": "00000000-0000-4000-8000-000000000000",
+                "text": "Footnote Three",
+                "type": "https://alpha.docspec.io/Text"
+              }
+            ],
+            "id": "00000000-0000-4000-8000-000000000000",
+            "type": "https://alpha.docspec.io/Paragraph"
+          }
+        ],
+        "id": "2f38af31-839e-4502-8d6a-c60adf5f066e",
+        "type": "https://alpha.docspec.io/Footnote"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": "00000000-0000-4000-8000-000000000000",
+                "text": "Footnote two",
+                "type": "https://alpha.docspec.io/Text"
+              }
+            ],
+            "id": "00000000-0000-4000-8000-000000000000",
+            "type": "https://alpha.docspec.io/Paragraph"
+          }
+        ],
+        "id": "4cb01c31-5e57-4d06-a898-3f4e42d74569",
+        "type": "https://alpha.docspec.io/Footnote"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "id": "00000000-0000-4000-8000-000000000000",
+                "text": "Footnote one",
+                "type": "https://alpha.docspec.io/Text"
+              }
+            ],
+            "id": "00000000-0000-4000-8000-000000000000",
+            "type": "https://alpha.docspec.io/Paragraph"
+          }
+        ],
+        "id": "233c8540-7e49-457c-8425-5ecb0b83455b",
+        "type": "https://alpha.docspec.io/Footnote"
+      }
+    ],
+    "id": "6a6dac17-142d-4eab-bbbb-c86022bc8636",
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

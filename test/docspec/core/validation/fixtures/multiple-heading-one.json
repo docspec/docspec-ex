@@ -1,0 +1,75 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "id": "5814c268-857a-46a9-b51d-3788a26d9064",
+          "text": "Heading one",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "eea926ae-1ba2-49f0-9b1b-333b4bc295f4",
+      "level": 1,
+      "type": "https://alpha.docspec.io/Heading"
+    },
+    {
+      "children": [
+        {
+          "id": "97bec4b1-6688-4dfd-be44-458c7c8758ee",
+          "text": "Some text.",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "7b4daeff-921e-48c0-a175-5dec77bdd646",
+      "type": "https://alpha.docspec.io/Paragraph"
+    },
+    {
+      "children": [
+        {
+          "id": "fe23f205-af39-45ea-86b2-728e895b18f2",
+          "text": "Heading two",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "412a1871-ba6f-4b40-8af1-f797185c9744",
+      "level": 2,
+      "type": "https://alpha.docspec.io/Heading"
+    },
+    {
+      "children": [
+        {
+          "id": "bf8239db-bfcb-4166-ba43-1b0500937109",
+          "text": "Some text.",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "697ea9b4-ee18-4b9b-87ff-6fcc4503e178",
+      "type": "https://alpha.docspec.io/Paragraph"
+    },
+    {
+      "children": [
+        {
+          "id": "bd7928a0-b9e3-4c3c-afeb-bfa967e7105b",
+          "text": "Heading one",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "c188cce7-e2aa-4e25-840f-be7760bf6a5f",
+      "level": 1,
+      "type": "https://alpha.docspec.io/Heading"
+    },
+    {
+      "children": [
+        {
+          "id": "934d33c8-0d76-49a9-8b31-02483471e9b9",
+          "text": "Some text",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "81bf782a-5d00-4cf6-8e32-af1ec33fa4c4",
+      "type": "https://alpha.docspec.io/Paragraph"
+    }
+  ],
+  "id": "26ddb13d-b622-4826-9e49-9577658de593",
+  "type": "https://alpha.docspec.io/Document"
+}

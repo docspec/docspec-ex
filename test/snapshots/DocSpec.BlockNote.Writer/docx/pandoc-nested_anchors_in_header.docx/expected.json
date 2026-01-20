@@ -1,0 +1,194 @@
+[
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Оглавление",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Short instructions1",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Some instructions1",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Remote folder or longlonglonglonglong file with manymanymanymany letters inside opening2",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Remote folder or longlonglonglonglong file with manymanymanymany letters inside closing2",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Short instructions",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 1,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Open remote folder ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Do staff",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Close remote folder ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Some instructions",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 1,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Lines",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Remote folder or longlonglonglonglong file with manymanymanymany letters inside opening",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 2,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Open folder",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Remote folder or longlonglonglonglong file with manymanymanymany letters inside closing",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 2,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Close folder",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  }
+]

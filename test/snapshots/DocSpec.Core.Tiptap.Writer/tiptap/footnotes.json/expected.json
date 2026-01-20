@@ -1,0 +1,103 @@
+{
+  "attrs": {
+    "assets": {},
+    "id": "6a6dac17-142d-4eab-bbbb-c86022bc8636"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "cd526cac-1586-4abe-89d4-6b3bc7a83261"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "48a23a97-e2c1-4593-a818-33480f6fe6f3"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Some example text.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "3fe717bf-258e-43c6-a76f-e0f6aac869e1"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "afeed537-7619-4c56-84fc-11d464fe6929"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Lorem ipsum",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "9ed4e837-2b99-4242-83de-ecd2063b74d1"
+      },
+      "content": [],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "fc0194e0-f811-41fe-9343-88cc09b8f077"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "5c386bd5-9657-4725-900c-c4c6b706862f"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Dolor sit",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "85d3934f-7bce-4aa1-9b01-ca2e99dc5144"
+      },
+      "content": [],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "01bd036a-771f-497f-a617-f239a002a416"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "b30d0865-141d-4d17-8c23-338d4500343e"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "End of document",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    }
+  ],
+  "type": "doc"
+}

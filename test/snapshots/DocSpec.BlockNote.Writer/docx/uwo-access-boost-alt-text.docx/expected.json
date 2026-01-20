@@ -1,0 +1,633 @@
+[
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Accessibility Boost: Alt Text",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 1,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": " What?",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 2,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "caption": "Question mark icon",
+      "url": "data:image/png;base64,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"
+    },
+    "type": "image"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true,
+          "textColor": "blue"
+        },
+        "text": "Alternative text",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": ", commonly called “Alt Text”, is a hidden description of an image. It is read by screen readers or displayed on the screen when an image fails to load. ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": " Why? ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 2,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "caption": "Magnifying glass icon",
+      "url": "data:image/png;base64,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"
+    },
+    "type": "image"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "The ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "bold": true,
+          "textColor": "blue"
+        },
+        "text": "purpose of alternative text",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": " is to describe the important parts of an image to ensure that blind, low-vision, and other learners unable to visually access the image receive an equitable experience and don’t miss key information.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": " Where?",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 2,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "caption": "Icon of a map location\n\n",
+      "url": "data:image/png;base64,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"
+    },
+    "type": "image"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true,
+          "textColor": "blue"
+        },
+        "text": "Alternative text",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": " should be applied to images in documents, presentation slides, course sites, or any other locations that contain visual information. ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": " How? ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 2,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "caption": "Key icon",
+      "url": "data:image/png;base64,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"
+    },
+    "type": "image"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true,
+          "textColor": "blue"
+        },
+        "text": "Alt Text",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "textColor": "blue"
+        },
+        "text": " ",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": "should be ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "textColor": "green",
+          "underline": true
+        },
+        "text": "concise",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "textColor": "green"
+        },
+        "text": " ",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": "and ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "textColor": "green",
+          "underline": true
+        },
+        "text": "contextual",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": ".",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Concise",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 3,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Describe only the relevant information in the image.",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": " ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "caption": "The photosynthesis equation shows that six carbon dioxide molecules and six water molecules produce one sugar molecule and one oxygen molecule. The sugar molecule is made of 6 carbons, 12 hydrogens, and 6 oxygens. Sunlight is used as an energy source.",
+      "url": "data:image/png;base64,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"
+    },
+    "type": "image"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Image from Concepts of Biology - 1st Canadian Edition by Charles Molnar and Jane Gair",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "textAlignment": "center"
+    },
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "A concise description helps highlight the important information in the image: ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "italic": true
+        },
+        "text": "“The photosynthesis equation shows that six carbon dioxide molecules and six water molecules produce one sugar molecule and one oxygen molecule. The sugar molecule is made of 6 carbons, 12 hydrogens, and 6 oxygens. Sunlight is used as an energy source.”",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Contextual",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 3,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Describe the aspects of the image that are important to the specific context in which you’re using it",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "In an article about the ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "bold": true,
+          "textColor": "blue"
+        },
+        "text": "underfunding of museums",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": ", the alt text might be ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "italic": true
+        },
+        "text": "“A sign stating that the museum is temporarily closed”. ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "caption": "Three signs that read &quot;The museum is temporarily closed. We look forward to welcoming you again soon&quot; in English, French and German. ",
+      "url": "data:image/png;base64,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"
+    },
+    "type": "image"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "In a presentation about",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": " ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "bold": true,
+          "textColor": "blue"
+        },
+        "text": "multi-lingual heritage sites",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": ", the alt text might be ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "italic": true
+        },
+        "text": "“A row of three signs that read ‘The museum is temporarily closed. We look forward to welcoming you again soon’ in English, French and German.",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "bold": true,
+          "italic": true
+        },
+        "text": "”",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Do",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 3,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Include important text that appears in the image in the alt text description",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Use inclusive language in your descriptions (see guide below)",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Mark decorative images as “Decorative” in the alt text menu",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "caption": "Checkbox that reads &quot;Mark as decorative&quot; from Microsoft Word.",
+      "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAMAAAANIilAAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAALEUExURQAAAAAAAAAAAAAAgAAAAAAAVQBVVQAAQABAQAAzZgBVagBOdgA3bQBJbQBVdwBHcQBVeQBRdABOZABObwBOegBZbwBVdQBHcABScABMaABQdQZXdgBVcwZPcwBNcQBTcQZTcQBPcQBVdQVVdQVVegBTcgVTcgVTeABScABQcwBTcQVTdAVTeQBSdgVXdgRUcgRUdwRSdQRWdQRWeQRScwRSdgRVeARUdQdUcwNTdQNWeQdaeQNVdwNYdwdVdwBUdQdXdQdXeQNWdANWdwdWdwNVdgNUdAZXdwZWdgZZeQZVeABUcgNTcQNWdwZWdwNVcgZVdQNRdAZUdwNQcwVXdgRYdwdXeAlWeQZWdARVdwRXdwZXdwJUdAJUdgRWdgZWdgJWdQhZeQZXdwdXdwZXdgZXeAdXeAdZeAdWdwdWdgdXdgVXdwVYeAVWdgdYdgdYdwhZdwZWeAZXdAZXdQZXeAZZeAZXdAZYdAZYdgZWeAZYeAZXeAZZeAZZeQZYeQhYdQVYdgZYdghWdwhWeQhYdghZeQVXdQZWdwlZeAdVdwZVcwZVeAZWdgZWeAdWdgdWeAdXdgZVdwVWeQhXdwVUdQVVcwVVdgVVdQVYeAhVdQdXeAdVeAdYeAdYeAdYdgdYeAdVeAdXeAdXdQdXdgdXeAdYdgdVdQVXdQdWdwhYeQVUdgVUdwdXdwhXeAhYeAVUdAZUdgZUdwhYdwZVdghYdwhZeQdXeAdYeAZXdwdYeAZYeAZYeQdYdwdYeAVUdQVXdgdXeAVWdQVTdwdYdwdYeAVWdAdXeAhXeAVTcwhYeQZTdAZTeQZUdAZWdgVWdAZTdwdZeAdXdwdYdwdYeAdXdwhWeAZXdgZXdwdXdwhXdwZYdwdWdgdXdgdXdwdXeAdYdwdYdwdWeAdXeAhYdghYdghVdQhYdwhYeAhYdwhYeAlYeAlZeV65gLsAAADrdFJOUwABAgIDAwMEBAUMDQ4ODxIVFhcXFxcYGRkbIykqKisrKy0wMDAxMTEyMzQ3Nzg4Ojo7Ozs+QUJGSUpKSktLS0xMTE1NTU5PT1BQUVVWVlZXV1hYWWF0dXZ3eHh4eXl5eXqBiYmKioqKi4yMkpOXl5yeoKGhoaGioqKjo6SkpKWlqampqampqqqqr7OztLS0tLW5uru9vr6/v7/BwsLDxMTR0dLS0tPW19nZ2tra2trb29vb3N7f4OPk5Ofn5+fo6Ojp6urq6+vr7Ozt7e3u8fLy8/Pz9PT19fX19vf39/f4+fr6+/z9/f3+/v4m1aRhAAAACXBIWXMAACHVAAAh1QEEnLSdAAADuklEQVRIS42X+aMNZRzG33u59rWLqLiSG0kLKbILIQqp7JLEdUukZF9LVISQ9ZBKtmQJRW6iuooslSVKSnUzvf+Eeb7vM3Nm5rxn+fwy3+f5fp85c2bemTNHJSGvYHnsJ+1yLraq4FaaGdHzgoNcHOdSb7bScO9GJiJ82JwDyWm9hrMWYu05lISdkeMN42znmI2ufnTPjJo5NFV29amf0ta6K80EZnvZUbXo+OSOYM95jU6E06atB1FHGMT2SeogFQ5J69or1BZeuiYjRRWp4xRJo/h2SisNi2WoiNLnlNhfUSXliIwdpyJvwPt/CVUK3pH061TCw3Iul5ShTEEpSTudKYFk0x6z4aikKVy2QR+j8MnpPnbcuBe7Z1P6HMP0LgrVGh9cchsVKffuVQxp/eficrRIoxLYbankXphIQe7wVpuL05gmmQxznanvkQlTe/QTz+cB2oZs2bG5Q99HOVBKj/gdQu5nwzAE1kYppSuVz1/irUW5WcovxPYRD0UvFKPE83hQmi2MeEKOopUR5DlYfdziAooaxiQHYLWjUH2hPqYw5ML6zS2w4z3G80DrX9YukJHvtcNY9bCZTo/AGsPa5QVo1mQmrDxVgE11eoYcWI9QuAyAZk1qwypUy7GJLEFYd7N2eR6aNSmLL7tCrUvsqLv27uvPEhy2jCAcUz9bOmFuwsSvFB4In7WdyjCV5Do/RuUhZrpw1aevYOCH8tQe6cMdPi+WIa1b0vFJG67KpNbP0IljwilOWDe0XP4bTCMAwr+oGNp0IjC8/2bqIAivV++hn0UrjITfpAhTGuGVtuXpIeEeFGG4POtiM4VemGrYfRWKMNOQqm+O/hN6EZr883dllhG2IOxuz2Oba7xMuQGZ392iN4pnjZkpI5DBY0iWSeDnIxPwVc31/QDVMCkjLNV6GcsQw5D4SMpmKG2X+kn4T1EEyJIPvs8IeR5MMHWQefAXUAR4GX6Mog32VNKAKk5T+IHHEcmXH7pOVGo7VDFFgDvHj0/MKnkx2U3hAqmPUKThexmmAA/JKVhUijIF2W9j0vEPGsyBpRdSpeAtGZxLRU6I+R1VUswxf0nl87XY3+ZTWsn/RoYSXuJURfMKWDLJ/mBwyXpVrpHt9VGpH6WlnaHUEYbLSdX6IHWE+Wzr0Ql3aO5I9pzIuYrTxUvrHbPq+C9QOTdO20pb6y40bXzGGRfHh4ZLYF3Z6Ch3iZ0NoaVhpXmSv0ab0v81Eh69zIDPH4+zlRG3FK5YfwaxixtWF9r/Dip1HWjIrK3ejw1gAAAAAElFTkSuQmCC"
+    },
+    "type": "image"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Don’t",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 3,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Start descriptions with “Image of…” or “Picture of…”",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Describe images that are purely decorative",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Repeat information that appears elsewhere in the content ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Editorialize or include your own feelings or opinions about the image",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "More resources",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 2,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "caption": "Logo of an ellipse (three periods)\n",
+      "url": "data:image/png;base64,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"
+    },
+    "type": "image"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": "How to add Alt Text to MS Word and PowerPoint",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": " provides steps on how to add alt text to images in different versions of Word and PowerPoint. ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": "Writing Alt Text for Data Visualization",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "bold": true,
+          "textColor": "blue"
+        },
+        "text": " ",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": "provides guidelines on writing alt text for charts, graphs, and other data visualizations",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": "A Guide for Inclusive Language",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": " is a comprehensive guide to language for describing people in an inclusive way. ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  }
+]

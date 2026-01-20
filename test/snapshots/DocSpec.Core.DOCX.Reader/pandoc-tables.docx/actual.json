@@ -1,0 +1,546 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "A table, with and without a header row",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Name",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Game",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Fame",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Blame",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Lebron James",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Basketball",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Very High",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Leaving Cleveland",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Ryan Braun",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Baseball",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Moderate",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Steroids",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Russell Wilson",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Football",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "High",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Tacky uniform",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Table"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Sinple",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Table",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Without",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Header",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Table"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Simple",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Multiparagraph",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Table",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Full",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Of",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Paragraphs",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "In each",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "text": "Cell.",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/TableCell"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/TableRow"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Table"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "metadata": {
+      "authors": [
+        {
+          "name": "Jesse Rosenthal"
+        }
+      ]
+    },
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

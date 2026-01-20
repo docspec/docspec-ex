@@ -57,36 +57,5 @@ jobs:
       - name: Run Dialyzer
         run: mix dialyzer --format github
 
-  blocknote-validation:
-    name: Validate BlockNote output
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: erlef/setup-beam@v1
-        with:
-          elixir-version: '1.19'
-          otp-version: '27'
-
-      - uses: denoland/setup-deno@v2
-        with:
-          deno-version: v2.x
-
-      - name: Cache Mix dependencies
-        uses: actions/cache@v4
-        with:
-          path: |
-            deps
-            _build
-          key: ${{ runner.os }}-mix-1.19-27-${{ hashFiles('**/mix.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-mix-1.19-27-
-
-      - name: Install dependencies
-        run: mix deps.get
-
-      - name: Generate snapshot outputs
-        run: mix test
-
       - name: Validate BlockNote JSON with official library
         run: deno run --allow-read --allow-env .ci/main.ts test/snapshots/**/**/actual.json

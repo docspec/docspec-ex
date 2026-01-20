@@ -1,0 +1,24 @@
+[
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "This is an example of ",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": "inline   code",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": " with three spaces.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  }
+]

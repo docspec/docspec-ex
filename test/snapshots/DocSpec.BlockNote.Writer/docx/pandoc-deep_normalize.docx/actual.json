@@ -1,0 +1,124 @@
+[
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "content": [
+              {
+                "styles": {},
+                "text": " test normalization here.",
+                "type": "text"
+              },
+              {
+                "styles": {
+                  "italic": true
+                },
+                "text": ", and I want to",
+                "type": "text"
+              },
+              {
+                "styles": {
+                  "bold": true,
+                  "italic": true
+                },
+                "text": " level",
+                "type": "text"
+              },
+              {
+                "styles": {
+                  "backgroundColor": "orange",
+                  "bold": true,
+                  "italic": true
+                },
+                "text": "d",
+                "type": "text"
+              },
+              {
+                "styles": {
+                  "backgroundColor": "blue",
+                  "bold": true,
+                  "italic": true
+                },
+                "text": "r",
+                "type": "text"
+              },
+              {
+                "styles": {
+                  "bold": true,
+                  "italic": true
+                },
+                "text": "i",
+                "type": "text"
+              },
+              {
+                "styles": {
+                  "backgroundColor": "blue",
+                  "bold": true,
+                  "italic": true
+                },
+                "text": "h",
+                "type": "text"
+              },
+              {
+                "styles": {
+                  "backgroundColor": "green",
+                  "bold": true,
+                  "italic": true
+                },
+                "text": "t",
+                "type": "text"
+              },
+              {
+                "styles": {
+                  "bold": true,
+                  "italic": true
+                },
+                "text": "the ",
+                "type": "text"
+              },
+              {
+                "styles": {
+                  "italic": true
+                },
+                "text": "at ",
+                "type": "text"
+              },
+              {
+                "styles": {},
+                "text": "This is ",
+                "type": "text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "props": {
+              "start": 1
+            },
+            "type": "numberedListItem"
+          }
+        ],
+        "content": [
+          {
+            "styles": {},
+            "text": "This is at the second level",
+            "type": "text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "props": {},
+        "type": "numberedListItem"
+      }
+    ],
+    "content": [
+      {
+        "styles": {},
+        "text": "This is at the first level",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "numberedListItem"
+  }
+]

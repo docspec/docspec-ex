@@ -1,0 +1,73 @@
+[
+  {
+    "children": [
+      {
+        "children": [],
+        "content": [
+          {
+            "styles": {},
+            "text": "Head 1.2",
+            "type": "text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "props": {},
+        "type": "numberedListItem"
+      },
+      {
+        "children": [],
+        "content": [
+          {
+            "styles": {},
+            "text": "Head 1.1",
+            "type": "text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "props": {
+          "start": 1
+        },
+        "type": "numberedListItem"
+      }
+    ],
+    "content": [
+      {
+        "styles": {},
+        "text": "Head 1",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "numberedListItem"
+  },
+  {
+    "children": [
+      {
+        "children": [],
+        "content": [
+          {
+            "styles": {},
+            "text": "Head 2.1",
+            "type": "text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "props": {
+          "start": 1
+        },
+        "type": "numberedListItem"
+      }
+    ],
+    "content": [
+      {
+        "styles": {},
+        "text": "Head 2",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "numberedListItem"
+  }
+]

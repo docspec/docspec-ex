@@ -1,0 +1,26 @@
+[
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Turn my ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "italic": true
+        },
+        "text": "formatting   ",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": "off after the spaces.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  }
+]

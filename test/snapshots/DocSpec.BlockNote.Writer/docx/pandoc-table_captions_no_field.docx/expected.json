@@ -1,0 +1,176 @@
+[
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "See Table 5.1. ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Table 5.1",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": {
+      "rows": [
+        {
+          "cells": [
+            {
+              "content": [],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            },
+            {
+              "content": [
+                {
+                  "styles": {},
+                  "text": "Count",
+                  "type": "text"
+                }
+              ],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            },
+            {
+              "content": [
+                {
+                  "styles": {},
+                  "text": "%",
+                  "type": "text"
+                }
+              ],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": [
+                {
+                  "styles": {},
+                  "text": "First option",
+                  "type": "text"
+                }
+              ],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            },
+            {
+              "content": [
+                {
+                  "styles": {},
+                  "text": "242",
+                  "type": "text"
+                }
+              ],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            },
+            {
+              "content": [
+                {
+                  "styles": {},
+                  "text": "45",
+                  "type": "text"
+                }
+              ],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            }
+          ]
+        },
+        {
+          "cells": [
+            {
+              "content": [
+                {
+                  "styles": {},
+                  "text": "Second option",
+                  "type": "text"
+                }
+              ],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            },
+            {
+              "content": [
+                {
+                  "styles": {},
+                  "text": "99",
+                  "type": "text"
+                }
+              ],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            },
+            {
+              "content": [
+                {
+                  "styles": {},
+                  "text": "18",
+                  "type": "text"
+                }
+              ],
+              "id": "00000000-0000-0000-0000-000000000000",
+              "props": {
+                "colspan": 1,
+                "rowspan": 1
+              },
+              "type": "tableCell"
+            }
+          ]
+        }
+      ],
+      "type": "tableContent"
+    },
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "table"
+  }
+]

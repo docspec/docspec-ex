@@ -1,0 +1,289 @@
+{
+  "attrs": {
+    "assets": {},
+    "id": "00000000-0000-0000-0000-000000000000"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Unchecked",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Checked",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "with continuation paragraph",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "listItem"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "marks": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "meta"
+                    }
+                  ],
+                  "text": "Unchecked",
+                  "type": "text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "marks": [
+                            {
+                              "attrs": {
+                                "id": "00000000-0000-0000-0000-000000000000"
+                              },
+                              "type": "meta"
+                            }
+                          ],
+                          "text": "Checked sublist",
+                          "type": "text"
+                        }
+                      ],
+                      "type": "paragraph"
+                    },
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "content": [
+                            {
+                              "attrs": {
+                                "id": "00000000-0000-0000-0000-000000000000"
+                              },
+                              "content": [
+                                {
+                                  "marks": [
+                                    {
+                                      "attrs": {
+                                        "id": "00000000-0000-0000-0000-000000000000"
+                                      },
+                                      "type": "meta"
+                                    }
+                                  ],
+                                  "text": "Unchecked subsublist",
+                                  "type": "text"
+                                }
+                              ],
+                              "type": "paragraph"
+                            }
+                          ],
+                          "type": "listItem"
+                        }
+                      ],
+                      "type": "bulletList"
+                    }
+                  ],
+                  "type": "listItem"
+                }
+              ],
+              "type": "bulletList"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "bulletList"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 1
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000",
+                "start": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "start": 1
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "content": [
+                            {
+                              "attrs": {
+                                "id": "00000000-0000-0000-0000-000000000000",
+                                "start": 1
+                              },
+                              "content": [
+                                {
+                                  "attrs": {
+                                    "id": "00000000-0000-0000-0000-000000000000"
+                                  },
+                                  "content": [
+                                    {
+                                      "attrs": {
+                                        "id": "00000000-0000-0000-0000-000000000000"
+                                      },
+                                      "content": [
+                                        {
+                                          "marks": [
+                                            {
+                                              "attrs": {
+                                                "id": "00000000-0000-0000-0000-000000000000"
+                                              },
+                                              "type": "meta"
+                                            }
+                                          ],
+                                          "text": "Numbered child",
+                                          "type": "text"
+                                        }
+                                      ],
+                                      "type": "paragraph"
+                                    }
+                                  ],
+                                  "type": "listItem"
+                                }
+                              ],
+                              "type": "orderedList"
+                            }
+                          ],
+                          "type": "listItem"
+                        }
+                      ],
+                      "type": "orderedList"
+                    }
+                  ],
+                  "type": "listItem"
+                }
+              ],
+              "type": "orderedList"
+            }
+          ],
+          "type": "listItem"
+        }
+      ],
+      "type": "orderedList"
+    }
+  ],
+  "type": "doc"
+}

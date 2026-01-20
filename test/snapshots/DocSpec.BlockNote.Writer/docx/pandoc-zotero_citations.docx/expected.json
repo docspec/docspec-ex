@@ -1,0 +1,161 @@
+[
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "This is a citation (Smith et al., 2013)",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "This is a citation with two sources (Boer et al., 2016; Smith et al., 2013).",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "This is a citation with additional prefix,  suffix and a page number (prefix Bellomo et al., 2016, p. 2 suffix).",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Reference list",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 1,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Bellomo, K., Clement, A. C., Murphy, L. N., Polvani, L. M., & Cane, M. A. (2016). New observational evidence for a positive cloud feedback that amplifies the Atlantic Multidecadal Oscillation. ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "italic": true
+        },
+        "text": "Geophys. Res. Lett.",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": ", ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "italic": true
+        },
+        "text": "43",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": "(18), 9852–9859. https://doi.org/10.1002/2016GL069961",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Boer, G. J., Smith, D. M., Cassou, C., Doblas-Reyes, F., Danabasoglu, G., Kirtman, B., Kushnir, Y., Kimoto, M., Meehl, G. A., Msadek, R., Müller, W. A., Taylor, K. E., Zwiers, F., Rixen, M., Ruprich-Robert, Y., & Eade, R. (2016). The Decadal Climate Prediction Project (DCPP). ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "italic": true
+        },
+        "text": "Geoscientific Model Development",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": ", ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "italic": true
+        },
+        "text": "9",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": ", 3751–3777. https://doi.org/10.5194/gmd-9-3751-2016",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Smith, D. M., Eade, R., & Pohlmann, H. (2013). A comparison of full-field and anomaly initialization for seasonal to decadal climate prediction. ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "italic": true
+        },
+        "text": "Climate Dynamics",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": ", ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "italic": true
+        },
+        "text": "41",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": "(11–12), 3325–3338. https://doi.org/10.1007/s00382-013-1683-2",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  }
+]

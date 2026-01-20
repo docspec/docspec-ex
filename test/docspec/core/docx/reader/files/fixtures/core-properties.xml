@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <dc:title>Jesus He Knows Me</dc:title>
+  <dc:creator>Genesis</dc:creator>
+  <cp:keywords>song, music, satire, televangelists, religious hypocrisy, pop-rock, social commentary</cp:keywords>
+  <dc:description>Satirical song that mocks televangelists and religious hypocrisy, blending upbeat, catchy pop-rock with biting social commentary.</dc:description>
+  <cp:lastModifiedBy>Phil Collins</cp:lastModifiedBy>
+  <cp:revision>42</cp:revision>
+  <dcterms:created xsi:type="dcterms:W3CDTF">1991-03-15T07:56:00Z</dcterms:created>
+  <dcterms:modified xsi:type="dcterms:W3CDTF">1991-07-10T01:23:01Z</dcterms:modified>
+</cp:coreProperties>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="und">
+  <head>
+    <meta name="author" content="Stephan Meijer"/>
+    <title>
+      Document
+    </title>
+    <style>
+      section.footnotes { border-top: 1px solid; }
+      .lst-square { list-style-type: square; }
+      .lst-circle { list-style-type: circle; }
+    </style>
+  </head>
+  <body>
+    <p>
+      Below an example of missing list levels in between within a list.
+    </p>
+    <ol>
+      <li>
+        <p>
+          Level 1
+        </p>
+        <ol type="a">
+          <li>
+            <ol type="i">
+              <li>
+                <p>
+                  Level 3
+                </p>
+                <ol>
+                  <li>
+                    <ol type="a">
+                      <li>
+                        Level 5
+                      </li>
+                      <li>
+                        Level 6
+                      </li>
+                    </ol>
+                  </li>
+                </ol>
+              </li>
+            </ol>
+          </li>
+          <li>
+            Level 2
+          </li>
+        </ol>
+      </li>
+    </ol>
+  </body>
+</html>

@@ -1,7 +1,7 @@
 defmodule DocSpec.MixProject do
   use Mix.Project
 
-  @version "0.1.0"
+  @version "0.0.0"
   @source_url "https://github.com/docspec/docspec-ex"
 
   def project do
@@ -15,6 +15,7 @@ defmodule DocSpec.MixProject do
       elixirc_paths: elixirc_paths(Mix.env()),
       elixirc_options: [warnings_as_errors: true],
       test_coverage: [tool: ExCoveralls],
+      test_ignore_filters: [~r/test\/snapshots\//],
 
       # Docs
       name: "DocSpec",
@@ -68,9 +69,10 @@ defmodule DocSpec.MixProject do
 
   defp deps do
     [
-      {:nldoc_spec, "~> 3.1"},
-      {:nldoc_util, "~> 1.0"},
-      {:nldoc_conversion_reader_docx, "~> 1.1"},
+      # Schema definitions with Ecto types
+      {:ecto, "~> 3.12"},
+      {:typed_ecto_schema, "~> 0.4"},
+      {:polymorphic_embed, "~> 5.0"},
 
       # Defining data structures
       {:typed_struct, "~> 0.3.0"},
@@ -78,10 +80,24 @@ defmodule DocSpec.MixProject do
       # JSON Parsing
       {:jason, "~> 1.4"},
 
+      # HTML Parsing
+      {:floki, "~> 0.38"},
+
+      # XML Parsing
+      {:saxy, "~> 1.6"},
+      {:simple_form, "~> 1.0"},
+
+      # Utilities
+      {:useful, "~> 1.0"},
+      {:recase, "~> 0.9"},
+      {:html_entities, "~> 0.5"},
+      {:temp, "~> 0.4"},
+
       # Testing
-      {:nldoc_test, "~> 3.0", only: :test},
       {:excoveralls, "~> 0.18", only: :test},
       {:mimic, "~> 2.1", only: :test},
+      {:briefly, "~> 0.5", only: :test},
+      {:exposure, "~> 1.1", only: [:dev, :test], runtime: false},
 
       # Linting & static analysis
       {:dialyxir, "~> 1.4", only: [:dev, :test], runtime: false},

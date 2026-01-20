@@ -1,0 +1,135 @@
+[
+  {
+    "children": [
+      {
+        "children": [],
+        "content": [
+          {
+            "styles": {},
+            "text": "Sub Item 2",
+            "type": "text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "bulletListItem"
+      },
+      {
+        "children": [
+          {
+            "children": [],
+            "content": [
+              {
+                "styles": {},
+                "text": "Sub Item 1.1.2",
+                "type": "text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "bulletListItem"
+          },
+          {
+            "children": [],
+            "content": [
+              {
+                "styles": {},
+                "text": "Sub Item 1.1.1",
+                "type": "text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "bulletListItem"
+          }
+        ],
+        "content": [
+          {
+            "styles": {},
+            "text": "Sub Item 1.1",
+            "type": "text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "bulletListItem"
+      }
+    ],
+    "content": [
+      {
+        "styles": {},
+        "text": "Main Item 1",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "bulletListItem"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [],
+            "content": [
+              {
+                "styles": {},
+                "text": "Sub item 1.2.2",
+                "type": "text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "props": {},
+            "type": "numberedListItem"
+          },
+          {
+            "children": [],
+            "content": [
+              {
+                "styles": {},
+                "text": "Sub item 1.2.1",
+                "type": "text"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "props": {
+              "start": 1
+            },
+            "type": "numberedListItem"
+          }
+        ],
+        "content": [
+          {
+            "styles": {},
+            "text": "Sub item 1.2",
+            "type": "text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "props": {},
+        "type": "numberedListItem"
+      },
+      {
+        "children": [],
+        "content": [
+          {
+            "styles": {},
+            "text": "Sub Item 1.1",
+            "type": "text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "props": {
+          "start": 1
+        },
+        "type": "numberedListItem"
+      }
+    ],
+    "content": [
+      {
+        "styles": {},
+        "text": "Main item 1",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "numberedListItem"
+  }
+]

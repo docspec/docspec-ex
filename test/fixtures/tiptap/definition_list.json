@@ -1,0 +1,132 @@
+{
+  "type": "doc",
+  "attrs": {
+    "id": "aa075037-cf9b-40ac-9498-7126c0f35823",
+    "validationFindingIds": [],
+    "highestSeverity": null
+  },
+  "content": [
+    {
+      "type": "definitionList",
+      "attrs": {
+        "id": "75af224a-6441-4468-b362-5d962dae0384",
+        "validationFindingIds": [],
+        "highestSeverity": null
+      },
+      "content": [
+        {
+          "type": "definitionTerm",
+          "attrs": {
+            "id": "005b6be1-416a-4763-a37a-342e1cbcf0ef",
+            "validationFindingIds": [],
+            "highestSeverity": null
+          },
+          "content": [
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "meta",
+                  "attrs": {
+                    "id": "ad52bccb-0b9b-41f2-96f0-097bb19fac32",
+                    "highestSeverity": null,
+                    "validationFindingIds": []
+                  }
+                }
+              ],
+              "text": "Beast of Bodmin"
+            }
+          ]
+        },
+        {
+          "type": "definitionDetails",
+          "attrs": {
+            "id": "3ae37dfa-d634-4f25-8864-cf9f8ada846f",
+            "validationFindingIds": [],
+            "highestSeverity": null
+          },
+          "content": [
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "meta",
+                  "attrs": {
+                    "id": "33c3ca5a-ea74-47e4-9806-feb2d2bfdff4",
+                    "highestSeverity": null,
+                    "validationFindingIds": []
+                  }
+                }
+              ],
+              "text": "A large feline inhabiting Bodmin Moor."
+            }
+          ]
+        },
+        {
+          "type": "definitionTerm",
+          "attrs": {
+            "id": "fe3943b3-d5da-46f3-bccc-c7b74eb01aa0",
+            "validationFindingIds": [],
+            "highestSeverity": null
+          },
+          "content": [
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "meta",
+                  "attrs": {
+                    "id": "226284af-bf9d-4ccb-ad85-c90a7b34c206",
+                    "highestSeverity": null,
+                    "validationFindingIds": []
+                  }
+                }
+              ],
+              "text": "Morgawr"
+            }
+          ]
+        },
+        {
+          "type": "definitionDetails",
+          "attrs": {
+            "id": "074a2f64-93f7-49e0-a4f2-1a57882cd830",
+            "validationFindingIds": [],
+            "highestSeverity": null
+          }
+        },
+        {
+          "type": "definitionTerm",
+          "attrs": {
+            "id": "1af85c17-0607-4550-9114-fb739f7039e7",
+            "validationFindingIds": [],
+            "highestSeverity": null
+          }
+        },
+        {
+          "type": "definitionDetails",
+          "attrs": {
+            "id": "1085a630-f5fc-4d1f-b360-18df99720f91",
+            "validationFindingIds": [],
+            "highestSeverity": null
+          },
+          "content": [
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "meta",
+                  "attrs": {
+                    "id": "35374f4b-fadc-4085-927d-b3cf55fc769a",
+                    "highestSeverity": null,
+                    "validationFindingIds": []
+                  }
+                }
+              ],
+              "text": "A giant owl-like creature."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

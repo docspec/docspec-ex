@@ -1,0 +1,296 @@
+[
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "For each initiative below is outlined the goals, an approximate roadmap which will likely change as we iterate, signals/metrics to measure success, and initial workitems with a rough ",
+        "type": "text"
+      },
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": "schedule",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": " and contacts where available:",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": " ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {
+          "textColor": "blue"
+        },
+        "text": "State of Documentation ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "start": 1
+    },
+    "type": "numberedListItem"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true,
+          "textColor": "gray"
+        },
+        "text": "Goal:         Baseline and ongoing metrics tracking doc usefulness and completeness.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": " ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {
+          "textColor": "blue"
+        },
+        "text": "Content Migration ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "start": 2
+    },
+    "type": "numberedListItem"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "Goal: Content is accessible to new employees and is better organized/archived.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": " ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {
+          "textColor": "blue"
+        },
+        "text": "Wiki (xl)",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "start": 3
+    },
+    "type": "numberedListItem"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true,
+          "textColor": "gray"
+        },
+        "text": "Goal:         Useful documentation that is archived, searchable and easy to create",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "  ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {
+          "textColor": "blue"
+        },
+        "text": "XL Code Autoreview Bot (XLCRBot). ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "start": 4
+    },
+    "type": "numberedListItem"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true,
+          "textColor": "gray"
+        },
+        "text": "Goal:         Feedback on basic violations in seconds or minutes at most in either VS or Codeflow.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {
+          "textColor": "blue"
+        },
+        "text": "Code documentation",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "start": 5
+    },
+    "type": "numberedListItem"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true,
+          "textColor": "gray"
+        },
+        "text": "Goal:        Useful, consistent, tool supported comments ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": " ",
+        "type": "text"
+      },
+      {
+        "styles": {},
+        "text": " ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {
+          "textColor": "blue"
+        },
+        "text": "Education efforts",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "start": 6
+    },
+    "type": "numberedListItem"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true,
+          "textColor": "gray"
+        },
+        "text": "Goal:        Broad, discoverable channels for updates and news",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {
+          "bold": true
+        },
+        "text": " ",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  }
+]

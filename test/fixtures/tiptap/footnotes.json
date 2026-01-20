@@ -1,0 +1,167 @@
+{
+    "type": "doc",
+    "attrs": {
+        "id": "6a6dac17-142d-4eab-bbbb-c86022bc8636",
+        "validationFindingIds": [
+            "comment-6a6dac17-142d-4eab-bbbb-c86022bc8636-aHR0cHM6Ly9kZXF1ZXVuaXZlcnNpdHkuY29tL3J1bGVzL2F4ZS9odG1sfDQuMTB8NC4xMHxwYWdlLWhhcy1oZWFkaW5nLW9uZQ-error"
+        ],
+        "highestSeverity": "error",
+        "assets": {}
+    },
+    "content": [
+        {
+            "type": "paragraph",
+            "attrs": {
+                "id": "cd526cac-1586-4abe-89d4-6b3bc7a83261",
+                "validationFindingIds": [],
+                "highestSeverity": null
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "meta",
+                            "attrs": {
+                                "id": "48a23a97-e2c1-4593-a818-33480f6fe6f3",
+                                "highestSeverity": null,
+                                "validationFindingIds": []
+                            }
+                        }
+                    ],
+                    "text": "Some example text."
+                },
+                {
+                    "type": "footnote",
+                    "attrs": {
+                        "id": "233c8540-7e49-457c-8425-5ecb0b83455b",
+                        "validationFindingIds": [],
+                        "highestSeverity": null
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Footnote one"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "id": "3fe717bf-258e-43c6-a76f-e0f6aac869e1",
+                "validationFindingIds": [],
+                "highestSeverity": null
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "meta",
+                            "attrs": {
+                                "id": "afeed537-7619-4c56-84fc-11d464fe6929",
+                                "highestSeverity": null,
+                                "validationFindingIds": []
+                            }
+                        }
+                    ],
+                    "text": "Lorem ipsum"
+                },
+                {
+                    "type": "footnote",
+                    "attrs": {
+                        "id": "4cb01c31-5e57-4d06-a898-3f4e42d74569",
+                        "validationFindingIds": [],
+                        "highestSeverity": null
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Footnote two"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "id": "9ed4e837-2b99-4242-83de-ecd2063b74d1",
+                "validationFindingIds": [],
+                "highestSeverity": null
+            }
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "id": "fc0194e0-f811-41fe-9343-88cc09b8f077",
+                "validationFindingIds": [],
+                "highestSeverity": null
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "meta",
+                            "attrs": {
+                                "id": "5c386bd5-9657-4725-900c-c4c6b706862f",
+                                "highestSeverity": null,
+                                "validationFindingIds": []
+                            }
+                        }
+                    ],
+                    "text": "Dolor sit"
+                },
+                {
+                    "type": "footnote",
+                    "attrs": {
+                        "id": "2f38af31-839e-4502-8d6a-c60adf5f066e",
+                        "validationFindingIds": [],
+                        "highestSeverity": null
+                    },
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Footnote Three"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "id": "85d3934f-7bce-4aa1-9b01-ca2e99dc5144",
+                "validationFindingIds": [],
+                "highestSeverity": null
+            }
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "id": "01bd036a-771f-497f-a617-f239a002a416",
+                "validationFindingIds": [],
+                "highestSeverity": null
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "meta",
+                            "attrs": {
+                                "id": "b30d0865-141d-4d17-8c23-338d4500343e",
+                                "highestSeverity": null,
+                                "validationFindingIds": []
+                            }
+                        }
+                    ],
+                    "text": "End of document"
+                }
+            ]
+        }
+    ]
+}

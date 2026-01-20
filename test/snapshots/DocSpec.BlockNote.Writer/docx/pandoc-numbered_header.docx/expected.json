@@ -1,0 +1,17 @@
+[
+  {
+    "content": [
+      {
+        "styles": {},
+        "text": "A Numbered Header.",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "level": 1,
+      "textAlignment": "left"
+    },
+    "type": "heading"
+  }
+]

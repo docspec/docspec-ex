@@ -1,0 +1,38 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "希望深入了解的读者可以去看David French Belding和Kevin J. Mitchell的Foundations of Analysis, 2nd Edition,可从19页看起，或D.C. Goldrei的 ",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Classic Set Theory: For Guided Independent Study",
+            "type": "https://alpha.docspec.io/Link",
+            "uri": "https://books.google.ae/books?id=dlc0DwAAQBAJ&amp;lpg=PT29&amp;hl=zh-CN&amp;pg=PT26"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "，从第二章看起，阅读时要注意本文与这些书所不同的是并没有把实数看作是有理数集的分割。",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "metadata": {
+      "authors": [
+        {
+          "name": "i"
+        }
+      ]
+    },
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

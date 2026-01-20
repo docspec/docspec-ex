@@ -1,0 +1,57 @@
+[
+  {
+    "content": [
+      {
+        "content": [
+          {
+            "styles": {},
+            "text": "Link without purpose",
+            "type": "text"
+          }
+        ],
+        "href": "https://example.com",
+        "id": "d6912974-892a-49a4-a26f-295d4363ca78",
+        "type": "link"
+      },
+      {
+        "content": [
+          {
+            "styles": {},
+            "text": "Link with purpose",
+            "type": "text"
+          }
+        ],
+        "href": "https://example.com",
+        "id": "d6912974-892a-49a4-a26f-295d4363ca78",
+        "type": "link"
+      },
+      {
+        "content": [
+          {
+            "styles": {},
+            "text": "Link with purpose = null",
+            "type": "text"
+          }
+        ],
+        "href": "https://example.com",
+        "id": "d6912974-892a-49a4-a26f-295d4363ca78",
+        "type": "link"
+      },
+      {
+        "content": [
+          {
+            "styles": {},
+            "text": "Link with purpose = \"\"",
+            "type": "text"
+          }
+        ],
+        "href": "https://example.com",
+        "id": "d6912974-892a-49a4-a26f-295d4363ca78",
+        "type": "link"
+      }
+    ],
+    "id": "8fe5133c-f8e5-4a96-979b-844620ab243d",
+    "props": {},
+    "type": "paragraph"
+  }
+]

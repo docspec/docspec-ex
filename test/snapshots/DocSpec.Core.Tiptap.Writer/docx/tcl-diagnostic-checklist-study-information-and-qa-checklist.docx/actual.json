@@ -1,0 +1,2181 @@
+{
+  "attrs": {
+    "assets": {
+      "00000000-0000-0000-0000-000000000000": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABTCAYAAAAIhYADAAAAAXNSR0IArs4c6QAAAHhlWElmTU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAAAAAADcAAAAAQAAANwAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAAFCgAwAEAAAAAQAAAFMAAAAADVft2QAAAAlwSFlzAAAh1QAAIdUBBJy0nQAABY5JREFUeAHtnGuoFVUUx7uVppVgD+xG2aWHGGYZURGEZQ8rqJBACCv7ECiEkb2zQKwoLTKDKFGKPhRI0YeCSIzKosgsIiOkp/aAwhR7P82sfn8567YZj/fsPfecuTNn1oL/3Wtm1tp7r7/7zH6OPXu45GVgFI4H5HWus98Igp8AeutMQt7Yj8LxPHCQZdBjiqctGbgAi+HgRbCtpbUb9DOgd90ccG7/HVeiGRiH5V3gxGgPN+xn4By0+8Fh/XdciWZgNpYLwX7RHm64k4F9+HsvmAe8g91JSfyfQzBdAWbFu7ilMXAcykvgErvhaTwD6izWgjPjXdzSGLgM5T3gwxRjJCGdi+06oLGeSyIDd2Kvljc20c/NYWAJEHm+mpKjOSzFRz/bMTl8a+2iQfFysB54y8vRFNTyNoDDc/jW3uUBGNgEvLfN0RQW4PMzOCmHb+1droOB7UAryS6JDMzE/l+gZSmXRAamYv83WJzo5+YwMBH8AFaBYcAlgQENjj8CX4FDE/zcFAbU2p4HO8AU4JLIwD3Yq9OYn+jn5jCgVWSR9xoYDlwSGDga22/BT0DnVVwSGFBrexmo9V2b4OemDQZuJxV5q8HejXueRDJwKna/g9/ApEgfN2swMJL0HaDWp97XJZEBDVVE3mdgdKJv7c2Ph4FfgAjUlqRLAgN7YavDjSLvDeAdBySkiFqcyNN0zQ87pjCHrU7DbwQicCXwk1OQkCJ3YCzytM43GZRKyj5/PBK2vgciUOt8pWt9OrqvOWVZZRkVE3n/gKllrKROZS4AR5Swclph1mxDBL4J1BOXUs6gVhoi7F+y2j1BfUSeMKNkddulOs9x5xmw5y5PhuaGBs1/AJH3KSj9ge8TGpVdRFoGeZxKWOubV4YKxdTBfjJXxxh30GYcef8KRKB22caCSogOW2uZ6E9w0RDWWOdZrPXpH7VS8hi1VeW3gpOHoOb63GAzUB00dJkCKiXjqa39fDag9xVce51psdb3PvqwgstvS3GPBEG8ha65aBGiMekHwAi8tYhCO1GGpk8/BoFoiFPElE8nqYw8DaCPAZWV+6i5BaN0aQGRPB2UqYF9paWX2m8CIYnzOxiRhiphq5/VwbIKy/omSgoJVK/YqcDmBmXpVGkfqLyMIoJPQEiixojT2hyZFgn0vZqVow//ukYuJxILzFLNDk5vY4Q6w7w9KOf6NuY95Flp8+b1IDgj8WvuaebSDllIJpbvX+iT2pFpmfLQclfYQixYHWgc7DxVY7/1wPL8EL2IIRPFFCu20GCBWqqB9oGDqMpp+O4Alt+jg8ir1K4aXH8XBGoBK9VO2b4gj9yNU5jXFXkyqYrPzZlgw8Cf5Jnelymi3vddYPmohz82JYOq2aqV6VNRCzibPpgYkMgSaZbPx+h6J3a1nE10zToUI+G2hOhnY2t+SjWVq4UsJ8ow8FBXh3BVJAtPZfK5JdKv8mZjiOBLEBIX6toMuhAMJHodbASh3/kDOXTbs+mZ4EMipKvHPmWAoDVYDl8FWr5ST18rUc+bJS68/pznuyNFP/PQVluXI0CtpJdovwAhEVn9bZ43W9FelvF7getainbvdGoqS1x4/SzPw+lZD9drMj6Lua6tLCHykLBm+kMBO/o/SDdnfGJ77iCb7lF17GJthpBmJN7YCFnLV+H8V7aTG89qm0wgcu0lNyPO7qnXvRhMy9jp4HgfqL1cCgPZlmXkWboFm1XArpVq/3kkcIGBRSAkJ0Z/xZn7nwGdJNA+cgxxZqOpoUvAwMHo64AR1Cq9JvB1tcGAlqq+Aa3I24bNxIaPJxkGzuLaPs3aHZEPZ3z8MsPADK7DRYOQSHUe2nt2acHAHJ7rVENI3qtc613pEsnADdgZgSvQR0f6uVnAwJXoM4EWE7pC/gNVfrxUjol8igAAAABJRU5ErkJggg=="
+    },
+    "id": "00000000-0000-0000-0000-000000000000"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 2
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "24. Diagnostic checklist study",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "What’s this?",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "A ‘diagnostic checklist study’ is simply a way to use numbers to work out if a new test (say for a given health condition) is any better above and beyond tests that are currently available. These tests need to be good at working out if the condition or diagnosis is present or not (see overlap with ",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "underline"
+            }
+          ],
+          "text": "Measure Development Study",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": ").",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 3
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        },
+        {
+          "attrs": {
+            "alt": "Shape\n\nDescription automatically generated with low confidence",
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        },
+        {
+          "attrs": {
+            "alt": "Shape\n\nDescription automatically generated with medium confidence",
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Quality Guide:",
+          "type": "text"
+        }
+      ],
+      "type": "heading"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "        YESNO    UNSURENOT APPLICABLE",
+          "type": "text"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            },
+            {
+              "type": "italic"
+            }
+          ],
+          "text": "delete as appropriate",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 2,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "The below quality guide is based on the following established quality assessment checklist:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "“CASP Diagnostic Study Checklist” by ",
+                      "type": "text"
+                    },
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "attrs": {
+                            "href": "https://casp-uk.net/casp-tools-checklists/",
+                            "purpose": null
+                          },
+                          "type": "link"
+                        }
+                      ],
+                      "text": "CASP (2022)",
+                      "type": "text"
+                    },
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": " is licensed under a ",
+                      "type": "text"
+                    },
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "attrs": {
+                            "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+                            "purpose": null
+                          },
+                          "type": "link"
+                        }
+                      ],
+                      "text": "CC-BY-SA 4.0",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 1
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "00000000-0000-0000-0000-000000000000"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": "Did the study try to answer a clear and focused question or issue?",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    }
+                  ],
+                  "type": "orderedList"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with medium confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Comments:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 2
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "00000000-0000-0000-0000-000000000000"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": "Did the authors publicly share a detailed plan or ‘protocol’ of how they would go about doing the study before they completed it? If they did, did they stick closely to the plan in the final study publication?",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    }
+                  ],
+                  "type": "orderedList"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "If so, please add relevant weblink for the trial protocol here:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with medium confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Comments:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 3
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "00000000-0000-0000-0000-000000000000"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": "Was the new diagnostic test or checklist compared to an appropriate “gold standard” or widely accepted test or checklist? ",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    }
+                  ],
+                  "type": "orderedList"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with medium confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Comments:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 4
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "00000000-0000-0000-0000-000000000000"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": "Did all people in the study complete the new and “gold standard” diagnostic test or checklist?",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    }
+                  ],
+                  "type": "orderedList"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with medium confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Comments:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 5
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "00000000-0000-0000-0000-000000000000"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": "Could the results of the new diagnostic test or checklist have been influenced by the results of the “gold standard” one? Were the researchers giving the test aware of the test they gave people, or were they ‘blinded’?",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    }
+                  ],
+                  "type": "orderedList"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with medium confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Comments:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 6
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "00000000-0000-0000-0000-000000000000"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": "Was the health status of the tested group of people in the study (and wider population with the diagnosis) clearly described by the authors?",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    }
+                  ],
+                  "type": "orderedList"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with medium confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Comments:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 7
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "00000000-0000-0000-0000-000000000000"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": "Were the ways the new diagnostic test was used described in enough detail?",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    }
+                  ],
+                  "type": "orderedList"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with medium confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Comments:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 8
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "00000000-0000-0000-0000-000000000000"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": "Were the results clearly reported?",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    }
+                  ],
+                  "type": "orderedList"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with medium confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Comments:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 9
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "00000000-0000-0000-0000-000000000000"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": "How sure are we about the results? Did the authors provide calculations to show how precise the test is? Were there any costs and (hopefully beneficial!) outcomes of using the new diagnostic checklist?",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    }
+                  ],
+                  "type": "orderedList"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with medium confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Comments:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "start": 10
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "content": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "content": [
+                            {
+                              "marks": [
+                                {
+                                  "attrs": {
+                                    "id": "00000000-0000-0000-0000-000000000000"
+                                  },
+                                  "type": "meta"
+                                }
+                              ],
+                              "text": " Can the results be used with people using local services?",
+                              "type": "text"
+                            }
+                          ],
+                          "type": "paragraph"
+                        }
+                      ],
+                      "type": "listItem"
+                    }
+                  ],
+                  "type": "orderedList"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with medium confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Comments:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "11. Could the new test be successfully used with people and service-users (or population) of interest with good impact? ",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with medium confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Comments:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "12.Were all the measured outcomes in the study important to the individual or wider population considered?",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with medium confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Comments:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "13.Were there any other issues or problems with the study in terms of bias or limitations we should know about? (please state below)",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with medium confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "A black rectangle with a black background\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    },
+                    {
+                      "attrs": {
+                        "alt": "Shape\n\nDescription automatically generated with low confidence",
+                        "assetId": "00000000-0000-0000-0000-000000000000",
+                        "decorative": false,
+                        "id": "00000000-0000-0000-0000-000000000000"
+                      },
+                      "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        },
+        {
+          "attrs": {
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "content": [
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        }
+                      ],
+                      "text": "Comments:",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "tableCell"
+            },
+            {
+              "attrs": {
+                "colspan": 1,
+                "id": "00000000-0000-0000-0000-000000000000",
+                "rowspan": 1
+              },
+              "content": [],
+              "type": "tableCell"
+            }
+          ],
+          "type": "tableRow"
+        }
+      ],
+      "type": "table"
+    }
+  ],
+  "type": "doc"
+}

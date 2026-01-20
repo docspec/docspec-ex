@@ -1,0 +1,56 @@
+[
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "One",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {
+      "start": 1
+    },
+    "type": "numberedListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Two",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "numberedListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Three",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "numberedListItem"
+  },
+  {
+    "children": [],
+    "content": [
+      {
+        "styles": {},
+        "text": "Four",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "numberedListItem"
+  }
+]

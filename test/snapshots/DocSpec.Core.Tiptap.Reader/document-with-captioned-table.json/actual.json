@@ -1,0 +1,73 @@
+{
+  "document": {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "6af97d96-af57-488e-b41b-a2cccb4946ba",
+                        "styles": {
+                          "strikethrough": true
+                        },
+                        "text": "If you cross-reference the quantum broccoli matrix with the inverse algorithm of toast entropy, you’ll see that time actually folds itself into recursive bananas.",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "2242ce53-1e77-429a-a570-b96c8b1c6aec",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "797a9a80-b6dc-4875-a8ee-c8bb6e479e69",
+                "type": "https://alpha.docspec.io/TableHeader"
+              }
+            ],
+            "id": "797a9a80-b6dc-4875-a8ee-c8bb6e479e69",
+            "type": "https://alpha.docspec.io/TableRow"
+          }
+        ],
+        "id": "4b7afbaf-01b9-47a1-b278-fb71d08c6cc8",
+        "type": "https://alpha.docspec.io/Table"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "6af97d96-af57-488e-b41b-a2cccb4946ba",
+                        "styles": {
+                          "code": true
+                        },
+                        "text": "Consider, then, the electromagnetic wavelengths, oscillating between approximately 495–570 nanometers, an ethereal threshold where visual cognition intersects with the raw machinery of biology.",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "2242ce53-1e77-429a-a570-b96c8b1c6aec",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  }
+                ],
+                "id": "797a9a80-b6dc-4875-a8ee-c8bb6e479e69",
+                "type": "https://alpha.docspec.io/TableHeader"
+              }
+            ],
+            "id": "797a9a80-b6dc-4875-a8ee-c8bb6e479e69",
+            "type": "https://alpha.docspec.io/TableRow"
+          }
+        ],
+        "id": "4b7afbaf-01b9-47a1-b278-fb71d08c6cc8",
+        "type": "https://alpha.docspec.io/Table"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

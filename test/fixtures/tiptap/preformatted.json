@@ -1,0 +1,28 @@
+{
+  "attrs": {
+    "id": "4fa3cbd8-247a-4a87-b160-e6644882c45e"
+  },
+  "content": [
+    {
+      "attrs": {
+        "id": "30e0f156-2005-4e4f-9463-eee306c1d06c"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "06dec954-7217-42f6-8629-e1069564c07d"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "const fun = (a: string) => {\n    console.log(`Hello ${a}`)\n}",
+          "type": "text"
+        }
+      ],
+      "type": "codeBlock"
+    }
+  ],
+  "type": "doc"
+}

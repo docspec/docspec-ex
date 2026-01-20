@@ -1,0 +1,15 @@
+{
+  "document": {
+    "assets": [
+      {
+        "contentType": "image/gif",
+        "data": "R0lGODlhAQABAAAAACw=",
+        "id": "fa81f976-4e5e-4cd6-ad83-0aa6ff4effa3",
+        "type": "https://alpha.docspec.io/Asset"
+      }
+    ],
+    "id": "aa075037-cf9b-40ac-9498-7126c0f35823",
+    "type": "https://alpha.docspec.io/Document"
+  },
+  "version": "alpha"
+}

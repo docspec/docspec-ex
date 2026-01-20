@@ -1,0 +1,10 @@
+# DOCX files (test fixtures)
+*.docx filter=lfs diff=lfs merge=lfs -text
+
+# Other binary formats (if needed later)
+*.doc filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.xlsx filter=lfs diff=lfs merge=lfs -text
+*.xls filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
+*.ppt filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,35 @@
+{
+  "type": "doc",
+  "attrs": {
+    "id": "aa075037-cf9b-40ac-9498-7126c0f35823",
+    "validationFindingIds": [],
+    "highestSeverity": null
+  },
+  "content": [
+    {
+      "type": "heading",
+      "attrs": {
+        "id": "ade5ee53-4af8-4928-81e8-481b8a98b69a",
+        "validationFindingIds": [],
+        "highestSeverity": null,
+        "level": 7
+      },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "meta",
+              "attrs": {
+                "id": "ac8e8442-763e-4aa1-98d7-4db9de601819",
+                "highestSeverity": null,
+                "validationFindingIds": []
+              }
+            }
+          ],
+          "text": "Lorem Ipsum"
+        }
+      ]
+    }
+  ]
+}

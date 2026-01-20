@@ -1,0 +1,39 @@
+{
+  "assets": [
+    {
+      "contentType": "image/jpeg",
+      "data": "data:image/gif;base64,R0lGODlhAQABAAAAACw=",
+      "id": "312721d7-bb8b-4dd2-9578-5c7afecf1410",
+      "type": "https://alpha.docspec.io/Asset"
+    }
+  ],
+  "children": [
+    {
+      "children": [
+        {
+          "id": "f48af79c-a2a9-402b-ad70-cf7a3d553b9d",
+          "text": "Image without alt text",
+          "type": "https://alpha.docspec.io/Text"
+        }
+      ],
+      "id": "8a208df3-9cf5-497e-8a77-eac52cce1600",
+      "level": 1,
+      "type": "https://alpha.docspec.io/Heading"
+    },
+    {
+      "children": [
+        {
+          "id": "6ce81a13-33b0-47ff-a8b8-0fd523ececbe",
+          "source": {
+            "assetId": "312721d7-bb8b-4dd2-9578-5c7afecf1410"
+          },
+          "type": "https://alpha.docspec.io/Image"
+        }
+      ],
+      "id": "11cce438-b383-492d-b66f-a161256f38d5",
+      "type": "https://alpha.docspec.io/Paragraph"
+    }
+  ],
+  "id": "64c50782-b1f6-42bd-bfe0-87641b0f7f6a",
+  "type": "https://alpha.docspec.io/Document"
+}
