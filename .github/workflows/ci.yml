@@ -64,9 +64,6 @@ jobs:
       - name: Run Dialyzer
         run: mix dialyzer --format github
 
-      - name: Validate BlockNote JSON with official library
-        run: deno run --allow-read --allow-env .ci/main.ts test/snapshots/**/**/actual.json
-
       - name: Convert fixtures to EPUB
         run: mix run bin/convert_fixtures_to_epub.exs epub_output
 
@@ -76,6 +73,15 @@ jobs:
           name: epub-output-${{ matrix.elixir }}-${{ matrix.otp }}
           path: epub_output/
           retention-days: 7
+
+  blocknote:
+    name: BlockNote JSON validation
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: denoland/setup-deno@v2
+      - name: Validate BlockNote JSON with official library
+        run: deno run --allow-read --allow-env .ci/main.ts test/snapshots/DocSpec.BlockNote.Writer/**/expected.json
 
   epubcheck:
     name: EPUBCheck validation
