@@ -81,7 +81,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: denoland/setup-deno@v2
       - name: Validate BlockNote JSON with official library
-        run: deno run --allow-read --allow-env .ci/main.ts test/snapshots/DocSpec.BlockNote.Writer/**/expected.json
+        run: deno run --allow-read --allow-env .ci/main.ts $(find test/snapshots/DocSpec.BlockNote.Writer -name 'expected.json')
 
   epubcheck:
     name: EPUBCheck validation
