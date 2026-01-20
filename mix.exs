@@ -55,14 +55,11 @@ defmodule DocSpec.MixProject do
     ]
   end
 
-  # OTP 25 emits spurious "contract is overloaded" warnings
-  @otp_version String.to_integer(System.otp_release())
-
   defp dialyzer_config(:test),
-    do: [plt_add_apps: [:ex_unit], warnings_as_errors: @otp_version >= 26]
+    do: [plt_add_apps: [:ex_unit], warnings_as_errors: true]
 
   defp dialyzer_config(_),
-    do: [warnings_as_errors: @otp_version >= 26]
+    do: [warnings_as_errors: true]
 
   defp elixirc_paths(:test), do: ["lib", "test/support"]
   defp elixirc_paths(_), do: ["lib"]
