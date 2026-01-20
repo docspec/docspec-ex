@@ -1,8 +1,7 @@
 # Used by "mix format"
 [
-  inputs:
-    ["{mix,.formatter}.exs", "{config,lib,test}/**/*.{ex,exs}"] --
-      ["test/snapshots/**/*.exs"],
+  inputs: ["{mix,.formatter}.exs", "{config,lib,test}/**/*.{ex,exs}"],
+  excludes: ["test/snapshots/**/*.exs"],
   locals_without_parens: [
     plug: 1,
     plug: 2,
