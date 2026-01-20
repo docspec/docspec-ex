@@ -65,12 +65,14 @@ jobs:
         run: mix dialyzer --format github
 
       - name: Convert fixtures to EPUB
+        if: matrix.elixir == '1.19' && matrix.otp == '27'
         run: mix run bin/convert_fixtures_to_epub.exs epub_output
 
       - name: Upload EPUB artifacts
+        if: matrix.elixir == '1.19' && matrix.otp == '27'
         uses: actions/upload-artifact@v4
         with:
-          name: epub-output-${{ matrix.elixir }}-${{ matrix.otp }}
+          name: epub-output
           path: epub_output/
           retention-days: 7
 
@@ -94,7 +96,7 @@ jobs:
       - name: Download EPUB artifacts
         uses: actions/download-artifact@v4
         with:
-          name: epub-output-1.19-27
+          name: epub-output
           path: epub_output/
 
       - name: Install Java
