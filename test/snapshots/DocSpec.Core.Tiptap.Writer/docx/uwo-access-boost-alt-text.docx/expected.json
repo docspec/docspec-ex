@@ -714,6 +714,26 @@
     },
     {
       "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Photo by Patrick Robert Doyle on Unsplash",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
         "id": "00000000-0000-0000-0000-000000000000",
         "level": 3
       },

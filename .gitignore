@@ -29,3 +29,6 @@ docspec-*.tar
 
 
 epub_output/
+
+# Snapshot test actual output files (generated, not committed)
+test/snapshots/**/actual.*

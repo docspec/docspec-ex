@@ -5,7 +5,31 @@ defmodule DocSpec.Core.DOCX.Reader.State do
 
   alias DocSpec.Core.DOCX.Reader.AST.RunProperties
 
+  alias DocSpec.Spec.{
+    BlockQuotation,
+    DefinitionList,
+    Heading,
+    OrderedList,
+    Paragraph,
+    Preformatted,
+    Table,
+    UnorderedList
+  }
+
   use DocSpec.Util.State
+
+  @typedoc """
+  Block elements that can be extracted from nested contexts (e.g., text boxes inside paragraphs).
+  """
+  @type block() ::
+          BlockQuotation.t()
+          | DefinitionList.t()
+          | Heading.t()
+          | OrderedList.t()
+          | Paragraph.t()
+          | Preformatted.t()
+          | Table.t()
+          | UnorderedList.t()
 
   schema do
     field :has_title, boolean(), default: false
@@ -16,6 +40,12 @@ defmodule DocSpec.Core.DOCX.Reader.State do
 
     # Root list in this context is a list with ilvl = 0
     field :last_root_list_count, number(), default: 0
+
+    # Tracks whether we're inside a paragraph context (for handling nested paragraphs in text boxes)
+    field :paragraph_mode?, boolean(), default: false
+
+    # Block elements extracted from nested contexts to be inserted as siblings
+    field :extracted_paragraphs, [block()], default: []
   end
 
   @doc """

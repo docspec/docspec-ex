@@ -103,6 +103,23 @@
           {
             "id": "00000000-0000-0000-0000-000000000000",
             "styles": {
+              "bold": true,
+              "textColor": {
+                "hex": "#1F3864"
+              }
+            },
+            "text": "n/a",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
               "textColor": {
                 "hex": "#1F3864"
               }
@@ -241,6 +258,20 @@
                     ],
                     "id": "00000000-0000-0000-0000-000000000000",
                     "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "bold": true
+                        },
+                        "text": "n/a",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
                   }
                 ],
                 "id": "00000000-0000-0000-0000-000000000000",
@@ -356,6 +387,20 @@
                     ],
                     "id": "00000000-0000-0000-0000-000000000000",
                     "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "bold": true
+                        },
+                        "text": "n/a",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
                   }
                 ],
                 "id": "00000000-0000-0000-0000-000000000000",
@@ -451,6 +496,20 @@
                           "assetId": "00000000-0000-0000-0000-000000000000"
                         },
                         "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "bold": true
+                        },
+                        "text": "n/a",
+                        "type": "https://alpha.docspec.io/Text"
                       }
                     ],
                     "id": "00000000-0000-0000-0000-000000000000",
@@ -554,6 +613,20 @@
                     ],
                     "id": "00000000-0000-0000-0000-000000000000",
                     "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "bold": true
+                        },
+                        "text": "n/a",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
                   }
                 ],
                 "id": "00000000-0000-0000-0000-000000000000",
@@ -649,6 +722,20 @@
                           "assetId": "00000000-0000-0000-0000-000000000000"
                         },
                         "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "bold": true
+                        },
+                        "text": "n/a",
+                        "type": "https://alpha.docspec.io/Text"
                       }
                     ],
                     "id": "00000000-0000-0000-0000-000000000000",
@@ -752,6 +839,20 @@
                     ],
                     "id": "00000000-0000-0000-0000-000000000000",
                     "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "bold": true
+                        },
+                        "text": "n/a",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
                   }
                 ],
                 "id": "00000000-0000-0000-0000-000000000000",
@@ -847,6 +948,20 @@
                           "assetId": "00000000-0000-0000-0000-000000000000"
                         },
                         "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "bold": true
+                        },
+                        "text": "n/a",
+                        "type": "https://alpha.docspec.io/Text"
                       }
                     ],
                     "id": "00000000-0000-0000-0000-000000000000",
@@ -950,6 +1065,20 @@
                     ],
                     "id": "00000000-0000-0000-0000-000000000000",
                     "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "bold": true
+                        },
+                        "text": "n/a",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
                   }
                 ],
                 "id": "00000000-0000-0000-0000-000000000000",
@@ -1045,6 +1174,20 @@
                           "assetId": "00000000-0000-0000-0000-000000000000"
                         },
                         "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "bold": true
+                        },
+                        "text": "n/a",
+                        "type": "https://alpha.docspec.io/Text"
                       }
                     ],
                     "id": "00000000-0000-0000-0000-000000000000",
@@ -1148,6 +1291,20 @@
                     ],
                     "id": "00000000-0000-0000-0000-000000000000",
                     "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "bold": true
+                        },
+                        "text": "n/a",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
                   }
                 ],
                 "id": "00000000-0000-0000-0000-000000000000",
@@ -1243,6 +1400,20 @@
                           "assetId": "00000000-0000-0000-0000-000000000000"
                         },
                         "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "bold": true
+                        },
+                        "text": "n/a",
+                        "type": "https://alpha.docspec.io/Text"
                       }
                     ],
                     "id": "00000000-0000-0000-0000-000000000000",
@@ -1346,6 +1517,20 @@
                     ],
                     "id": "00000000-0000-0000-0000-000000000000",
                     "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "bold": true
+                        },
+                        "text": "n/a",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
                   }
                 ],
                 "id": "00000000-0000-0000-0000-000000000000",
@@ -1445,6 +1630,20 @@
                     ],
                     "id": "00000000-0000-0000-0000-000000000000",
                     "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "bold": true
+                        },
+                        "text": "n/a",
+                        "type": "https://alpha.docspec.io/Text"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
                   }
                 ],
                 "id": "00000000-0000-0000-0000-000000000000",
@@ -1540,6 +1739,20 @@
                           "assetId": "00000000-0000-0000-0000-000000000000"
                         },
                         "type": "https://alpha.docspec.io/Image"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/Paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "styles": {
+                          "bold": true
+                        },
+                        "text": "n/a",
+                        "type": "https://alpha.docspec.io/Text"
                       }
                     ],
                     "id": "00000000-0000-0000-0000-000000000000",

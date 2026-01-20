@@ -89,9 +89,11 @@ defmodule DocSpec.Core.DOCX.Reader.Convert do
 
   def convert({"w:p", _attrs, []}, acc, _docx), do: acc
 
+  # Handles both normal and nested paragraphs.
+  # When nested (inside a text box), content is extracted to be inserted as siblings.
   def convert(
         {"w:p", _attrs, xml_children},
-        {resources, current_state = %State{}},
+        {resources, current_state = %State{paragraph_mode?: nested?}},
         docx = %Reader{}
       ) do
     paragraph_properties =
@@ -102,20 +104,33 @@ defmodule DocSpec.Core.DOCX.Reader.Convert do
     style = docx.styles |> Styles.get(paragraph_properties.style_id)
     num_def = docx.numberings |> Numberings.get(paragraph_properties)
 
-    {children, new_state} = xml_children |> convert({[], current_state}, docx)
+    # Enable paragraph_mode? when processing children
+    {children, new_state} =
+      xml_children
+      |> convert({[], %State{current_state | paragraph_mode?: true}}, docx)
 
-    children
-    |> Convert.Paragraph.convert(
-      {
-        resources,
-        new_state
-        |> track_list_counter(paragraph_properties.num_properties)
-      },
-      docx,
-      style,
-      paragraph_properties,
-      num_def
-    )
+    # Pass empty resources if nested (to capture only what this paragraph produces)
+    {produced, para_state = %State{extracted_paragraphs: extracted}} =
+      children
+      |> Convert.Paragraph.convert(
+        {
+          if(nested?, do: [], else: resources),
+          new_state
+          |> track_list_counter(paragraph_properties.num_properties)
+        },
+        docx,
+        style,
+        paragraph_properties,
+        num_def
+      )
+
+    if nested? do
+      # Nested: add to extracted_paragraphs, return original resources unchanged
+      {resources, %{para_state | extracted_paragraphs: produced ++ extracted}}
+    else
+      # Normal: append extracted paragraphs as siblings, then reset state
+      {extracted ++ produced, %{para_state | extracted_paragraphs: [], paragraph_mode?: false}}
+    end
   end
 
   # -----------------------------------------------------------------------------------------------
@@ -281,9 +296,22 @@ defmodule DocSpec.Core.DOCX.Reader.Convert do
   # -----------------------------------------------------------------------------------------------
   # Alternate Content
 
-  # This skips converting alternateContent (WordArt, textboxes, etc.), as we don't do anything with them yet.
-  # TODO Implement proper logic for alternateContent that handles paragraphs inside paragraphs
-  def convert({"mc:AlternateContent", _, _}, acc, _), do: acc
+  # Process mc:Choice and mc:Fallback in order, return the first that produces content.
+  # This handles images wrapped in AlternateContent by modern editors like OnlyOffice.
+  def convert({"mc:AlternateContent", _, children}, acc, docx) do
+    children
+    |> Enum.reduce(acc, fn
+      {tag, _, choice_children}, current_acc when tag in ["mc:Choice", "mc:Fallback"] ->
+        if current_acc != acc do
+          current_acc
+        else
+          choice_children |> convert(current_acc, docx)
+        end
+
+      _, current_acc ->
+        current_acc
+    end)
+  end
 
   # -----------------------------------------------------------------------------------------------
   # Default behaviour
