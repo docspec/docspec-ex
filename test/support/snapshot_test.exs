@@ -122,7 +122,8 @@ defmodule DocSpec.Test.SnapshotTest do
         raise File.Error, path: "test", reason: :fake
       end)
 
-      assert_raise File.Error, "could not  \"test\": unknown POSIX error: fake", fn ->
+      # OTP 25 omits the atom suffix in "unknown POSIX error", OTP 26+ includes ": fake"
+      assert_raise File.Error, ~r/could not  "test": unknown POSIX error/, fn ->
         assert_snapshot(%{}, snapshot_name, format: :json)
       end
     end
