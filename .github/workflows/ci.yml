@@ -63,7 +63,7 @@ jobs:
 
       # OTP 25 emits spurious "contract is overloaded" warnings
       - name: Run Dialyzer
-        if: matrix.otp != '25'
+        continue-on-error: ${{ matrix.otp == '25' }}
         run: mix dialyzer --format github
 
       - name: Convert fixtures to EPUB
