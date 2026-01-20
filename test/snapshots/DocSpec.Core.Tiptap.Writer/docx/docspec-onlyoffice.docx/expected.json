@@ -1,6 +1,8 @@
 {
   "attrs": {
-    "assets": {},
+    "assets": {
+      "00000000-0000-0000-0000-000000000000": "data:image/jpeg;base64,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"
+    },
     "id": "00000000-0000-0000-0000-000000000000"
   },
   "content": [
@@ -110,7 +112,7 @@
               "type": "underline"
             }
           ],
-          "text": "bold",
+          "text": "bold underline",
           "type": "text"
         },
         {
@@ -122,7 +124,7 @@
               "type": "meta"
             }
           ],
-          "text": " underline ",
+          "text": " ",
           "type": "text"
         },
         {
@@ -1115,8 +1117,25 @@
               "type": "meta"
             }
           ],
-          "text": "Image of a lion:",
+          "text": "Image of a dice:",
           "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": null,
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
         }
       ],
       "type": "paragraph"
@@ -1176,7 +1195,28 @@
               "type": "meta"
             }
           ],
-          "text": "This is a paragraph with a  small inline image.",
+          "text": "This is a paragraph with a ",
+          "type": "text"
+        },
+        {
+          "attrs": {
+            "alt": null,
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
+        },
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": " small inline image.",
           "type": "text"
         }
       ],

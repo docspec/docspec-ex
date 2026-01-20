@@ -136,6 +136,29 @@
                 "id": "00000000-0000-0000-0000-000000000000"
               },
               "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "Abbildung 1 Buchcover CC BY 4.0, CC BY SA 4.0 Anstätt, K.; Bertagnolli, F., Schmidt, M. (2022)",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
             }
           ],
           "text": "Die Planspiele wurden vom Pforzheimer Institut für Industrial Ecology (INEC) veröffentlicht und im Rahmen eines vom Bundesumweltministerium geförderten Forschungsprojektes an der Hochschule Pforzheim entwickelt. Sie sind und nun als Open-Access-Buch verfügbar und stehen allen Interessierten kostenlos zur Verfügung. Es unterliegt der CC BY 4.0 Lizenz.",
@@ -195,7 +218,47 @@
               "type": "meta"
             }
           ],
+          "text": "Abbildung 2 Symbole helfen, sich im Buch zu orientieren, CC BY SA 4.0 Anstätt, K.; Bertagnolli, F., Schmidt, M. (2022)",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
           "text": "Planspiele als didaktische Methode zum Einstieg in ein Thema erweisen sich als effizient. Das hat auch die Evaluation vieler Testphasen innerhalb des Projektes ergeben. So wurden die Erwartungen der Teilnehmenden erfüllt und übererfüllt. Sie zeigten ein hohes Verständnis der jeweils im Spiel angewandten Methode und sahen Anknüpfungspotenziale zum Handeln im Unternehmen. Die Spieldurchführung hatte einen positiven Einfluss auf die Bereitschaft zur Umsetzung und auch die eigentliche Umsetzung von ressourceneffizienten Maßnahmen. Im Anschluss an die Spiele sprachen die Teilnehmenden mit ca. 40 Personen aus dem betrieblichen und privaten Umfeld, so dass sie zugleich eine Multiplikatorenfunktion übernahmen. Laut der befragten Unternehmen wurden im Schnitt ca. 20 Personen zusätzlich sensibilisiert.",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Abbildung 3 Beispiele veranschaulichen die Themen, CC BY SA 4.0 Anstätt, K.; Bertagnolli, F., Schmidt, M. (2022)",
           "type": "text"
         }
       ],
@@ -497,6 +560,26 @@
               "type": "meta"
             }
           ],
+          "text": "Abbildung 4 Didaktische Hinweise, wie hier die Raumplanung für das Planspiel, unterstützen Trainer*innen, CC BY SA 4.0 Anstätt, K.; Bertagnolli, F., Schmidt, M. (2022)",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
           "text": "Neben einer Einführung zum Thema „Planspiele und Ressourceneffizient“, einen Einblick in die Ergebnisse des Projekts sowie einer kurzen Ausführung zum Planspiel als didaktischer Methoden schließt sich die Vorstellung der jeweiligen Planspiele an. Die sechs Planspiele werden kapitelweise mit ausführlichen Spielleiterhandreichungen eröffnet. Die Handreichungen für Spielleiter führen thematisch und fundiert in die jeweiligen Methoden ein, beschreiben die anvisierte Zielgruppe sowie die Lernziele. Es folgt eine Übersicht über die Lernspielmaterialien sowie die Vorbereitung und die Einführung in das Planspiel. Beispiele veranschaulichen die jeweilige Spielidee und der Spielablauf wird detailliert beschrieben. ",
           "type": "text"
         }
@@ -546,8 +629,45 @@
               "type": "meta"
             }
           ],
+          "text": "Abbildung 5 Das Spielmaterial ist ansprechend gestaltet und dient zur Vorbereitung auf das Spiel , CC BY SA 4.0 Anstätt, K.; Bertagnolli, F., Schmidt, M. (2022)",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
           "text": "Abschließende Hinweise für Trainer*innen zur Reflexion und zum Transfer des Erlernten runden die Kapitel ab. Diese Phase ist für ein erfolgreiches Lernen im Sinne einer Kompetenzentwicklung wichtig. So gelingt Spielteilnehmenden die Übertragung der im Planspiel gewonnenen Erkenntnisse auf ihren Arbeitsalltag.",
           "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "attrs": {
+            "alt": null,
+            "assetId": "00000000-0000-0000-0000-000000000000",
+            "decorative": false,
+            "id": "00000000-0000-0000-0000-000000000000"
+          },
+          "type": "image"
         }
       ],
       "type": "paragraph"
@@ -596,6 +716,26 @@
             }
           ],
           "text": "\n",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
+            }
+          ],
+          "text": "Abbildung 7 Die Rahmenbedingungen zum Spiel geben einen guten Überblick zur Vorbereitung, CC BY SA 4.0 Anstätt, K.; Bertagnolli, F., Schmidt, M. (2022)",
           "type": "text"
         }
       ],

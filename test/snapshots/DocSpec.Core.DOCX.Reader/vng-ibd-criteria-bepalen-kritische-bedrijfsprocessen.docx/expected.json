@@ -1163,6 +1163,118 @@
           "assetId": "00000000-0000-0000-0000-000000000000"
         },
         "type": "https://alpha.docspec.io/Image"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Nassaulaan 12",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "2514 JS Den Haag",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "CERT: 070 204 55 11 (9:00 – 17:00 ma – vr)",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "CERT 24x7: Piketnummer (instructies via voicemail)",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "info@IBDGemeenten.nl",
+            "type": "https://alpha.docspec.io/Link",
+            "uri": "mailto:info@IBDGemeenten.nl"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": " / ",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "incident@IBDGemeenten.nl",
+            "type": "https://alpha.docspec.io/Link",
+            "uri": "mailto:incident@IBDGemeenten.nl"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": " ",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "textColor": {
+                "hex": "#C4BC96"
+              }
+            },
+            "text": " ",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Kijk voor meer informatie op:",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "textAlignment": "center",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "www.informatiebeveiligingsdienst.nl",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "textAlignment": "center",
+        "type": "https://alpha.docspec.io/Paragraph"
       }
     ],
     "id": "00000000-0000-0000-0000-000000000000",

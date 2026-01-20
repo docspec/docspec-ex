@@ -25,7 +25,7 @@ defmodule DocSpec.Core.DOCX.Reader do
   alias DocSpec.Core.DOCX.Reader.Files
   alias DocSpec.Core.DOCX.Reader.Zip
 
-  @type t :: %Reader{
+  @type t :: %__MODULE__{
           files: Files.t(),
           core_properties: Files.CoreProperties.t(),
           document: Files.Document.t(),

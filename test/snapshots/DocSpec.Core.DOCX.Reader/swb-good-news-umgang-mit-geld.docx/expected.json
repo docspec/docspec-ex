@@ -156,6 +156,25 @@
         "children": [
           {
             "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "bold": true,
+              "italic": true,
+              "textColor": {
+                "hex": "#6249AB"
+              }
+            },
+            "text": "Beim vorliegenden Material handelt es sich um einen Entwurf, der für den Schulpiloten der Stiftung für Wirtschaftsbildung als Prototyp entwickelt wurde und im Schuljahr 2024/25 evaluiert wird. Wenn du Anregungen zum Material hast, freuen wir uns sehr über deine Rückmeldung an: office@wirtschaft-erleben.at.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "textAlignment": "justify",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
             "text": "Inhalt",
             "type": "https://alpha.docspec.io/Text"
           }
@@ -1759,7 +1778,81 @@
         "type": "https://alpha.docspec.io/Heading"
       },
       {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "source": {
+          "assetId": "00000000-0000-0000-0000-000000000000"
+        },
+        "type": "https://alpha.docspec.io/Image"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Für Personen bezahlen, die später kommen",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 4,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Wir leben in einer Gesellschaft, in der Geld ein alltäglicher Begleiter ist. Manche haben mehr, manche weniger davon. Da kam man in Neapel schon vor über 100 Jahren auf die Idee des „caffè sospeso“ – des aufgeschobenen Kaffees.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "textAlignment": "justify",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Die Idee dahinter ist folgende: Eine Person bezahlt für z. B. den obengenannten Kaffee, Brot oder eine Dienstleistung. Sie konsumiert aber nicht selbst, sondern eine andere Person, die sich diese Dinge nicht so einfach leisten kann – oder einfach Freude daran hat. Damit tut man anderen etwas Gutes, die man vielleicht gar nicht kennt und niemals treffen wird. ",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "textAlignment": "justify",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "„Hey“ (früher „Brot am Haken“) geht diesem Prinzip nach und stellt in deutschen Städten – allen voran Hamburg und München – Holzbretter auf die Theken von Bäckereien, Cafés und Friseurläden. Andere Geschäfte machen ebenso mit. In Österreich kann man ein solches Holzbrett bisher nur in einer Grazer Bäckerei finden. In Betrieben, die an der Initiative „hey“ teilnehmen, kann man z. B. Gebäck kaufen und hängt den Kassenbon an einen Haken auf dem Holzbrett. Eine andere Person kann diesen Bon einlösen und bekommt das bereits bezahlte Geschenk. Eine Sache, bei der man mit wenigen Euros eine Menge Gutes tun kann. Das schöne Gefühl gibt es gratis dazu.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "textAlignment": "justify",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Quelle: hey-spendierbrett.de (2020) Unser Ursprung. https://www.hey-spendierbrett.de/ueberuns. Zugegriffen am 17.01.2024. (angepasst)",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "textAlignment": "justify",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
         "alternativeText": "Ein Bild, das Text, Screenshot, Quadrat, Schrift enthält.\n\nAutomatisch generierte Beschreibung",
+        "id": "00000000-0000-0000-0000-000000000000",
+        "source": {
+          "assetId": "00000000-0000-0000-0000-000000000000"
+        },
+        "type": "https://alpha.docspec.io/Image"
+      },
+      {
         "id": "00000000-0000-0000-0000-000000000000",
         "source": {
           "assetId": "00000000-0000-0000-0000-000000000000"
@@ -1777,6 +1870,13 @@
         "id": "00000000-0000-0000-0000-000000000000",
         "level": 3,
         "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "source": {
+          "assetId": "00000000-0000-0000-0000-000000000000"
+        },
+        "type": "https://alpha.docspec.io/Image"
       },
       {
         "children": [
@@ -1801,6 +1901,81 @@
         "children": [
           {
             "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Geldlose Gesellschaft im Kleinen",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 4,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Second-Hand boomt! Was früher etwas für „Ökos“ war, erfreut sich in Zeiten erhöhter Aufmerksamkeit für den Klimawandel großer Beliebtheit. Wer nachhaltig leben will, überlegt sich vielleicht: Muss ich mir immer etwas Neues kaufen, wenn das erstens teurer und zweitens gar nicht nötig ist? Immerhin gibt es gute Alternativen.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Kost-Nix-Läden (in Deutschland auch unter dem Namen Umsonst-Läden bekannt) sind an vielen Orten Österreichs zu finden, z. B. in Innsbruck, Graz oder Wien, aber auch außerhalb der großen Städte. Wie es der Name verrät, kann man hier Kleidung, Bücher, Spielzeug etc. mitnehmen, ohne dafür bezahlen zu müssen. Kund:innen solcher Geschäfte haben unterschiedliche Gründe, hier „einzukaufen“. Manche können Geld sparen, das sie womöglich für Lebensmittel dringend benötigen; andere wollen nicht alles neu kaufen und damit eine Wegwerfgesellschaft unterstützen, in der z. B. noch zu gebrauchende Kleidung in der Tonne landet. Kund:innen werden hier schnell einmal zu Lieferant:innen und bringen z. B. Bücher in den Laden, die dann von anderen wieder mitgenommen werden. ",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Nicht zuletzt sind Kost-Nix-Läden soziale Treffpunkte, an denen Menschen Ideen austauschen und darüber diskutieren, wie Gesellschaft ohne Geld funktionieren kann. Und ganz nebenbei schonen sie damit die Umwelt.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Quelle: derstandard.at (2007) Geldlose Gesellschaft im Kleinen. ",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "https://www.derstandard.at/story/3009226/geldlose-gesellschaft-im-kleinen. Zugegriffen am 14.01.2024",
+            "type": "https://alpha.docspec.io/Link",
+            "uri": "https://www.derstandard.at/story/3009226/geldlose-gesellschaft-im-kleinen.%20Zugegriffen%20am%2014.01.2024"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": ". (angepasst)",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "textAlignment": "left",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "source": {
+          "assetId": "00000000-0000-0000-0000-000000000000"
+        },
+        "type": "https://alpha.docspec.io/Image"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
             "text": "M4: Good News, Nummer 3 – Geschenke an die Allgemeinheit",
             "type": "https://alpha.docspec.io/Text"
           }
@@ -1810,7 +1985,67 @@
         "type": "https://alpha.docspec.io/Heading"
       },
       {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "source": {
+          "assetId": "00000000-0000-0000-0000-000000000000"
+        },
+        "type": "https://alpha.docspec.io/Image"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Angewidert von seinem Milliardenvermögen: Patagonia-Gründer überträgt Outdoorfirma an gemeinnützige Stiftungen",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 4,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Das Bekleidungsunternehmen Patagonia ist seit seiner Gründung im Jahr 1973 zu einer Milliardenmarke geworden. Und das, obwohl – oder gerade weil – der Anspruch des Gründers Yvon Chouinard jener war, sich von der Fast-Fashion-Industrie abzusetzen. Ziel war es, Kleidung mit langer Haltbarkeit herzustellen und Konsument:innen dazu zu bewegen, auf unnötige Käufe zu verzichten. So stellte Chouinard etwa Leute ein, die mit Werkstatt-Campern durch verschiedene Orte fuhren und beschädigte Outdoorkleidung wieder in Schuss brachten. Wenngleich auch Patagonia mit Werbekampagnen daran arbeitet, die eigenen Artikel zu verkaufen, wirkt das Unternehmen auf viele Menschen spätestens seit einer bedeutsamen Entscheidung der Unternehmensführung glaubwürdig.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Yvon Chouinard und sein Team stellten sich die Frage, wie es mit der Firma weitergehen sollte. Fortan sollte Patagonia in den Besitz und die Verantwortung gemeinnütziger Stiftungen übergehen. Laut eigenen Angaben soll mit dem Geld Umweltschutz betrieben werden, etwa der Schutz unberührter Landschaften. Auch Aktivismus im Klimaschutz wird damit unterstützt. Damit hat der über 80-jährige Chouinard für die Zeit nach ihm vorgesorgt. Er fand auch ein Mittel gegen die Depression des immer spürbareren Klimawandels: eigenes Handeln.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Quelle: da Silva, Gioia (15.9.2022). Angewidert von seinem Milliardenvermögen: Patagonia-Gründer überträgt Outdoorfirma an gemeinnützige Stiftungen. https://www.nzz.ch/technologie/kampf-gegen-klimawandel-patagonia-gruender-uebertraegt-outdoor-firma-an-gemeinnuetzige-stiftungen-ld.1702849. Zugegriffen am 22.01.2023.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "textAlignment": "left",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
         "alternativeText": "Ein Bild, das Text, Screenshot, Quadrat, Schrift enthält.\n\nAutomatisch generierte Beschreibung",
+        "id": "00000000-0000-0000-0000-000000000000",
+        "source": {
+          "assetId": "00000000-0000-0000-0000-000000000000"
+        },
+        "type": "https://alpha.docspec.io/Image"
+      },
+      {
         "id": "00000000-0000-0000-0000-000000000000",
         "source": {
           "assetId": "00000000-0000-0000-0000-000000000000"
@@ -1840,6 +2075,82 @@
         "children": [
           {
             "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "bold": true
+            },
+            "text": "Ergebnis:",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": " Was sind die zwei wichtigsten Informationen aus allen drei Nachrichten?",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "bold": true
+            },
+            "text": "Nummer 2:",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": " Kost-Nix-Läden – Wieso kommen Menschen in die Kost-Nix-Läden und welchen gesellschaftlichen Nutzen haben diese?",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "bold": true
+            },
+            "text": "Nummer 3:",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": " Geschenke an die Allgemeinheit – Zu welchem Zweck wurde Patagonia einer Stiftung übergeben und welche Vorteile hat das?",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "bold": true
+            },
+            "text": "Nummer 1:",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": " Aufgeschobener Kaffee – Welche Idee steckt hinter Initiativen wie „hey“ und wer kann mitmachen?",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
             "text": "M6: Good News – Portfolio",
             "type": "https://alpha.docspec.io/Text"
           }
@@ -1855,6 +2166,515 @@
           "assetId": "00000000-0000-0000-0000-000000000000"
         },
         "type": "https://alpha.docspec.io/Image"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "highlightColor": {
+                "hex": "#ffff00"
+              },
+              "textColor": {
+                "hex": "#8D82B1"
+              }
+            },
+            "text": "Aufgabe: Wandzeitung erstellen",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "level": 4,
+        "type": "https://alpha.docspec.io/Heading"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "highlightColor": {
+                "hex": "#ffff00"
+              }
+            },
+            "text": "Der richtige Umgang mit Geld betrifft alle – doch viele wissen nicht, wie sie den Überblick behalten. ",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "bold": true,
+              "highlightColor": {
+                "hex": "#ffff00"
+              }
+            },
+            "text": "Erstellt",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "highlightColor": {
+                "hex": "#ffff00"
+              }
+            },
+            "text": " eine Wandzeitung mit dem Titel",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "bold": true,
+              "highlightColor": {
+                "hex": "#ffff00"
+              }
+            },
+            "text": " „How to... Umgang mit Geld“",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "highlightColor": {
+                "hex": "#ffff00"
+              }
+            },
+            "text": ", die in der Schule ausgehängt und auch präsentiert werden soll (zum Beispiel anderen Klassen, Lehrer:innen, Direktor:in, ...).",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "bold": true,
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": "Bildet ",
+                    "type": "https://alpha.docspec.io/Text"
+                  },
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": "5er-Gruppen, in denen jeweils eines der folgenden Themen bearbeitet wird. ",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "styles": {
+                              "highlightColor": {
+                                "hex": "#ffff00"
+                              }
+                            },
+                            "text": "Konsumentscheidungen",
+                            "type": "https://alpha.docspec.io/Text"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/Paragraph"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/ListItem"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "styleType": "lower-alpha",
+                "type": "https://alpha.docspec.io/OrderedList"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "styles": {
+                              "highlightColor": {
+                                "hex": "#ffff00"
+                              }
+                            },
+                            "text": "Banken, Kredite und Verträge",
+                            "type": "https://alpha.docspec.io/Text"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/Paragraph"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/ListItem"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "styleType": "lower-alpha",
+                "type": "https://alpha.docspec.io/OrderedList"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "styles": {
+                              "highlightColor": {
+                                "hex": "#ffff00"
+                              }
+                            },
+                            "text": "Finanzprodukte: Aktien, Fonds, Krypto und Co.",
+                            "type": "https://alpha.docspec.io/Text"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/Paragraph"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/ListItem"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "styleType": "lower-alpha",
+                "type": "https://alpha.docspec.io/OrderedList"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "id": "00000000-0000-0000-0000-000000000000",
+                            "styles": {
+                              "highlightColor": {
+                                "hex": "#ffff00"
+                              }
+                            },
+                            "text": "Der „richtige“ Umgang mit Geld",
+                            "type": "https://alpha.docspec.io/Text"
+                          }
+                        ],
+                        "id": "00000000-0000-0000-0000-000000000000",
+                        "type": "https://alpha.docspec.io/Paragraph"
+                      }
+                    ],
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "type": "https://alpha.docspec.io/ListItem"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "styleType": "lower-alpha",
+                "type": "https://alpha.docspec.io/OrderedList"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "bold": true,
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": "Überlegt ",
+                    "type": "https://alpha.docspec.io/Text"
+                  },
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": "innerhalb der Gruppe, welche Inhalte zum Thema auf die Wandzeitung kommen sollen und ",
+                    "type": "https://alpha.docspec.io/Text"
+                  },
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "bold": true,
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": "verteilt",
+                    "type": "https://alpha.docspec.io/Text"
+                  },
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": " die Aufgaben. ",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "bold": true,
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": "Bearbeitet",
+                    "type": "https://alpha.docspec.io/Text"
+                  },
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": " den Teilbereich in Einzel- oder Partnerarbeit. ",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "bold": true,
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": "Besprecht ",
+                    "type": "https://alpha.docspec.io/Text"
+                  },
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": "eure Ergebnisse und",
+                    "type": "https://alpha.docspec.io/Text"
+                  },
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "bold": true,
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": " strukturiert ",
+                    "type": "https://alpha.docspec.io/Text"
+                  },
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": "den gesamten Themenbereich in der Gruppe (Was kommt an der Wand wohin?). ",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/OrderedList"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "bold": true,
+              "highlightColor": {
+                "hex": "#ffff00"
+              }
+            },
+            "text": "Klärt",
+            "type": "https://alpha.docspec.io/Text"
+          },
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "styles": {
+              "highlightColor": {
+                "hex": "#ffff00"
+              }
+            },
+            "text": " offene Fragen.",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "bold": true,
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": "Bringt ",
+                    "type": "https://alpha.docspec.io/Text"
+                  },
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": "die Wandzeitung zusammen mit den anderen Gruppen an einer gut sichtbaren Stelle in der Schule",
+                    "type": "https://alpha.docspec.io/Text"
+                  },
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "bold": true,
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": " an.",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "bold": true,
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": "Präsentiert ",
+                    "type": "https://alpha.docspec.io/Text"
+                  },
+                  {
+                    "id": "00000000-0000-0000-0000-000000000000",
+                    "styles": {
+                      "highlightColor": {
+                        "hex": "#ffff00"
+                      }
+                    },
+                    "text": "eure Wandzeitung einem ausgewählten Publikum.",
+                    "type": "https://alpha.docspec.io/Text"
+                  }
+                ],
+                "id": "00000000-0000-0000-0000-000000000000",
+                "type": "https://alpha.docspec.io/Paragraph"
+              }
+            ],
+            "id": "00000000-0000-0000-0000-000000000000",
+            "type": "https://alpha.docspec.io/ListItem"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "start": 5,
+        "type": "https://alpha.docspec.io/OrderedList"
       },
       {
         "alternativeText": "Ein Bild, das Clipart, Tierfigur, Säugetier, Cartoon enthält.\n\nAutomatisch generierte Beschreibung",
@@ -2018,6 +2838,17 @@
         ],
         "id": "00000000-0000-0000-0000-000000000000",
         "type": "https://alpha.docspec.io/UnorderedList"
+      },
+      {
+        "children": [
+          {
+            "id": "00000000-0000-0000-0000-000000000000",
+            "text": "Abbildung 1: Beispiel für eine Wandzeitung",
+            "type": "https://alpha.docspec.io/Text"
+          }
+        ],
+        "id": "00000000-0000-0000-0000-000000000000",
+        "type": "https://alpha.docspec.io/Paragraph"
       },
       {
         "children": [

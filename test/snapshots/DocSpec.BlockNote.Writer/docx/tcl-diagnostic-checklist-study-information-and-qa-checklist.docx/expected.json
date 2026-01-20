@@ -97,6 +97,21 @@
     "content": [
       {
         "styles": {
+          "bold": true,
+          "textColor": "green"
+        },
+        "text": "n/a",
+        "type": "text"
+      }
+    ],
+    "id": "00000000-0000-0000-0000-000000000000",
+    "props": {},
+    "type": "paragraph"
+  },
+  {
+    "content": [
+      {
+        "styles": {
           "textColor": "green"
         },
         "text": "        YESNO    UNSURENOT APPLICABLE",
@@ -183,7 +198,15 @@
               "type": "tableCell"
             },
             {
-              "content": [],
+              "content": [
+                {
+                  "styles": {
+                    "bold": true
+                  },
+                  "text": "n/a",
+                  "type": "text"
+                }
+              ],
               "id": "00000000-0000-0000-0000-000000000000",
               "props": {
                 "colspan": 1,
@@ -239,7 +262,15 @@
               "type": "tableCell"
             },
             {
-              "content": [],
+              "content": [
+                {
+                  "styles": {
+                    "bold": true
+                  },
+                  "text": "n/a",
+                  "type": "text"
+                }
+              ],
               "id": "00000000-0000-0000-0000-000000000000",
               "props": {
                 "colspan": 1,
@@ -289,7 +320,15 @@
               "type": "tableCell"
             },
             {
-              "content": [],
+              "content": [
+                {
+                  "styles": {
+                    "bold": true
+                  },
+                  "text": "n/a",
+                  "type": "text"
+                }
+              ],
               "id": "00000000-0000-0000-0000-000000000000",
               "props": {
                 "colspan": 1,
@@ -339,7 +378,15 @@
               "type": "tableCell"
             },
             {
-              "content": [],
+              "content": [
+                {
+                  "styles": {
+                    "bold": true
+                  },
+                  "text": "n/a",
+                  "type": "text"
+                }
+              ],
               "id": "00000000-0000-0000-0000-000000000000",
               "props": {
                 "colspan": 1,
@@ -389,7 +436,15 @@
               "type": "tableCell"
             },
             {
-              "content": [],
+              "content": [
+                {
+                  "styles": {
+                    "bold": true
+                  },
+                  "text": "n/a",
+                  "type": "text"
+                }
+              ],
               "id": "00000000-0000-0000-0000-000000000000",
               "props": {
                 "colspan": 1,
@@ -439,7 +494,15 @@
               "type": "tableCell"
             },
             {
-              "content": [],
+              "content": [
+                {
+                  "styles": {
+                    "bold": true
+                  },
+                  "text": "n/a",
+                  "type": "text"
+                }
+              ],
               "id": "00000000-0000-0000-0000-000000000000",
               "props": {
                 "colspan": 1,
@@ -489,7 +552,15 @@
               "type": "tableCell"
             },
             {
-              "content": [],
+              "content": [
+                {
+                  "styles": {
+                    "bold": true
+                  },
+                  "text": "n/a",
+                  "type": "text"
+                }
+              ],
               "id": "00000000-0000-0000-0000-000000000000",
               "props": {
                 "colspan": 1,
@@ -539,7 +610,15 @@
               "type": "tableCell"
             },
             {
-              "content": [],
+              "content": [
+                {
+                  "styles": {
+                    "bold": true
+                  },
+                  "text": "n/a",
+                  "type": "text"
+                }
+              ],
               "id": "00000000-0000-0000-0000-000000000000",
               "props": {
                 "colspan": 1,
@@ -589,7 +668,15 @@
               "type": "tableCell"
             },
             {
-              "content": [],
+              "content": [
+                {
+                  "styles": {
+                    "bold": true
+                  },
+                  "text": "n/a",
+                  "type": "text"
+                }
+              ],
               "id": "00000000-0000-0000-0000-000000000000",
               "props": {
                 "colspan": 1,
@@ -639,7 +726,15 @@
               "type": "tableCell"
             },
             {
-              "content": [],
+              "content": [
+                {
+                  "styles": {
+                    "bold": true
+                  },
+                  "text": "n/a",
+                  "type": "text"
+                }
+              ],
               "id": "00000000-0000-0000-0000-000000000000",
               "props": {
                 "colspan": 1,
@@ -695,7 +790,15 @@
               "type": "tableCell"
             },
             {
-              "content": [],
+              "content": [
+                {
+                  "styles": {
+                    "bold": true
+                  },
+                  "text": "n/a",
+                  "type": "text"
+                }
+              ],
               "id": "00000000-0000-0000-0000-000000000000",
               "props": {
                 "colspan": 1,
@@ -751,7 +854,15 @@
               "type": "tableCell"
             },
             {
-              "content": [],
+              "content": [
+                {
+                  "styles": {
+                    "bold": true
+                  },
+                  "text": "n/a",
+                  "type": "text"
+                }
+              ],
               "id": "00000000-0000-0000-0000-000000000000",
               "props": {
                 "colspan": 1,
@@ -807,7 +918,15 @@
               "type": "tableCell"
             },
             {
-              "content": [],
+              "content": [
+                {
+                  "styles": {
+                    "bold": true
+                  },
+                  "text": "n/a",
+                  "type": "text"
+                }
+              ],
               "id": "00000000-0000-0000-0000-000000000000",
               "props": {
                 "colspan": 1,

@@ -130,6 +130,29 @@
                 "id": "00000000-0000-0000-0000-000000000000"
               },
               "type": "meta"
+            },
+            {
+              "type": "bold"
+            }
+          ],
+          "text": "n/a",
+          "type": "text"
+        }
+      ],
+      "type": "paragraph"
+    },
+    {
+      "attrs": {
+        "id": "00000000-0000-0000-0000-000000000000"
+      },
+      "content": [
+        {
+          "marks": [
+            {
+              "attrs": {
+                "id": "00000000-0000-0000-0000-000000000000"
+              },
+              "type": "meta"
             }
           ],
           "text": "        YESNO    UNSURENOT APPLICABLE",
@@ -359,6 +382,29 @@
                     }
                   ],
                   "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "n/a",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
                 }
               ],
               "type": "tableCell"
@@ -526,6 +572,29 @@
                     }
                   ],
                   "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "n/a",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
                 }
               ],
               "type": "tableCell"
@@ -670,6 +739,29 @@
                         "id": "00000000-0000-0000-0000-000000000000"
                       },
                       "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "n/a",
+                      "type": "text"
                     }
                   ],
                   "type": "paragraph"
@@ -820,6 +912,29 @@
                     }
                   ],
                   "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "n/a",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
                 }
               ],
               "type": "tableCell"
@@ -964,6 +1079,29 @@
                         "id": "00000000-0000-0000-0000-000000000000"
                       },
                       "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "n/a",
+                      "type": "text"
                     }
                   ],
                   "type": "paragraph"
@@ -1114,6 +1252,29 @@
                     }
                   ],
                   "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "n/a",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
                 }
               ],
               "type": "tableCell"
@@ -1258,6 +1419,29 @@
                         "id": "00000000-0000-0000-0000-000000000000"
                       },
                       "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "n/a",
+                      "type": "text"
                     }
                   ],
                   "type": "paragraph"
@@ -1408,6 +1592,29 @@
                     }
                   ],
                   "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "n/a",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
                 }
               ],
               "type": "tableCell"
@@ -1552,6 +1759,29 @@
                         "id": "00000000-0000-0000-0000-000000000000"
                       },
                       "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "n/a",
+                      "type": "text"
                     }
                   ],
                   "type": "paragraph"
@@ -1702,6 +1932,29 @@
                     }
                   ],
                   "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "n/a",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
                 }
               ],
               "type": "tableCell"
@@ -1846,6 +2099,29 @@
                         "id": "00000000-0000-0000-0000-000000000000"
                       },
                       "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "n/a",
+                      "type": "text"
                     }
                   ],
                   "type": "paragraph"
@@ -1996,6 +2272,29 @@
                     }
                   ],
                   "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "n/a",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
                 }
               ],
               "type": "tableCell"
@@ -2143,6 +2442,29 @@
                     }
                   ],
                   "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "n/a",
+                      "type": "text"
+                    }
+                  ],
+                  "type": "paragraph"
                 }
               ],
               "type": "tableCell"
@@ -2287,6 +2609,29 @@
                         "id": "00000000-0000-0000-0000-000000000000"
                       },
                       "type": "image"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "attrs": {
+                    "id": "00000000-0000-0000-0000-000000000000"
+                  },
+                  "content": [
+                    {
+                      "marks": [
+                        {
+                          "attrs": {
+                            "id": "00000000-0000-0000-0000-000000000000"
+                          },
+                          "type": "meta"
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "n/a",
+                      "type": "text"
                     }
                   ],
                   "type": "paragraph"
