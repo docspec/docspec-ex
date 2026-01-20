@@ -17,7 +17,7 @@ defmodule DocSpec.Core.EPUB.Writer.ZIP do
 
   @prolog [version: "1.0", encoding: "UTF-8"]
 
-  @otp_version :erlang.system_info(:otp_release) |> List.to_integer()
+  @otp_version String.to_integer(System.otp_release())
 
   @zip_opts [
               compress: [
