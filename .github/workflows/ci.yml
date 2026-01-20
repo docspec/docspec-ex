@@ -14,9 +14,10 @@ jobs:
     strategy:
       matrix:
         elixir: ['1.18', '1.19']
-        otp: ['26', '27', '28']
+        otp: ['25', '26', '27', '28']
         exclude:
           - { elixir: '1.18', otp: '28' }
+          - { elixir: '1.19', otp: '25' }
     steps:
       - uses: actions/checkout@v4
       - uses: erlef/setup-beam@v1
@@ -45,7 +46,10 @@ jobs:
       - name: Install dependencies
         run: mix deps.get
 
+      # Only check formatting on 1.19+ due to `inputs --` exclude syntax in .formatter.exs
+      # See: https://hexdocs.pm/mix/Mix.Tasks.Format.html#module-formatting-options
       - name: Check code format
+        if: matrix.elixir == '1.19'
         run: mix format --check-formatted
 
       - name: Run Credo

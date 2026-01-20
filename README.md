@@ -37,6 +37,8 @@ end
 - Elixir ~> 1.18
 - OTP >= 25 (OTP >= 27 highly recommended for EPUB conformity)
 
+We roughly follow [Elixir's support cycle](https://hexdocs.pm/elixir/compatibility-and-deprecations.html) for Elixir and OTP version support.
+
 ## Usage
 
 ### Convert DOCX to HTML
