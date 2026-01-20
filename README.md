@@ -32,6 +32,11 @@ def deps do
 end
 ```
 
+## Requirements
+
+- Elixir ~> 1.18
+- OTP >= 25 (OTP >= 27 highly recommended for EPUB conformity)
+
 ## Usage
 
 ### Convert DOCX to HTML

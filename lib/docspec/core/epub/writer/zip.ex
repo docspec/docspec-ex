@@ -17,20 +17,21 @@ defmodule DocSpec.Core.EPUB.Writer.ZIP do
 
   @prolog [version: "1.0", encoding: "UTF-8"]
 
+  @otp_version :erlang.system_info(:otp_release) |> List.to_integer()
+
   @zip_opts [
-    compress: [
-      ~c".css",
-      ~c".js",
-      ~c".html",
-      ~c".xhtml",
-      ~c".ncx",
-      ~c".opf",
-      ~c".jpg",
-      ~c".png",
-      ~c".xml"
-    ],
-    extra: []
-  ]
+              compress: [
+                ~c".css",
+                ~c".js",
+                ~c".html",
+                ~c".xhtml",
+                ~c".ncx",
+                ~c".opf",
+                ~c".jpg",
+                ~c".png",
+                ~c".xml"
+              ]
+            ] ++ if(@otp_version >= 27, do: [extra: []], else: [])
 
   @container_xml """
   <?xml version="1.0" encoding="UTF-8"?>
