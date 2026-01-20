@@ -1,3 +1,7 @@
+# GitHub language statistics
+test/_snapshots/** linguist-generated
+test/snapshots/** linguist-generated
+
 # DOCX files (test fixtures)
 *.docx filter=lfs diff=lfs merge=lfs -text
 
