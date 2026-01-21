@@ -5,7 +5,14 @@
   "packages": {
     ".": {
       "release-type": "elixir",
-      "package-name": "docspec"
+      "package-name": "docspec",
+      "extra-files": [
+        {
+          "type": "yaml",
+          "path": "publiccode.yml",
+          "jsonpath": "$.softwareVersion"
+        }
+      ]
     }
   }
 }
