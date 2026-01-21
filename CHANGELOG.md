@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [1.3.2](https://github.com/docspec/docspec-ex/compare/1.3.1...1.3.2) (2026-01-21)
+
+
+### Bug Fixes
+
+* install Zig 0.15.2 via direct download ([797c48f](https://github.com/docspec/docspec-ex/commit/797c48f9c8afba1aa997df029354ea5411b2f38f))
+* install Zig 0.15.2 via direct download ([bc65363](https://github.com/docspec/docspec-ex/commit/bc65363db563088f6cfe7ee2a79ae5201d78191a))
+
 ## [1.3.1](https://github.com/docspec/docspec-ex/compare/1.3.0...1.3.1) (2026-01-21)
 
 
