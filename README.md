@@ -6,7 +6,7 @@ DocSpec provides a universal document representation with readers and writers fo
 
 ## Usage
 
-This application can be used as an Elixir libray or directly on the command line.
+This application can be used as an Elixir library or directly on the command line.
 
 ### CLI (Command-Line)
 
