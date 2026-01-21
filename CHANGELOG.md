@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [1.3.1](https://github.com/docspec/docspec-ex/compare/1.3.0...1.3.1) (2026-01-21)
+
+
+### Bug Fixes
+
+* use Zig 0.15.2 as required by Burrito 1.5.0 ([50aabd7](https://github.com/docspec/docspec-ex/commit/50aabd70b6ba18b8da10ee4496d26deb0076e067))
+
 ## [1.3.0](https://github.com/docspec/docspec-ex/compare/1.2.0...1.3.0) (2026-01-21)
 
 
