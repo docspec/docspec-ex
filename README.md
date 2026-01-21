@@ -27,7 +27,7 @@ Add `docspec` to your dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:docspec, "~> 0.1"}
+    {:docspec, "~> 1.1"}
   ]
 end
 ```
