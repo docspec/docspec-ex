@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [1.3.4](https://github.com/docspec/docspec-ex/compare/1.3.3...1.3.4) (2026-01-21)
+
+
+### Bug Fixes
+
+* build for binaries ([123c9df](https://github.com/docspec/docspec-ex/commit/123c9df69ded570c9bc8192383f419da222aad4a))
+
 ## [1.3.3](https://github.com/docspec/docspec-ex/compare/1.3.2...1.3.3) (2026-01-21)
 
 
