@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [1.2.0](https://github.com/docspec/docspec-ex/compare/1.1.0...1.2.0) (2026-01-21)
+
+
+### Features
+
+* CLI for document conversion ([490b75f](https://github.com/docspec/docspec-ex/commit/490b75f315ff796a4c854625a78e08e7274b9ad8))
+
 ## [1.1.0](https://github.com/docspec/docspec-ex/compare/1.0.0...1.1.0) (2026-01-20)
 
 

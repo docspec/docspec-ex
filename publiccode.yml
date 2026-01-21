@@ -1,29 +1,24 @@
-# https://yml.publiccode.tools/schema/
-publiccodeYmlVersion: "0.5"
-
+publiccodeYmlVersion: '0.5'
 name: DocSpec
 url: https://github.com/docspec/docspec-ex
-softwareVersion: "1.1.0"
-releaseDate: "2026-01-20"
+softwareVersion: 1.2.0
+releaseDate: '2026-01-20'
 platforms:
   - elixir
-
 categories:
   - document-management
   - content-management
-
 developmentStatus: stable
-
 softwareType: library
-
 description:
   en:
     shortDescription: >-
-      Document conversion library preserving semantic structure and accessibility
+      Document conversion library preserving semantic structure and
+      accessibility
     longDescription: >-
       DocSpec is an Elixir library providing a universal document representation
-      with readers and writers for multiple formats. It enables document conversion
-      while preserving semantic structure and accessibility features.
+      with readers and writers for multiple formats. It enables document
+      conversion while preserving semantic structure and accessibility features.
 
 
       Readers: DOCX (Microsoft Word), Tiptap JSON.
@@ -40,32 +35,26 @@ description:
       - Validate document accessibility
       - Preserve semantic document structure
       - Universal intermediate representation
-
 organisation:
   name: DocSpec
   uri: https://github.com/docspec
-
 legal:
   license: EUPL-1.2
   mainCopyrightOwner: Stephan Meijer
-
 usedBy:
   - La Suite Numérique Docs
-
 maintenance:
   type: community
   contacts:
     - name: Stephan Meijer
       email: me@stephanmeijer.com
-
 localisation:
   localisationReady: false
   availableLanguages:
     - en
-
 dependsOn:
   open:
     - name: Elixir
-      versionMin: "1.18"
+      versionMin: '1.18'
     - name: Erlang/OTP
-      versionMin: "25"
+      versionMin: '25'
