@@ -4,22 +4,26 @@ A document specification and conversion library for Elixir.
 
 DocSpec provides a universal document representation with readers and writers for multiple formats, enabling document conversion while preserving semantic structure and accessibility.
 
-## CLI Usage
+## Usage
+
+This application can be used as an Elixir libray or directly on the command line.
+
+### CLI (Command-Line)
 
 DocSpec includes a CLI for document conversion, available as both an escript (requires Erlang/OTP) and native binaries (standalone, no dependencies).
 
 ```bash
 # Convert DOCX to HTML
-docspec convert -i document.docx -o output.html
+$ docspec convert -i document.docx -o output.html
 
 # Convert DOCX to EPUB
-docspec convert -i document.docx -o book.epub
+$ docspec convert -i document.docx -o book.epub
 
 # Convert DOCX to BlockNote JSON
-docspec convert -i document.docx -o output.json --format blocknote
+$ docspec convert -i document.docx -o output.json --format blocknote
 
 # Convert Tiptap JSON to HTML
-docspec convert -i content.json -o output.html --input-format tiptap
+$ docspec convert -i content.json -o output.html --input-format tiptap
 ```
 
 ### Installation
@@ -27,8 +31,8 @@ docspec convert -i content.json -o output.html --input-format tiptap
 #### Arch Linux (AUR)
 
 ```bash
-paru -S docspec-bin
-# Or with yay: `yay -S docspec-bin`
+$ paru -S docspec-bin
+# or with yay: yay -S docspec-bin
 ```
 
 #### Pre-built Binaries
@@ -58,7 +62,7 @@ BURRITO_BUILD=1 MIX_ENV=prod mix release
 
 Binaries are output to `burrito_out/`.
 
-## Library Usage
+## Library
 
 ### Installation
 
@@ -67,7 +71,7 @@ Add `docspec` to your dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:docspec, "~> 1.1"}
+    {:docspec, "~> 1.3"}
   ]
 end
 ```
