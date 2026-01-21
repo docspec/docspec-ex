@@ -16,6 +16,7 @@ defmodule DocSpec.MixProject do
       elixirc_options: [warnings_as_errors: true],
       test_coverage: [tool: ExCoveralls],
       test_ignore_filters: [~r/test\/snapshots\//],
+      escript: escript(),
 
       # Docs
       name: "DocSpec",
@@ -63,6 +64,13 @@ defmodule DocSpec.MixProject do
 
   defp elixirc_paths(:test), do: ["lib", "test/support"]
   defp elixirc_paths(_), do: ["lib"]
+
+  defp escript do
+    [
+      main_module: DocSpec.CLI,
+      name: "docspec"
+    ]
+  end
 
   def application do
     [
