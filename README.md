@@ -70,6 +70,64 @@ File.write!("document.epub", epub_binary)
 findings = DocSpec.Core.Validation.Writer.validate(spec)
 ```
 
+## Command-Line Interface
+
+DocSpec includes a CLI for document conversion.
+
+### Building the CLI
+
+```bash
+mix escript.build
+```
+
+This creates a `docspec` executable in the project root.
+
+### CLI Usage
+
+```bash
+docspec convert -i INPUT -o OUTPUT [OPTIONS]
+docspec --version
+docspec --help
+```
+
+**Options:**
+
+| Option | Description |
+|--------|-------------|
+| `-i, --input FILE` | Input file (required) |
+| `-o, --output FILE` | Output file (required) |
+| `-I, --input-format FORMAT` | Override input format: `docx`, `tiptap` |
+| `-f, --format FORMAT` | Override output format: `html`, `epub`, `tiptap`, `blocknote` |
+
+### CLI Examples
+
+```bash
+# Convert DOCX to HTML
+docspec convert -i document.docx -o output.html
+
+# Convert DOCX to EPUB
+docspec convert -i document.docx -o book.epub
+
+# Convert DOCX to BlockNote JSON
+docspec convert -i document.docx -o output.json --format blocknote
+
+# Convert Tiptap JSON to HTML
+docspec convert -i content.json -o output.html --input-format tiptap
+```
+
+### Format Detection
+
+Formats are automatically detected by file extension:
+
+| Extension | Input Format | Output Format |
+|-----------|--------------|---------------|
+| `.docx` | DOCX | - |
+| `.json` | Tiptap | Tiptap |
+| `.html`, `.htm` | - | HTML |
+| `.epub` | - | EPUB |
+
+Use `--input-format` or `--format` to override detection when needed.
+
 ## Documentation
 
 Documentation is available at [HexDocs](https://hexdocs.pm/docspec).
