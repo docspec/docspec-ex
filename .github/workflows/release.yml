@@ -69,9 +69,9 @@ jobs:
           otp-version: '27'
 
       - name: Install Zig
-        uses: mlugg/setup-zig@v1
-        with:
-          version: 0.13.0
+        run: |
+          curl -sSfL https://ziglang.org/download/0.15.2/zig-linux-x86_64-0.15.2.tar.xz | tar -xJ
+          echo "$PWD/zig-linux-x86_64-0.15.2" >> $GITHUB_PATH
 
       - name: Install build dependencies
         run: sudo apt-get update && sudo apt-get install -y xz-utils p7zip-full
