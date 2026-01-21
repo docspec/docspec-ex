@@ -1,7 +1,7 @@
 defmodule DocSpec.MixProject do
   use Mix.Project
 
-  @version "1.3.2"
+  @version "1.3.3"
   @source_url "https://github.com/docspec/docspec-ex"
 
   def project do

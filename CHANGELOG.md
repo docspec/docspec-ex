@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [1.3.3](https://github.com/docspec/docspec-ex/compare/1.3.2...1.3.3) (2026-01-21)
+
+
+### Bug Fixes
+
+* url to ziglang ([b100f90](https://github.com/docspec/docspec-ex/commit/b100f90858be237294e41834765f9c5603eab8ff))
+* url to ziglang ([dabc78a](https://github.com/docspec/docspec-ex/commit/dabc78a347f73c60ae6e076630a7183ad06a8730))
+
 ## [1.3.2](https://github.com/docspec/docspec-ex/compare/1.3.1...1.3.2) (2026-01-21)
 
 
