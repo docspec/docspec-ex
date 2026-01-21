@@ -72,15 +72,34 @@ findings = DocSpec.Core.Validation.Writer.validate(spec)
 
 ## Command-Line Interface
 
-DocSpec includes a CLI for document conversion.
+DocSpec includes a CLI for document conversion, available as both an escript (requires Erlang/OTP) and native binaries (standalone, no dependencies).
 
-### Building the CLI
+### Pre-built Binaries
+
+Download standalone binaries from [GitHub Releases](https://github.com/docspec/docspec-ex/releases). Available for:
+
+- Linux x86_64 (glibc and musl)
+- Linux aarch64 (glibc and musl)
+- macOS x86_64
+- macOS aarch64 (Apple Silicon)
+- Windows x86_64
+
+### Building from Source
+
+**Escript** (requires Erlang/OTP on target system):
 
 ```bash
 mix escript.build
 ```
 
-This creates a `docspec` executable in the project root.
+**Native binaries** (standalone, via [Burrito](https://github.com/burrito-elixir/burrito)):
+
+```bash
+MIX_ENV=prod mix deps.get
+BURRITO_BUILD=1 MIX_ENV=prod mix release
+```
+
+Binaries are output to `burrito_out/`.
 
 ### CLI Usage
 

@@ -17,6 +17,7 @@ defmodule DocSpec.MixProject do
       test_coverage: [tool: ExCoveralls],
       test_ignore_filters: [~r/test\/snapshots\//],
       escript: escript(),
+      releases: releases(),
 
       # Docs
       name: "DocSpec",
@@ -68,13 +69,35 @@ defmodule DocSpec.MixProject do
   defp escript do
     [
       main_module: DocSpec.CLI,
-      name: "docspec"
+      name: "docspec",
+      path: "dist/docspec-escript"
+    ]
+  end
+
+  defp releases do
+    [
+      docspec: [
+        applications: [docspec: :permanent],
+        steps: [:assemble, &Burrito.wrap/1],
+        burrito: [
+          targets: [
+            linux_x86_64: [os: :linux, cpu: :x86_64],
+            linux_aarch64: [os: :linux, cpu: :aarch64],
+            linux_musl_x86_64: [os: :linux, cpu: :x86_64, libc: :musl],
+            linux_musl_aarch64: [os: :linux, cpu: :aarch64, libc: :musl],
+            macos_x86_64: [os: :darwin, cpu: :x86_64],
+            macos_aarch64: [os: :darwin, cpu: :aarch64],
+            windows_x86_64: [os: :windows, cpu: :x86_64]
+          ]
+        ]
+      ]
     ]
   end
 
   def application do
     [
-      extra_applications: [:logger]
+      extra_applications: [:logger],
+      mod: {DocSpec.Application, []}
     ]
   end
 
@@ -118,7 +141,10 @@ defmodule DocSpec.MixProject do
       {:mix_audit, "~> 2.1", only: [:dev, :test], runtime: false},
 
       # Docs
-      {:ex_doc, "~> 0.38", only: :dev, runtime: false}
+      {:ex_doc, "~> 0.38", only: :dev, runtime: false},
+
+      # Native binary packaging (prod-only, provides Burrito.Util.Args at runtime)
+      {:burrito, "~> 1.0", only: :prod}
     ]
   end
 end
