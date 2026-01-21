@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [1.3.0](https://github.com/docspec/docspec-ex/compare/1.2.0...1.3.0) (2026-01-21)
+
+
+### Features
+
+* Burrito native binaries ([2b611d5](https://github.com/docspec/docspec-ex/commit/2b611d5a89e55ee8512a8b19ac5118a70a6ee012))
+
 ## [1.2.0](https://github.com/docspec/docspec-ex/compare/1.1.0...1.2.0) (2026-01-21)
 
 
