@@ -74,6 +74,14 @@ findings = DocSpec.Core.Validation.Writer.validate(spec)
 
 DocSpec includes a CLI for document conversion, available as both an escript (requires Erlang/OTP) and native binaries (standalone, no dependencies).
 
+### Arch Linux (AUR)
+
+```bash
+paru -S docspec-bin
+```
+
+Or with yay: `yay -S docspec-bin`
+
 ### Pre-built Binaries
 
 Download standalone binaries from [GitHub Releases](https://github.com/docspec/docspec-ex/releases). Available for:
