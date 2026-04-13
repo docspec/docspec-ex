@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [1.3.5](https://github.com/docspec/docspec-ex/compare/1.3.4...1.3.5) (2026-04-13)
+
+
+### Bug Fixes
+
+* **deps:** update Mix dependencies ([bfdb725](https://github.com/docspec/docspec-ex/commit/bfdb72571cd749cf545dd7b6a93d9812cf548476))
+
 ## [1.3.4](https://github.com/docspec/docspec-ex/compare/1.3.3...1.3.4) (2026-01-21)
 
 
