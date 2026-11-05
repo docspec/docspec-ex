@@ -10,7 +10,10 @@ permissions:
 jobs:
   test:
     name: Elixir CI (Elixir ${{ matrix.elixir }} / OTP ${{ matrix.otp }})
-    runs-on: ubuntu-latest
+    runs-on: 9xx
+    env:
+      # setup-beam picks its OTP build from ImageOS, which self-hosted runners do not set.
+      ImageOS: ubuntu24
     strategy:
       fail-fast: false
       matrix:
