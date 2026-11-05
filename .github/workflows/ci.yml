@@ -81,7 +81,7 @@ jobs:
 
   blocknote:
     name: BlockNote JSON validation
-    runs-on: ubuntu-latest
+    runs-on: 9xx
     steps:
       - uses: actions/checkout@v4
       - uses: denoland/setup-deno@v2

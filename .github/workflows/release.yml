@@ -13,7 +13,7 @@ permissions:
 jobs:
   release-please:
     name: Release Please
-    runs-on: ubuntu-latest
+    runs-on: 9xx
     if: github.event.workflow_run.conclusion == 'success'
     outputs:
       release_created: ${{ steps.release.outputs.release_created }}
@@ -27,7 +27,10 @@ jobs:
 
   publish:
     name: Publish to Hex
-    runs-on: ubuntu-latest
+    runs-on: 9xx
+    env:
+      # setup-beam picks its OTP build from ImageOS, which self-hosted runners do not set.
+      ImageOS: ubuntu24
     needs: release-please
     if: needs.release-please.outputs.release_created == 'true'
     steps:
